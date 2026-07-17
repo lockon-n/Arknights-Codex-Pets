@@ -1,0 +1,19 @@
+# Local source and workspaces
+.env
+.source-local.json
+work/
+tmp/
+cache/
+
+# Source-art and renderer artifacts: keep outside this repository
+*.atlas
+*.skel
+source-animation-frames/
+look-candidates/
+look-source/
+node_modules/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
