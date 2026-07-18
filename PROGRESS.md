@@ -11,9 +11,9 @@ The collection will expand gradually in CN release order, with outfits maintaine
 
 | 类别 / Category | 已完成 / Done | 总数 / Total | 进度 / Progress |
 |---|---:|---:|---:|
-| 默认干员 / Default operators | 93 | 420 | 22.1% |
+| 默认干员 / Default operators | 103 | 420 | 24.5% |
 | 皮肤 / Outfits | 2 | 506 | 0.4% |
-| **合计 / Total** | **95** | **926** | **10.3%** |
+| **合计 / Total** | **105** | **926** | **11.3%** |
 
 上游目录快照 / Upstream catalog snapshot: `2026-07-13`, Ark-Models commit `3619a9a7268ec049dbbb30d1cff0ffa6d3fdf5ed` (`zh_CN`).
 
@@ -73,7 +73,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 古米 / Гум — `196_sunbr` — [package](pets/gummy)
 - [x] 嘉维尔 / Gavial — `187_ccheal` — [package](pets/gavial)
 - [x] 地灵 / Earthspirit — `183_skgoat` — [package](pets/earthspirit)
-- [ ] 坚雷 / Dur-nar — `260_durnar`
+- [x] 坚雷 / Dur-nar — `260_durnar` — [package](pets/dur-nar)
 - [x] 夜烟 / Haze — `141_nights` — [package](pets/haze)
 - [ ] 孑 / Jaye — `272_strong`
 - [ ] 安比尔 / Ambriel — `302_glaze`
@@ -88,7 +88,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 杰西卡 / Jessica — `235_jesica` — [package](pets/jessica)
 - [ ] 松果 / Pinecone — `440_pinecn`
 - [x] 格雷伊 / Greyy — `253_greyy` — [package](pets/greyy)
-- [ ] 桃金娘 / Myrtle — `151_myrtle`
+- [x] 桃金娘 / Myrtle — `151_myrtle` — [package](pets/myrtle)
 - [ ] 梅 / May — `133_mm`
 - [ ] 泡泡 / Bubble — `381_bubble`
 - [ ] 波登可 / Podenco — `258_podego`
@@ -101,7 +101,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 白雪 / ShiraYuki — `118_yuki` — [package](pets/shirayuki)
 - [ ] 石英 / Quartz — `4063_quartz`
 - [x] 砾 / Gravel — `237_gravel` — [package](pets/gravel)
-- [ ] 红云 / Vermeil — `190_clour`
+- [x] 红云 / Vermeil — `190_clour` — [package](pets/vermeil)
 - [x] 红豆 / Vigna — `290_vigna` — [package](pets/vigna)
 - [ ] 维荻 / Verdant — `4107_vrdant`
 - [x] 缠丸 / Matoimaru — `289_gyuki` — [package](pets/matoimaru)
@@ -109,7 +109,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 罗比菈塔 / Roberta — `484_robrta`
 - [x] 艾丝黛尔 / Estelle — `127_estell` — [package](pets/estelle)
 - [ ] 芳汀 / Arene — `271_spikes`
-- [ ] 苏苏洛 / Sussurro — `298_susuro`
+- [x] 苏苏洛 / Sussurro — `298_susuro` — [package](pets/sussurro)
 - [x] 蛇屠箱 / Cuora — `150_snakek` — [package](pets/cuora)
 - [ ] 褐果 / Chestnut — `4041_chnut`
 - [x] 角峰 / Matterhorn — `199_yak` — [package](pets/matterhorn)
@@ -200,7 +200,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 撷英调香师 / Perfumer the Distilled — 异格 / alternate — `1022_flwr2`
 - [ ] 断崖 / Ayerscarpe — `294_ayer`
 - [ ] 明椒 / Paprika — `4071_peper`
-- [ ] 星极 / Astesia — `274_astesi`
+- [x] 星极 / Astesia — `274_astesi` — [package](pets/astesia)
 - [ ] 星源 / Astgenne — `135_halo`
 - [ ] 晓歌 / Cantabile — `497_ctable`
 - [x] 普罗旺斯 / Provence — `145_prove` — [package](pets/provence)
@@ -213,7 +213,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 极光 / Aurora — `422_aurora`
 - [ ] 极境 / Elysium — `401_elysm`
 - [ ] 柏喙 / Bibeak — `252_bibeak`
-- [ ] 格劳克斯 / Glaucus — `326_glacus`
+- [x] 格劳克斯 / Glaucus — `326_glacus` — [package](pets/glaucus)
 - [x] 格拉尼 / Grani — `220_grani` — [package](pets/grani)
 - [ ] 桑葚 / Mulberry — `473_mberry`
 - [x] 梅尔 / Mayer — `242_otter` — [package](pets/mayer)
@@ -300,7 +300,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 铎铃 / Wind Chimes — `4083_chimes`
 - [ ] 铸铁 / Sideroca — `333_sidero`
 - [ ] 锡人 / Tin Man — `4151_tinman`
-- [ ] 锡兰 / Ceylon — `348_ceylon`
+- [x] 锡兰 / Ceylon — `348_ceylon` — [package](pets/ceylon)
 - [ ] 闪击 / Blitz — `457_blitz`
 - [ ] 阿兰娜 / Alanna — `4178_alanna`
 - [x] 阿米娅 / Amiya — `002_amiya` — [package](pets/amiya)
@@ -432,7 +432,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 贝洛内 / Bellone — `4037_demetr`
 - [ ] 赤刃明霄陈 / Ch'en the Dawnstreak — 异格 / alternate — `1050_chen3`
 - [ ] 赫德雷 / Hoederer — `4088_hodrer`
-- [ ] 赫拉格 / Hellagur — `188_helage`
+- [x] 赫拉格 / Hellagur — `188_helage` — [package](pets/hellagur)
 - [ ] 远牙 / Fartooth — `430_fartth`
 - [ ] 迷迭香 / Rosmontis — `391_rosmon`
 - [ ] 逻各斯 / Logos — `4133_logos`
@@ -445,7 +445,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 闪灵 / Shining — `147_shining` — [package](pets/shining)
 - [ ] 阿 / Aak — `225_haak`
 - [ ] 阿斯卡纶 / Ascalon — `4132_ascln`
-- [ ] 陈 / Ch'en — `010_chen`
+- [x] 陈 / Ch'en — `010_chen` — [package](pets/ch-en)
 - [ ] 隐德来希 / Entelechia — `4010_etlchi`
 - [ ] 霍尔海雅 / Ho'olheyak — `4027_heyak`
 - [ ] 风笛 / Bagpipe — `222_bpipe`
@@ -454,7 +454,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 麒麟R夜刀 / Kirin R Yato — 异格 / alternate — `1029_yato2`
 - [ ] 麦哲伦 / Magallan — `248_mgllan`
 - [ ] 黍 / Shu — `2025_shu`
-- [ ] 黑 / Schwarz — `340_shwaz`
+- [x] 黑 / Schwarz — `340_shwaz` — [package](pets/schwarz)
 - [ ] 黑键 / Ebenholz — `4046_ebnhlz`
 
 ## 皮肤 / Outfits
