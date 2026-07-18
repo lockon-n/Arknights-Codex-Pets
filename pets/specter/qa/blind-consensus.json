@@ -3,12 +3,30 @@
   "model_key": "143_ghost",
   "votes": {
     "horizontal_A": {
-      "screen-right": 2,
-      "ambiguous": 1
+      "screen-right": 3
     },
     "horizontal_B": {
-      "screen-left": 2,
-      "ambiguous": 1
+      "screen-left": 3
+    },
+    "vertical_A": {
+      "ambiguous": 2,
+      "up": 1
+    },
+    "vertical_B": {
+      "ambiguous": 2,
+      "down": 1
+    }
+  },
+  "horizontal_A": "screen-right",
+  "horizontal_B": "screen-left",
+  "vertical_A": "up",
+  "vertical_B": "down",
+  "recheck_votes": {
+    "horizontal_A": {
+      "screen-right": 3
+    },
+    "horizontal_B": {
+      "screen-left": 3
     },
     "vertical_A": {
       "up": 3
@@ -16,9 +34,5 @@
     "vertical_B": {
       "down": 3
     }
-  },
-  "horizontal_A": "screen-right",
-  "horizontal_B": "screen-left",
-  "vertical_A": "up",
-  "vertical_B": "down"
+  }
 }

@@ -32,6 +32,8 @@ pets/<pet-id>/
 
 Batch TODO manifests live under `batches/`. A row is complete only after source mapping, standard and direction visual QA, v2 validation, final visual review, and package QA all pass.
 
+The ordinary sizing policy is `safe-max`: render official Spine assets at 768×832 or higher, choose one downsampling scale per pet from every approved action, preserve animation-row registration, and require at least 6 transparent pixels on all four sides of every final 192×208 cell. Never enlarge an already packaged spritesheet.
+
 ## Start a conversion
 
 1. Refresh the `Ark-Models` checkout.

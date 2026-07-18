@@ -30,10 +30,13 @@ Before copying a package into `pets/`, verify:
 - the registry entry records source commit and approval date.
 - packaged spritesheet bytes exactly match the visually approved job output.
 - package QA contains labeled directions, extended and standard contacts, continuity metrics, and the exact v2 validation result.
+- the atlas was downsampled from 768×832-or-larger official renders using one pet-wide `safe-max` scale, with row-internal motion preserved and at least 6 transparent pixels on every cell edge.
 
 For a batch, keep evidence generation separate from semantic approval. Three isolated blind reviewers must classify randomized cardinal pairs without seeing coefficients or the answer key; resolve ambiguity with a fresh enlarged review sheet or recalibration, never by revealing intent. Independently inspect every final native-cell summary before setting `visual_qa=pass`.
 
 Stage a completed batch outside the repository. The portable skill's staging command accepts only jobs whose `standard_visual_qa`, `direction_qa`, `atlas_qa`, and `visual_qa` fields are all `pass`, validates every package, and produces a registry merge candidate. Inspect those results before importing them here.
+
+When changing only the normalization policy, reuse validated high-resolution production and direction source renders rather than resampling old WebP files. Hash mapping, look configuration, and all 16 direction sources before and after the rebuild. Reset and regenerate frame QA, both atlases, direction evidence, blind cardinal review, final visual review, and package QA; an older passing package is not grandfathered into a new sizing algorithm.
 
 ## Registry entry
 
