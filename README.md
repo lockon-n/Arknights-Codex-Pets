@@ -2,6 +2,30 @@
 
 [中文](#中文) · [English](#english)
 
+## 效果展示 / Showcase
+
+以下截图展示宠物安装后的选择界面，以及安洁莉娜默认服装与两套皮肤在 Codex 任务中的实际效果。静态图片只截取了动画的一帧；宠物会根据任务状态播放对应动作。
+
+The screenshots below show the installed pet picker and Angelina's default outfit plus two outfits inside real Codex tasks. Each still captures only one animation frame; the pet plays the appropriate action as the task state changes.
+
+<p align="center">
+  <img src="docs/images/showcase/pet-picker.png" alt="Codex 明日方舟宠物选择器 / Codex Arknights pet picker" width="720">
+</p>
+<p align="center"><sub>已安装的干员宠物 / Installed operator pets</sub></p>
+
+<table>
+  <tr>
+    <td width="33%"><img src="docs/images/showcase/angelina-boc-1.png" alt="安洁莉娜·斗争血脉 I / Angelina Bloodline of Combat I"></td>
+    <td width="33%"><img src="docs/images/showcase/angelina-default.png" alt="安洁莉娜默认服装 / Angelina default outfit"></td>
+    <td width="33%"><img src="docs/images/showcase/angelina-summer-5.png" alt="安洁莉娜·珊瑚海岸 V / Angelina Coral Coast V"></td>
+  </tr>
+  <tr>
+    <td align="center">斗争血脉/I<br>Bloodline of Combat/I</td>
+    <td align="center">默认服装<br>Default outfit</td>
+    <td align="center">珊瑚海岸/V<br>Coral Coast/V</td>
+  </tr>
+</table>
+
 ## 中文
 
 将《明日方舟》干员基建动态小人转换为 Codex v2 宠物的社区项目。本仓库只收录通过验证的成品包；完整上游素材和转换过程中的中间文件不会提交到这里。
