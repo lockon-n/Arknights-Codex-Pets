@@ -11,9 +11,9 @@ The collection will expand gradually in CN release order, with outfits maintaine
 
 | 类别 / Category | 已完成 / Done | 总数 / Total | 进度 / Progress |
 |---|---:|---:|---:|
-| 默认干员 / Default operators | 83 | 420 | 19.8% |
+| 默认干员 / Default operators | 93 | 420 | 22.1% |
 | 皮肤 / Outfits | 2 | 506 | 0.4% |
-| **合计 / Total** | **85** | **926** | **9.2%** |
+| **合计 / Total** | **95** | **926** | **10.3%** |
 
 上游目录快照 / Upstream catalog snapshot: `2026-07-13`, Ark-Models commit `3619a9a7268ec049dbbb30d1cff0ffa6d3fdf5ed` (`zh_CN`).
 
@@ -48,13 +48,13 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 史都华德 / Steward — `210_stward` — [package](pets/steward)
 - [x] 安德切尔 / Adnachiel — `211_adnach` — [package](pets/adnachiel)
 - [x] 安赛尔 / Ansel — `212_ansel` — [package](pets/ansel)
-- [ ] 斑点 / Spot — `284_spot`
-- [ ] 月见夜 / Midnight — `283_midn`
+- [x] 斑点 / Spot — `284_spot` — [package](pets/spot)
+- [x] 月见夜 / Midnight — `283_midn` — [package](pets/midnight)
 - [x] 梓兰 / Orchid — `278_orchid` — [package](pets/orchid)
-- [ ] 泡普卡 / Popukar — `281_popka`
+- [x] 泡普卡 / Popukar — `281_popka` — [package](pets/popukar)
 - [x] 炎熔 / Lava — `121_lava` — [package](pets/lava)
 - [x] 玫兰莎 / Melantha — `208_melan` — [package](pets/melantha)
-- [ ] 空爆 / Catapult — `282_catap`
+- [x] 空爆 / Catapult — `282_catap` — [package](pets/catapult)
 - [x] 米格鲁 / Beagle — `122_beagle` — [package](pets/beagle)
 - [x] 翎羽 / Plume — `192_falco` — [package](pets/plume)
 - [x] 芙蓉 / Hibiscus — `120_hibisc` — [package](pets/hibiscus)
@@ -87,7 +87,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 杰克 / Jackie — `347_jaksel`
 - [x] 杰西卡 / Jessica — `235_jesica` — [package](pets/jessica)
 - [ ] 松果 / Pinecone — `440_pinecn`
-- [ ] 格雷伊 / Greyy — `253_greyy`
+- [x] 格雷伊 / Greyy — `253_greyy` — [package](pets/greyy)
 - [ ] 桃金娘 / Myrtle — `151_myrtle`
 - [ ] 梅 / May — `133_mm`
 - [ ] 泡泡 / Bubble — `381_bubble`
@@ -97,7 +97,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 深靛 / Indigo — `469_indigo`
 - [ ] 清流 / Purestream — `385_finlpp`
 - [x] 清道夫 / Scavenger — `149_scave` — [package](pets/scavenger)
-- [ ] 猎蜂 / Beehunter — `137_brownb`
+- [x] 猎蜂 / Beehunter — `137_brownb` — [package](pets/beehunter)
 - [x] 白雪 / ShiraYuki — `118_yuki` — [package](pets/shirayuki)
 - [ ] 石英 / Quartz — `4063_quartz`
 - [x] 砾 / Gravel — `237_gravel` — [package](pets/gravel)
@@ -164,7 +164,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 复奏 / Ripresa — `4031_liesel`
 - [ ] 夏栎 / Quercus — `492_quercu`
 - [ ] 夜半 / Blacknight — `476_blkngt`
-- [ ] 夜魔 / Nightmare — `164_nightm`
+- [x] 夜魔 / Nightmare — `164_nightm` — [package](pets/nightmare)
 - [x] 天火 / Skyfire — `166_skfire` — [package](pets/skyfire)
 - [ ] 天空盒 / Skybox — `4213_skybx`
 - [ ] 奥斯塔 / Aosta — `346_aosta`
@@ -214,7 +214,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 极境 / Elysium — `401_elysm`
 - [ ] 柏喙 / Bibeak — `252_bibeak`
 - [ ] 格劳克斯 / Glaucus — `326_glacus`
-- [ ] 格拉尼 / Grani — `220_grani`
+- [x] 格拉尼 / Grani — `220_grani` — [package](pets/grani)
 - [ ] 桑葚 / Mulberry — `473_mberry`
 - [x] 梅尔 / Mayer — `242_otter` — [package](pets/mayer)
 - [ ] 森西 / Senshi — `4143_sensi`
@@ -285,7 +285,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 裁度 / Figurino — `4155_talr`
 - [ ] 裂响 / Crackborne — `4225_tanya`
 - [ ] 见行者 / Enforcer — `4036_forcer`
-- [ ] 诗怀雅 / Swire — `308_swire`
+- [x] 诗怀雅 / Swire — `308_swire` — [package](pets/swire)
 - [ ] 诺威尔 / Nowell — `4173_nowell`
 - [ ] 谜图 / Puzzle — `4017_puzzle`
 - [ ] 贝娜 / Bena — `369_bena`
@@ -372,7 +372,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 提丰 / Typhon — `2012_typhon`
 - [ ] 斥罪 / Penance — `4065_judge`
 - [ ] 斩业星熊 / Hoshiguma the Breacher — 异格 / alternate — `1044_hsgma2`
-- [ ] 斯卡蒂 / Skadi — `263_skadi`
+- [x] 斯卡蒂 / Skadi — `263_skadi` — [package](pets/skadi)
 - [ ] 新约能天使 / Exusiai the New Covenant — 异格 / alternate — `1041_angel2`
 - [ ] 早露 / Роса — `197_poca`
 - [x] 星熊 / Hoshiguma — `136_hsguma` — [package](pets/hoshiguma)
