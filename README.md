@@ -17,20 +17,28 @@ pets/<pet-id>/
   pet.json
   spritesheet.webp|png
   SOURCE.md
+  provenance.json
   qa/
     validation.json
     preview.png
+    v2-validation.json
+    directions-labeled.png
+    direction-continuity.json
+    contact-extended.png
+    standard-contact.png
 ```
 
 `pet.json` must use `spriteVersionNumber: 2`; its atlas must be a validated 1536×2288 8×11 sheet. Keep original Spine files, raw Atlas PNGs, renderer caches, and unapproved intermediate images outside this repository.
+
+Batch TODO manifests live under `batches/`. A row is complete only after source mapping, standard and direction visual QA, v2 validation, final visual review, and package QA all pass.
 
 ## Start a conversion
 
 1. Refresh the `Ark-Models` checkout.
 2. Select a `model_key` from its `models_data.json`.
 3. Use the portable `ark-models-to-pet` Skill to render, map, QA, and package the pet.
-4. Copy only the approved package directory into `pets/<pet-id>/`.
-5. Add one entry to `registry/pets.json`, validate the package, then commit.
+4. Stage only approved packages outside this Git worktree and validate their exact atlas copies and QA evidence.
+5. Publish package directories into `pets/<pet-id>/`, merge their entries into `registry/pets.json`, validate again, then commit.
 
 See [docs/WORKFLOW.md](docs/WORKFLOW.md) for the review gates and source rules.
 

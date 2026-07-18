@@ -28,6 +28,12 @@ Before copying a package into `pets/`, verify:
 - action rows, scale, transparency, direction semantics, and adjacent-direction continuity passed visual QA.
 - `SOURCE.md` identifies the upstream source and model key.
 - the registry entry records source commit and approval date.
+- packaged spritesheet bytes exactly match the visually approved job output.
+- package QA contains labeled directions, extended and standard contacts, continuity metrics, and the exact v2 validation result.
+
+For a batch, keep evidence generation separate from semantic approval. Three isolated blind reviewers must classify randomized cardinal pairs without seeing coefficients or the answer key; resolve ambiguity with a fresh enlarged review sheet or recalibration, never by revealing intent. Independently inspect every final native-cell summary before setting `visual_qa=pass`.
+
+Stage a completed batch outside the repository. The portable skill's staging command accepts only jobs whose `standard_visual_qa`, `direction_qa`, `atlas_qa`, and `visual_qa` fields are all `pass`, validates every package, and produces a registry merge candidate. Inspect those results before importing them here.
 
 ## Registry entry
 
