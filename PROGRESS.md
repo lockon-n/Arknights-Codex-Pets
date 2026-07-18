@@ -1,0 +1,985 @@
+# 制作进度 / Production Progress
+
+> 本页由 `registry/pets.json` 与上游模型目录自动生成。请勿手工修改勾选状态。
+> This page is generated from `registry/pets.json` and the upstream model catalog. Do not edit checkbox states manually.
+
+## 总览 / Summary
+
+本项目会按照国服实装顺序逐步扩充干员，并将皮肤作为独立成品维护。`[x]` 表示成品已经通过 QA 并发布；`[ ]` 表示尚未发布，包括待制作和制作中的项目。
+
+The collection will expand gradually in CN release order, with outfits maintained as separate packages. `[x]` means the package passed QA and was published; `[ ]` means it is not published yet, including planned and in-progress work.
+
+| 类别 / Category | 已完成 / Done | 总数 / Total | 进度 / Progress |
+|---|---:|---:|---:|
+| 默认干员 / Default operators | 83 | 420 | 19.8% |
+| 皮肤 / Outfits | 2 | 506 | 0.4% |
+| **合计 / Total** | **85** | **926** | **9.2%** |
+
+上游目录快照 / Upstream catalog snapshot: `2026-07-13`, Ark-Models commit `3619a9a7268ec049dbbb30d1cff0ffa6d3fdf5ed` (`zh_CN`).
+
+## 默认干员 / Default Operators
+
+### 1★
+
+- [ ] CONFESS-47 — `4188_confes`
+- [x] Castle-3 — `286_cast3` — [package](pets/castle-3)
+- [ ] Friston-3 — `4093_frston`
+- [ ] GALLUS² — `4227_gallus`
+- [x] Lancet-2 — `285_medic2` — [package](pets/lancet-2)
+- [ ] PhonoR-0 — `4136_phonor`
+- [ ] THRM-EX / Thermal-EX — `376_therex`
+- [ ] U-Official — `4091_ulika`
+- [ ] 正义骑士号 / "Justice Knight" — `4000_jnight`
+- [ ] 泰拉大陆调查团 / Terra Research Commission — `4077_palico`
+- [ ] 罗德岛隐秘队 / Rhodes Island Recon — `4215_buddy`
+
+### 2★
+
+- [x] 12F — `009_12fce` — [package](pets/12f)
+- [x] 夜刀 / Yato — `502_nblade` — [package](pets/yato)
+- [x] 巡林者 / Rangers — `503_rang` — [package](pets/rangers)
+- [x] 杜林 / Durin — `501_durin` — [package](pets/durin)
+- [x] 黑角 / Noir Corne — `500_noirc` — [package](pets/noir-corne)
+
+### 3★
+
+- [x] 克洛丝 / Kroos — `124_kroos` — [package](pets/kroos)
+- [x] 卡缇 / Cardigan — `209_ardign` — [package](pets/cardigan)
+- [x] 史都华德 / Steward — `210_stward` — [package](pets/steward)
+- [x] 安德切尔 / Adnachiel — `211_adnach` — [package](pets/adnachiel)
+- [x] 安赛尔 / Ansel — `212_ansel` — [package](pets/ansel)
+- [ ] 斑点 / Spot — `284_spot`
+- [ ] 月见夜 / Midnight — `283_midn`
+- [x] 梓兰 / Orchid — `278_orchid` — [package](pets/orchid)
+- [ ] 泡普卡 / Popukar — `281_popka`
+- [x] 炎熔 / Lava — `121_lava` — [package](pets/lava)
+- [x] 玫兰莎 / Melantha — `208_melan` — [package](pets/melantha)
+- [ ] 空爆 / Catapult — `282_catap`
+- [x] 米格鲁 / Beagle — `122_beagle` — [package](pets/beagle)
+- [x] 翎羽 / Plume — `192_falco` — [package](pets/plume)
+- [x] 芙蓉 / Hibiscus — `120_hibisc` — [package](pets/hibiscus)
+- [x] 芬 / Fang — `123_fang` — [package](pets/fang)
+- [x] 香草 / Vanilla — `240_wyvern` — [package](pets/vanilla)
+
+### 4★
+
+- [ ] 云迹 / Contrail — `4165_ctrail`
+- [ ] 伊桑 / Ethan — `355_ethan`
+- [ ] 休谟斯 / Humus — `491_humus`
+- [ ] 冬时 / Снегурочка — `4208_wintim`
+- [ ] 刻刀 / Cutter — `301_cutter`
+- [ ] 协律 / Akkord — `4051_akkord`
+- [ ] 卡达 / Click — `328_cammou`
+- [x] 古米 / Гум — `196_sunbr` — [package](pets/gummy)
+- [x] 嘉维尔 / Gavial — `187_ccheal` — [package](pets/gavial)
+- [x] 地灵 / Earthspirit — `183_skgoat` — [package](pets/earthspirit)
+- [ ] 坚雷 / Dur-nar — `260_durnar`
+- [x] 夜烟 / Haze — `141_nights` — [package](pets/haze)
+- [ ] 孑 / Jaye — `272_strong`
+- [ ] 安比尔 / Ambriel — `302_glaze`
+- [ ] 宴 / Utage — `337_utage`
+- [ ] 布丁 / Pudding — `4004_pudd`
+- [x] 慕斯 / Mousse — `185_frncat` — [package](pets/mousse)
+- [ ] 断罪者 / Conviction — `159_peacok`
+- [x] 暗索 / Rope — `236_rope` — [package](pets/rope)
+- [x] 末药 / Myrrh — `117_myrrh` — [package](pets/myrrh)
+- [x] 杜宾 / Dobermann — `130_doberm` — [package](pets/dobermann)
+- [ ] 杰克 / Jackie — `347_jaksel`
+- [x] 杰西卡 / Jessica — `235_jesica` — [package](pets/jessica)
+- [ ] 松果 / Pinecone — `440_pinecn`
+- [ ] 格雷伊 / Greyy — `253_greyy`
+- [ ] 桃金娘 / Myrtle — `151_myrtle`
+- [ ] 梅 / May — `133_mm`
+- [ ] 泡泡 / Bubble — `381_bubble`
+- [ ] 波登可 / Podenco — `258_podego`
+- [x] 流星 / Meteor — `126_shotst` — [package](pets/meteor)
+- [x] 深海色 / Deepcolor — `110_deepcl` — [package](pets/deepcolor)
+- [ ] 深靛 / Indigo — `469_indigo`
+- [ ] 清流 / Purestream — `385_finlpp`
+- [x] 清道夫 / Scavenger — `149_scave` — [package](pets/scavenger)
+- [ ] 猎蜂 / Beehunter — `137_brownb`
+- [x] 白雪 / ShiraYuki — `118_yuki` — [package](pets/shirayuki)
+- [ ] 石英 / Quartz — `4063_quartz`
+- [x] 砾 / Gravel — `237_gravel` — [package](pets/gravel)
+- [ ] 红云 / Vermeil — `190_clour`
+- [x] 红豆 / Vigna — `290_vigna` — [package](pets/vigna)
+- [ ] 维荻 / Verdant — `4107_vrdant`
+- [x] 缠丸 / Matoimaru — `289_gyuki` — [package](pets/matoimaru)
+- [ ] 罗小黑 / Luo Xiaohei — `4067_lolxh`
+- [ ] 罗比菈塔 / Roberta — `484_robrta`
+- [x] 艾丝黛尔 / Estelle — `127_estell` — [package](pets/estelle)
+- [ ] 芳汀 / Arene — `271_spikes`
+- [ ] 苏苏洛 / Sussurro — `298_susuro`
+- [x] 蛇屠箱 / Cuora — `150_snakek` — [package](pets/cuora)
+- [ ] 褐果 / Chestnut — `4041_chnut`
+- [x] 角峰 / Matterhorn — `199_yak` — [package](pets/matterhorn)
+- [x] 讯使 / Courier — `198_blackd` — [package](pets/courier)
+- [x] 调香师 / Perfumer — `181_flower` — [package](pets/perfumer)
+- [ ] 豆苗 / Beanstalk — `452_bstalk`
+- [ ] 跃跃 / Caper — `4100_caper`
+- [x] 远山 / Gitano — `109_fmout` — [package](pets/gitano)
+- [ ] 酸糖 / Aciddrop — `366_acdrop`
+- [ ] 铅踝 / Totter — `4062_totter`
+- [x] 阿消 / Shaw — `277_sqrrel` — [package](pets/shaw)
+- [x] 霜叶 / Frostleaf — `193_frostl` — [package](pets/frostleaf)
+- [ ] 露托 / Lutonada — `4130_luton`
+- [ ] 骋风 / Windscoot — `445_wscoot`
+
+### 5★
+
+- [ ] Miss.Christine — `4198_christ`
+- [ ] 万顷 / Wanqing — `4119_wanqin`
+- [ ] 三角初华 / Misumi Uika — `4184_dolris`
+- [x] 临光 / Nearl — `148_nearl` — [package](pets/nearl)
+- [ ] 乌啾 / Укусик — `4224_turdus`
+- [ ] 乌有 / Mr.Nothing — `455_nothin`
+- [ ] 九色鹿 / Nine-Colored Deer — `4019_ncdeer`
+- [ ] 亚叶 / Folinic — `345_folnic`
+- [ ] 伯塔尼 / Ботани — `4223_botany`
+- [ ] 但书 / Proviso — `4032_provs`
+- [ ] 佩德洛 / Pedro — `4234_pedro`
+- [ ] 八幡海铃 / Yahata Umiri — `4186_tmoris`
+- [ ] 冰酿 / Coldshot — `4104_coldst`
+- [x] 凛冬 / Зима — `115_headbr` — [package](pets/zima)
+- [ ] 凛视 / Valarqvin — `4102_threye`
+- [ ] 凯瑟琳 / Catherine — `4162_cathy`
+- [x] 初雪 / Pramanix — `174_slbell` — [package](pets/pramanix)
+- [ ] 刺玫 / Vendela — `494_vendla`
+- [ ] 医生 / Doc — `4125_rdoc`
+- [x] 华法琳 / Warfarin — `171_bldsk` — [package](pets/warfarin)
+- [ ] 卡夫卡 / Kafka — `214_kafka`
+- [ ] 历阵锐枪芬 / Fang the Fire-sharpened — 异格 / alternate — `1036_fang2`
+- [ ] 双月 / Iana — `4124_iana`
+- [x] 可颂 / Croissant — `201_moeshd` — [package](pets/croissant)
+- [ ] 吉星 / Kichisei — `4203_kichi`
+- [ ] 吽 / Hung — `226_hmau`
+- [ ] 和弦 / Harmonie — `297_hamoni`
+- [ ] 哈洛德 / Harold — `4114_harold`
+- [ ] 哈蒂娅 / Hadiya — `394_hadiya`
+- [ ] 响石 / Cairn — `4214_cairn`
+- [ ] 四月 / April — `365_aprl`
+- [x] 因陀罗 / Indra — `155_tiger` — [package](pets/indra)
+- [ ] 图耶 / Tuye — `402_tuye`
+- [ ] 埃拉托 / Erato — `4043_erato`
+- [ ] 复奏 / Ripresa — `4031_liesel`
+- [ ] 夏栎 / Quercus — `492_quercu`
+- [ ] 夜半 / Blacknight — `476_blkngt`
+- [ ] 夜魔 / Nightmare — `164_nightm`
+- [x] 天火 / Skyfire — `166_skfire` — [package](pets/skyfire)
+- [ ] 天空盒 / Skybox — `4213_skybx`
+- [ ] 奥斯塔 / Aosta — `346_aosta`
+- [ ] 奥达 / Odda — `4131_odda`
+- [ ] 子月 / Lunacub — `4014_lunacu`
+- [x] 守林人 / Firewatch — `158_milu` — [package](pets/firewatch)
+- [ ] 安哲拉 / Andreana — `218_cuttle`
+- [ ] 寒檀 / Santalla — `341_sntlla`
+- [ ] 寒芒克洛丝 / Kroos the Keen Glint — 异格 / alternate — `1021_kroos2`
+- [ ] 寻澜 / Surfer — `4052_surfer`
+- [ ] 导火索 / Fuze — `4126_fuze`
+- [ ] 小满 / Grain Buds — `4122_grabds`
+- [x] 崖心 / Cliffheart — `173_slchan` — [package](pets/cliffheart)
+- [ ] 巫恋 / Shamare — `254_vodfox`
+- [ ] 布洛卡 / Broca — `356_broca`
+- [x] 幽灵鲨 / Specter — `143_ghost` — [package](pets/specter)
+- [ ] 录武官 / Record Keeper — `4196_reckpr`
+- [ ] 微风 / Breeze — `275_breeze`
+- [x] 德克萨斯 / Texas — `102_texas` — [package](pets/texas)
+- [ ] 惊蛰 / Leizi — `306_leizi`
+- [ ] 慑砂 / Sesa — `379_sesa`
+- [ ] 战车 / Tachanka — `459_tachak`
+- [ ] 截云 / Jieyun — `4078_bdhkgt`
+- [ ] 戴菲恩 / Delphine — `4110_delphn`
+- [ ] 承曦格雷伊 / Greyy the Lightningbearer — 异格 / alternate — `1027_greyy2`
+- [ ] 折光 / Diamante — `499_kaitou`
+- [ ] 折桠 / Веточки — `4207_branch`
+- [x] 拉普兰德 / Lappland — `140_whitew` — [package](pets/lappland)
+- [ ] 拜松 / Bison — `325_bison`
+- [ ] 掠风 / Windflit — `433_windft`
+- [ ] 摆渡人 / Varkáris — `4166_varkis`
+- [ ] 摩根 / Morgan — `154_morgan`
+- [ ] 撷英调香师 / Perfumer the Distilled — 异格 / alternate — `1022_flwr2`
+- [ ] 断崖 / Ayerscarpe — `294_ayer`
+- [ ] 明椒 / Paprika — `4071_peper`
+- [ ] 星极 / Astesia — `274_astesi`
+- [ ] 星源 / Astgenne — `135_halo`
+- [ ] 晓歌 / Cantabile — `497_ctable`
+- [x] 普罗旺斯 / Provence — `145_prove` — [package](pets/provence)
+- [ ] 暮落 / Shalem — `4025_aprot2`
+- [x] 暴行 / Savage — `230_savage` — [package](pets/savage)
+- [ ] 暴雨 / Heavyrain — `304_zebra`
+- [ ] 月禾 / Tsukinogi — `343_tknogi`
+- [ ] 杏仁 / Almond — `4105_almond`
+- [ ] 松桐 / Matsukiri — `4199_makiri`
+- [ ] 极光 / Aurora — `422_aurora`
+- [ ] 极境 / Elysium — `401_elysm`
+- [ ] 柏喙 / Bibeak — `252_bibeak`
+- [ ] 格劳克斯 / Glaucus — `326_glacus`
+- [ ] 格拉尼 / Grani — `220_grani`
+- [ ] 桑葚 / Mulberry — `473_mberry`
+- [x] 梅尔 / Mayer — `242_otter` — [package](pets/mayer)
+- [ ] 森西 / Senshi — `4143_sensi`
+- [ ] 槐琥 / Waai Fu — `243_waaifu`
+- [ ] 水灯心 / Brigid — `4177_brigid`
+- [ ] 波卜 / Bobbing — `487_bobb`
+- [ ] 洋灰 / Cement — `464_cement`
+- [ ] 洛洛 / Rockrock — `4040_rockr`
+- [ ] 海沫 / Highmore — `4066_highmo`
+- [ ] 海蒂 / Heidi — `4045_heidi`
+- [ ] 海霓 / Lucilla — `4079_haini`
+- [ ] 深巡 / Underflow — `4137_udflow`
+- [ ] 深律 / Bassline — `4109_baslin`
+- [ ] 渡桥 / Mitm — `4147_mitm`
+- [ ] 温米 / Warmy — `4081_warmy`
+- [ ] 濯尘芙蓉 / Hibiscus the Purifier — 异格 / alternate — `1024_hbisc2`
+- [ ] 火哨 / Firewhistle — `493_firwhl`
+- [x] 火神 / Vulcan — `163_hpsts` — [package](pets/vulcan)
+- [ ] 火龙S黑角 / Rathalos S Noir Corne — 异格 / alternate — `1030_noirc2`
+- [ ] 灰喉 / GreyThroat — `367_swllow`
+- [ ] 灰毫 / Ashlock — `431_ashlok`
+- [ ] 炎客 / Flamebringer — `131_flameb`
+- [ ] 炎狱炎熔 / Lava the Purgatory — 异格 / alternate — `1011_lava2`
+- [ ] 烈夏 / Лето — `194_leto`
+- [ ] 熔泉 / Toddifons — `363_toddi`
+- [ ] 燧石 / Flint — `415_flint`
+- [ ] 爱丽丝 / Iris — `338_iris`
+- [ ] 特克诺 / Tecno — `4164_tecno`
+- [ ] 特米米 / Tomimi — `411_tomimi`
+- [x] 狮蝎 / Manticore — `215_mantic` — [package](pets/manticore)
+- [ ] 玫拉 / Melanite — `4006_melnte`
+- [ ] 瑰盐 / Rose Salt — `4163_rosesa`
+- [x] 白金 / Platinum — `204_platnm` — [package](pets/platinum)
+- [x] 白面鸮 / Ptilopsis — `128_plosis` — [package](pets/ptilopsis)
+- [x] 真理 / Истина — `195_glassb` — [package](pets/istina)
+- [ ] 矩 / Ju — `4221_ju`
+- [ ] 石棉 / Asbestos — `378_asbest`
+- [ ] 祐天寺若麦 / Yūtenji Nyamu — `4185_amoris`
+- [ ] 稀音 / Scene — `336_folivo`
+- [x] 空 / Sora — `101_sora` — [package](pets/sora)
+- [ ] 空构 / Spuria — `4015_spuria`
+- [ ] 絮雨 / Whisperain — `436_whispr`
+- [x] 红 / Projekt Red — `144_red` — [package](pets/projekt-red)
+- [ ] 红隼 / Kestrel — `4023_rfalcn`
+- [ ] 绮良 / Kirara — `478_kirara`
+- [ ] 罗宾 / Robin — `451_robin`
+- [ ] 羽毛笔 / La Pluma — `421_crow`
+- [ ] 耶拉 / Kjera — `4013_kjera`
+- [ ] 聆音 / Gracebearer — `4187_graceb`
+- [ ] 至简 / Minimalist — `4054_malist`
+- [x] 芙兰卡 / Franka — `106_franka` — [package](pets/franka)
+- [ ] 苇草 / Reed — `261_sddrag`
+- [ ] 苍苔 / Bryophyta — `4106_bryota`
+- [ ] 若叶睦 / Wakaba Mutsumi — `4183_mortis`
+- [ ] 苦艾 / Absinthe — `405_absin`
+- [ ] 莎草 / Papyrus — `4139_papyrs`
+- [ ] 莱恩哈特 / Leonhardt — `373_lionhd`
+- [ ] 莱欧斯 / Laios — `4142_laios`
+- [ ] 菲莱 / Philae — `4148_philae`
+- [ ] 蒂比 / Tippi — `4191_tippi`
+- [x] 蓝毒 / Blue Poison — `129_bluep` — [package](pets/blue-poison)
+- [ ] 薄绿 / Mint — `388_mint`
+- [ ] 蚀清 / Corroserum — `489_serum`
+- [ ] 蜜莓 / Honeyberry — `449_glider`
+- [ ] 蜜蜡 / Beeswax — `344_beewax`
+- [ ] 行箸 / Xingzhu — `4172_xingzh`
+- [ ] 衡沙 / Sand Reckoner — `4140_lasher`
+- [ ] 裁度 / Figurino — `4155_talr`
+- [ ] 裂响 / Crackborne — `4225_tanya`
+- [ ] 见行者 / Enforcer — `4036_forcer`
+- [ ] 诗怀雅 / Swire — `308_swire`
+- [ ] 诺威尔 / Nowell — `4173_nowell`
+- [ ] 谜图 / Puzzle — `4017_puzzle`
+- [ ] 贝娜 / Bena — `369_bena`
+- [ ] 贾维 / Chiave — `349_chiave`
+- [ ] 赤冬 / Akafuyu — `475_akafyu`
+- [x] 赫默 / Silence — `108_silent` — [package](pets/silence)
+- [ ] 车尔尼 / Czerny — `4047_pianst`
+- [ ] 达格达 / Dagda — `157_dagda`
+- [ ] 送葬人 / Executor — `279_excu`
+- [ ] 野鬃 / Wild Mane — `496_wildmn`
+- [ ] 钼铅 / Wulfenite — `4171_wulfen`
+- [ ] 铎铃 / Wind Chimes — `4083_chimes`
+- [ ] 铸铁 / Sideroca — `333_sidero`
+- [ ] 锡人 / Tin Man — `4151_tinman`
+- [ ] 锡兰 / Ceylon — `348_ceylon`
+- [ ] 闪击 / Blitz — `457_blitz`
+- [ ] 阿兰娜 / Alanna — `4178_alanna`
+- [x] 阿米娅 / Amiya — `002_amiya` — [package](pets/amiya)
+- [ ] 阿罗玛 / Aroma — `446_aroma`
+- [x] 陨星 / Meteorite — `219_meteo` — [package](pets/meteorite)
+- [ ] 隐现 / Insider — `498_inside`
+- [ ] 雪猎 / Snow Hunter — `4211_snhunt`
+- [ ] 雪绒 / Qanipalaat — `466_qanik`
+- [ ] 雪雉 / Snowsant — `383_snsant`
+- [ ] 雷狼龙S空爆 / Zinogre S Catapult — 异格 / alternate — `1049_catap2`
+- [x] 雷蛇 / Liskarm — `107_liskam` — [package](pets/liskarm)
+- [ ] 霜华 / Frost — `458_rfrost`
+- [ ] 青枳 / Poncirus — `488_buildr`
+- [ ] 鞭刃 / Whislash — `265_sophia`
+- [ ] 风丸 / Kazemaru — `4016_kazema`
+- [ ] 风絮 / Taraxacum — `4222_taraxa`
+- [x] 食铁兽 / FEater — `241_panda` — [package](pets/feater)
+- [ ] 齐尔查克 / Chilchuck — `4144_chilc`
+- [ ] 龙舌兰 / Tequila — `486_takila`
+
+### 6★
+
+- [ ] Mon3tr — `4179_monstr`
+- [ ] W — `113_cqbw`
+- [ ] 丰川祥子 / Togawa Sakiko — `4182_oblvns`
+- [ ] 乌尔比安 / Ulpianus — `4145_ulpia`
+- [ ] 仇白 / Qiubai — `4082_qiubai`
+- [ ] 令 / Ling — `2023_ling`
+- [ ] 伊内丝 / Ines — `4087_ines`
+- [x] 伊芙利特 / Ifrit — `134_ifrit` — [package](pets/ifrit)
+- [ ] 伺夜 / Vigil — `427_vigil`
+- [ ] 余 / Yu — `2026_yu`
+- [ ] 佩佩 / Pepe — `4058_pepe`
+- [ ] 信仰搅拌机 / Sankta Miksaparato — `4194_rmixer`
+- [ ] 假日威龙陈 / Ch'en the Holungday — 异格 / alternate — `1013_chen2`
+- [ ] 傀影 / Phantom — `250_phatom`
+- [ ] 凛御银灰 / SilverAsh the Reignfrost — 异格 / alternate — `1045_svash2`
+- [ ] 凯尔希 / Kal'tsit — `003_kalts`
+- [ ] 凯尔希·思衡托 / Kal'tsit·Esperanta — 异格 / alternate — `1052_kalts2`
+- [ ] 刻俄柏 / Ceobe — `2013_cerber`
+- [ ] 卡涅利安 / Carnelian — `426_billro`
+- [ ] 可露希尔 / Closure — `4228_closur`
+- [ ] 史尔特尔 / Surtr — `350_surtr`
+- [ ] 号角 / Horn — `4039_horn`
+- [ ] 司霆惊蛰 / Leizi the Thunderbringer — 异格 / alternate — `1043_leizi2`
+- [ ] 圣约送葬人 / Executor the Ex Foedere — 异格 / alternate — `1032_excu2`
+- [ ] 圣聆初雪 / Pramanix the Prerita — 异格 / alternate — `1046_sbell2`
+- [ ] 塑心 / Virtuosa — `245_cello`
+- [x] 塞雷娅 / Saria — `202_demkni` — [package](pets/saria)
+- [ ] 夕 / Dusk — `2015_dusk`
+- [ ] 多萝西 / Dorothy — `4048_doroth`
+- [x] 夜莺 / Nightingale — `179_cgbird` — [package](pets/nightingale)
+- [ ] 妮芙 / Nymph — `4146_nymph`
+- [ ] 娜仁图亚 / Narantuya — `4138_narant`
+- [ ] 娜斯提 / Nasti — `4212_nasti`
+- [x] 安洁莉娜 / Angelina — `291_aglina` — [package](pets/angelina)
+- [ ] 山 / Mountain — `264_f12yin`
+- [ ] 嵯峨 / Saga — `362_saga`
+- [ ] 左乐 / Zuo Le — `4121_zuole`
+- [ ] 帕拉斯 / Pallas — `485_pallas`
+- [ ] 年 / Nian — `2014_nian`
+- [ ] 异客 / Passenger — `472_pasngr`
+- [ ] 弑君者 / Crownslayer — `1502_crosly`
+- [ ] 引星棘刺 / Thorns the Lodestar — 异格 / alternate — `1039_thorn2`
+- [ ] 归溟幽灵鲨 / Specter the Unchained — 异格 / alternate — `1023_ghost2`
+- [ ] 忍冬 / Vulpisfoglia — `4026_vulpis`
+- [ ] 怒潮凛冬 / Zima the Raging Tide — 异格 / alternate — `1051_headb2`
+- [x] 推进之王 / Siege — `112_siege` — [package](pets/siege)
+- [ ] 提丰 / Typhon — `2012_typhon`
+- [ ] 斥罪 / Penance — `4065_judge`
+- [ ] 斩业星熊 / Hoshiguma the Breacher — 异格 / alternate — `1044_hsgma2`
+- [ ] 斯卡蒂 / Skadi — `263_skadi`
+- [ ] 新约能天使 / Exusiai the New Covenant — 异格 / alternate — `1041_angel2`
+- [ ] 早露 / Роса — `197_poca`
+- [x] 星熊 / Hoshiguma — `136_hsguma` — [package](pets/hoshiguma)
+- [ ] 望 / Wang — `2027_wang`
+- [ ] 林 / Lin — `4080_lin`
+- [ ] 棘刺 / Thorns — `293_thorns`
+- [ ] 森蚺 / Eunectes — `416_zumama`
+- [ ] 歌蕾蒂娅 / Gladiia — `474_glady`
+- [ ] 止颂 / Lessing — `4011_lessng`
+- [ ] 死芒 / Necrass — `450_necras`
+- [ ] 水月 / Mizuki — `437_mizuki`
+- [ ] 泥岩 / Mudrock — `311_mudrok`
+- [ ] 流明 / Lumen — `4042_lumen`
+- [ ] 浊心斯卡蒂 / Skadi the Corrupting Heart — 异格 / alternate — `1012_skadi2`
+- [ ] 涤火杰西卡 / Jessica the Liberated — 异格 / alternate — `1034_jesca2`
+- [ ] 淬羽赫默 / Silence the Paradigmatic — 异格 / alternate — `1031_slent2`
+- [ ] 温蒂 / Weedy — `400_weedy`
+- [ ] 溯光星源 / Astgenne the Lightchaser — 异格 / alternate — `1047_halo2`
+- [ ] 澄闪 / Goldenglow — `377_gdglow`
+- [ ] 灰烬 / Ash — `456_ash`
+- [ ] 灵知 / Gnosis — `206_gnosis`
+- [ ] 烛煌 / Blaze the Igniting Spark — 异格 / alternate — `1040_blaze2`
+- [ ] 焰尾 / Flametail — `420_flamtl`
+- [ ] 焰影苇草 / Reed The Flame Shadow — 异格 / alternate — `1020_reed2`
+- [ ] 焰狐龙梓兰 / Violet Mizutsune Orchid — 异格 / alternate — `1048_orchd2`
+- [ ] 煌 / Blaze — `017_huang`
+- [ ] 玛恩纳 / Młynar — `4064_mlynar`
+- [ ] 玛露西尔 / Marcille — `4141_marcil`
+- [ ] 琳琅诗怀雅 / Swire the Elegant Wit — 异格 / alternate — `1033_swire2`
+- [ ] 琴柳 / Saileach — `479_sleach`
+- [ ] 瑕光 / Blemishine — `423_blemsh`
+- [ ] 电弧 / Raidian — `4195_radian`
+- [ ] 白铁 / Stainless — `4072_ironmn`
+- [ ] 百炼嘉维尔 / Gavial the Invincible — 异格 / alternate — `1026_gvial2`
+- [ ] 真言 / Mantra — `4204_mantra`
+- [ ] 空弦 / Archetto — `332_archet`
+- [ ] 纯烬艾雅法拉 / Eyjafjalla the Hvít Aska — 异格 / alternate — `1016_agoat2`
+- [ ] 维什戴尔 / Wiš'adel — 异格 / alternate — `1035_wisdel`
+- [ ] 维伊 / Вий — `4226_veen`
+- [ ] 维娜·维多利亚 / Vina Victoria — 异格 / alternate — `1019_siege2`
+- [ ] 缄默德克萨斯 / Texas the Omertosa — 异格 / alternate — `1028_texas2`
+- [ ] 缇缇 / Titi — `4056_titi`
+- [ ] 缪尔赛思 / Muelsyse — `249_mlyss`
+- [ ] 耀骑士临光 / Nearl the Radiant Knight — 异格 / alternate — `1014_nearl2`
+- [ ] 老鲤 / Lee — `322_lmlee`
+- [x] 能天使 / Exusiai — `103_angel` — [package](pets/exusiai)
+- [ ] 艾丽妮 / Irene — `4009_irene`
+- [ ] 艾拉 / Ela — `4123_ela`
+- [x] 艾雅法拉 / Eyjafjalla — `180_amgoat` — [package](pets/eyjafjalla)
+- [ ] 荒芜拉普兰德 / Lappland the Decadenza — 异格 / alternate — `1038_whitw2`
+- [ ] 莫斯提马 / Mostima — `213_mostma`
+- [ ] 莱伊 / Ray — `4117_ray`
+- [ ] 菲亚梅塔 / Fiammetta — `300_phenxi`
+- [ ] 蕾缪安 / Lemuen — `4193_lemuen`
+- [ ] 薇薇安娜 / Viviana — `4098_vvana`
+- [ ] 谬因 / Aphrissa — `4229_aphris`
+- [ ] 贝洛内 / Bellone — `4037_demetr`
+- [ ] 赤刃明霄陈 / Ch'en the Dawnstreak — 异格 / alternate — `1050_chen3`
+- [ ] 赫德雷 / Hoederer — `4088_hodrer`
+- [ ] 赫拉格 / Hellagur — `188_helage`
+- [ ] 远牙 / Fartooth — `430_fartth`
+- [ ] 迷迭香 / Rosmontis — `391_rosmon`
+- [ ] 逻各斯 / Logos — `4133_logos`
+- [ ] 遥 / Haruka — `4202_haruka`
+- [ ] 酒神 / Tragodia — 异格 / alternate — `1042_phatm2`
+- [ ] 重岳 / Chongyue — `2024_chyue`
+- [ ] 铃兰 / Suzuran — `358_lisa`
+- [x] 银灰 / SilverAsh — `172_svrash` — [package](pets/silverash)
+- [ ] 锏 / Degenbrecher — `4116_blkkgt`
+- [x] 闪灵 / Shining — `147_shining` — [package](pets/shining)
+- [ ] 阿 / Aak — `225_haak`
+- [ ] 阿斯卡纶 / Ascalon — `4132_ascln`
+- [ ] 陈 / Ch'en — `010_chen`
+- [ ] 隐德来希 / Entelechia — `4010_etlchi`
+- [ ] 霍尔海雅 / Ho'olheyak — `4027_heyak`
+- [ ] 风笛 / Bagpipe — `222_bpipe`
+- [ ] 魔王 / Civilight Eterna — `4134_cetsyr`
+- [ ] 鸿雪 / Позёмка — `4055_bgsnow`
+- [ ] 麒麟R夜刀 / Kirin R Yato — 异格 / alternate — `1029_yato2`
+- [ ] 麦哲伦 / Magallan — `248_mgllan`
+- [ ] 黍 / Shu — `2025_shu`
+- [ ] 黑 / Schwarz — `340_shwaz`
+- [ ] 黑键 / Ebenholz — `4046_ebnhlz`
+
+## 皮肤 / Outfits
+
+皮肤名称沿用 Ark-Models 目录提供的系列标签；目录没有提供的正式中文皮肤标题不会在此推测。
+
+Outfit labels follow the collection metadata supplied by Ark-Models; official outfit titles absent from that catalog are not inferred here.
+
+### 1★
+
+- [ ] Castle-3 — 珊瑚海岸/I — `286_cast3_summer#1`
+- [ ] Lancet-2 — 斗争血脉/IV — `285_medic2_boc#4`
+- [ ] PhonoR-0 — 斗争血脉/IX — `4136_phonor_boc#9`
+- [ ] THRM-EX / Thermal-EX — 玛尔特/VII — `376_therex_marthe#7`
+- [ ] U-Official — 三丽鸥家族 — `4091_ulika_sanrio#1`
+- [ ] 正义骑士号 / "Justice Knight" — 斗争血脉/VII — `4000_jnight_boc#7`
+- [ ] 泰拉大陆调查团 / Terra Research Commission — 怪物猎人 — `4077_palico_mh#1`
+- [ ] 罗德岛隐秘队 / Rhodes Island Recon — 怪物猎人/II — `4215_buddy_mh#2`
+
+### 3★
+
+- [ ] 克洛丝 / Kroos — 巫异盛宴 — `124_kroos_witch#1`
+- [ ] 克洛丝 / Kroos — 忒斯特收藏/XV — `124_kroos_sale#14`
+- [ ] 卡缇 / Cardigan — 冰原信使/I — `209_ardign_snow#1`
+- [ ] 卡缇 / Cardigan — 时代/XXVI — `209_ardign_epoque#26`
+- [ ] 史都华德 / Steward — 忒斯特收藏/VII — `210_stward_sale#6`
+- [ ] 安德切尔 / Adnachiel — 忒斯特收藏/VI — `211_adnach_sale#5`
+- [ ] 安赛尔 / Ansel — 时代/XXIX — `212_ansel_epoque#29`
+- [ ] 安赛尔 / Ansel — 珊瑚海岸/I — `212_ansel_summer#1`
+- [ ] 斑点 / Spot — 斗争血脉/III — `284_spot_boc#3`
+- [ ] 月见夜 / Midnight — 斗争血脉/I — `283_midn_boc#1`
+- [ ] 梓兰 / Orchid — 斗争血脉/VI — `278_orchid_boc#6`
+- [ ] 泡普卡 / Popukar — 巫异盛宴/V — `281_popka_witch#5`
+- [ ] 泡普卡 / Popukar — 忒斯特收藏/XX — `281_popka_sale#18`
+- [ ] 炎熔 / Lava — 忒斯特收藏/X — `121_lava_sale#9`
+- [ ] 玫兰莎 / Melantha — 时代/I — `208_melan_epoque#1`
+- [ ] 空爆 / Catapult — 珊瑚海岸/XVII — `282_catap_summer#17`
+- [ ] 米格鲁 / Beagle — 斗争血脉/I — `122_beagle_boc#1`
+- [ ] 翎羽 / Plume — 玛尔特/VI — `192_falco_marthe#6`
+- [ ] 芙蓉 / Hibiscus — 0011制造/I — `120_hibisc_nian#1`
+- [ ] 芬 / Fang — 寒武纪/I — `123_fang_winter#1`
+- [ ] 香草 / Vanilla — 成就之星/IV — `240_wyvern_game#4`
+
+### 4★
+
+- [ ] 伊桑 / Ethan — 时代/VII — `355_ethan_epoque#7`
+- [ ] 休谟斯 / Humus — 玛尔特/X — `491_humus_marthe#10`
+- [ ] 刻刀 / Cutter — 玛尔特/VIII — `301_cutter_marthe#8`
+- [ ] 卡达 / Click — 巫异盛宴/II — `328_cammou_witch#2`
+- [ ] 卡达 / Click — 珊瑚海岸/XXII — `328_cammou_summer#22`
+- [ ] 古米 / Гум — 珊瑚海岸/I — `196_sunbr_summer#1`
+- [ ] 嘉维尔 / Gavial — 时代/II — `187_ccheal_epoque#2`
+- [ ] 地灵 / Earthspirit — 时代/XXX — `183_skgoat_epoque#30`
+- [ ] 坚雷 / Dur-nar — 时代/XLI — `260_durnar_epoque#42`
+- [ ] 夜烟 / Haze — 破格视界 — `141_nights_breaker#1`
+- [ ] 孑 / Jaye — 珊瑚海岸/VI — `272_strong_summer#6`
+- [ ] 安比尔 / Ambriel — 珊瑚海岸/XI — `302_glaze_summer#11`
+- [ ] 宴 / Utage — 时代/XV — `337_utage_epoque#15`
+- [ ] 宴 / Utage — 珊瑚海岸/IV — `337_utage_summer#4`
+- [ ] 布丁 / Pudding — 冰原信使/V — `4004_pudd_snow#5`
+- [ ] 慕斯 / Mousse — 玛尔特/XII — `185_frncat_marthe#12`
+- [ ] 慕斯 / Mousse — 生命之地/VII — `185_frncat_wild#7`
+- [ ] 断罪者 / Conviction — 成就之星 — `159_peacok_game#1`
+- [ ] 暗索 / Rope — 巫异盛宴 — `236_rope_witch#1`
+- [ ] 暗索 / Rope — 珊瑚海岸/II — `236_rope_summer#2`
+- [ ] 末药 / Myrrh — 生命之地/I — `117_myrrh_wild#1`
+- [ ] 杜宾 / Dobermann — 时代/VII — `130_doberm_epoque#7`
+- [ ] 杰克 / Jackie — 0011/飙系列/II — `347_jaksel_whirlwind#2`
+- [ ] 杰西卡 / Jessica — 0011制造/II — `235_jesica_nian#2`
+- [ ] 杰西卡 / Jessica — 生命之地/II — `235_jesica_wild#2`
+- [ ] 杰西卡 / Jessica — 雷神开拓者 — `235_jesica_sweep#1`
+- [ ] 松果 / Pinecone — 时代/XXXI — `440_pinecn_epoque#31`
+- [ ] 松果 / Pinecone — 闪耀阶梯 — `440_pinecn_shining#1`
+- [ ] 格雷伊 / Greyy — 时代/LI — `253_greyy_epoque#515`
+- [ ] 格雷伊 / Greyy — 时代/VIII — `253_greyy_epoque#8`
+- [ ] 桃金娘 / Myrtle — 太鼓之达人 — `151_myrtle_taiko#1`
+- [ ] 桃金娘 / Myrtle — 时代/XII — `151_myrtle_epoque#12`
+- [ ] 桃金娘 / Myrtle — 珊瑚海岸/XII — `151_myrtle_summer#12`
+- [ ] 梅 / May — 珊瑚海岸/XX — `133_mm_summer#20`
+- [ ] 泡泡 / Bubble — 玛尔特/XI — `381_bubble_marthe#11`
+- [ ] 波登可 / Podenco — 时代/IX — `258_podego_epoque#9`
+- [ ] 流星 / Meteor — 时代/X — `126_shotst_epoque#10`
+- [ ] 流星 / Meteor — 时代/XXVIII — `126_shotst_epoque#28`
+- [ ] 深海色 / Deepcolor — 寒武纪/III — `110_deepcl_winter#3`
+- [ ] 深靛 / Indigo — 0011制造/VI — `469_indigo_nian#7`
+- [ ] 清流 / Purestream — 0011制造/X — `385_finlpp_nian#11`
+- [ ] 清道夫 / Scavenger — 雷神推进者/II — `149_scave_striker#2`
+- [ ] 猎蜂 / Beehunter — 罗德厨房 — `137_brownb_kitchen#1`
+- [ ] 白雪 / ShiraYuki — 斗争血脉/II — `118_yuki_boc#2`
+- [ ] 石英 / Quartz — 时代/XXXVIII — `4063_quartz_epoque#39`
+- [ ] 砾 / Gravel — 寒武纪/II — `237_gravel_winter#2`
+- [ ] 红云 / Vermeil — 时代/XLII — `190_clour_epoque#43`
+- [ ] 红豆 / Vigna — 珊瑚海岸/I — `290_vigna_summer#1`
+- [ ] 红豆 / Vigna — 音律联觉 — `290_vigna_as#1`
+- [ ] 维荻 / Verdant — 待予花冠/III — `4107_vrdant_unveiling#3`
+- [ ] 缠丸 / Matoimaru — 时代/XXXIX — `289_gyuki_epoque#40`
+- [ ] 罗比菈塔 / Roberta — 珊瑚海岸/X — `484_robrta_summer#10`
+- [ ] 罗比菈塔 / Roberta — 音律联觉/III — `484_robrta_ambiencesynesthesia#3`
+- [ ] 艾丝黛尔 / Estelle — 时代/XLIX — `127_estell_epoque#50`
+- [ ] 芳汀 / Arene — 寒武纪/II — `271_spikes_winter#2`
+- [ ] 芳汀 / Arene — 待予花冠/I — `271_spikes_unveiling#1`
+- [ ] 苏苏洛 / Sussurro — 寒武纪/IV — `298_susuro_winter#4`
+- [ ] 苏苏洛 / Sussurro — 珊瑚海岸/VI — `298_susuro_summer#6`
+- [ ] 蛇屠箱 / Cuora — 0011/韵系列/VII — `150_snakek_yun#7`
+- [ ] 蛇屠箱 / Cuora — 生命之地/I — `150_snakek_wild#1`
+- [ ] 褐果 / Chestnut — 珊瑚海岸/XII — `4041_chnut_summer#12`
+- [ ] 角峰 / Matterhorn — 珊瑚海岸/I — `199_yak_summer#1`
+- [ ] 讯使 / Courier — 寒武纪/I — `198_blackd_winter#1`
+- [ ] 讯使 / Courier — 音律联觉 — `198_blackd_as#1`
+- [ ] 调香师 / Perfumer — 忒斯特收藏/I — `181_flower_daily#1`
+- [ ] 调香师 / Perfumer — 时代/IX — `181_flower_epoque#9`
+- [ ] 豆苗 / Beanstalk — 冰原信使/IV — `452_bstalk_snow#4`
+- [ ] 豆苗 / Beanstalk — 待予花冠/IV — `452_bstalk_unveiling#4`
+- [ ] 跃跃 / Caper — 珊瑚海岸/XVIII — `4100_caper_summer#18`
+- [ ] 远山 / Gitano — 时代/II — `109_fmout_epoque#2`
+- [ ] 酸糖 / Aciddrop — 0011/飙系列/IV — `366_acdrop_whirlwind#4`
+- [ ] 酸糖 / Aciddrop — 珊瑚海岸/XXI — `366_acdrop_summer#21`
+- [ ] 铅踝 / Totter — 珊瑚海岸/XVII — `4062_totter_summer#17`
+- [ ] 阿消 / Shaw — 缠梦古堡 — `277_sqrrel_ghost#1`
+- [ ] 霜叶 / Frostleaf — 斗争血脉/IV — `193_frostl_boc#4`
+- [ ] 露托 / Lutonada — 0011/韵系列/VI — `4130_luton_yun#6`
+- [ ] 骋风 / Windscoot — 时代/XLVIII — `445_wscoot_epoque#49`
+
+### 5★
+
+- [ ] 万顷 / Wanqing — 时代/XL — `4119_wanqin_epoque#41`
+- [ ] 三角初华 / Misumi Uika — Ave Mujica — `4184_dolris_avemujica#1`
+- [ ] 临光 / Nearl — 珊瑚海岸/II — `148_nearl_summer#2`
+- [ ] 乌有 / Mr.Nothing — 0011制造/VI — `455_nothin_nian#7`
+- [ ] 九色鹿 / Nine-Colored Deer — 九色鹿 — `4019_ncdeer_ncdeer#1`
+- [ ] 亚叶 / Folinic — 生命之地/IV — `345_folnic_wild#4`
+- [ ] 但书 / Proviso — 珊瑚海岸/XVII — `4032_provs_summer#17`
+- [ ] 但书 / Proviso — 生命之地/VII — `4032_provs_wild#7`
+- [ ] 八幡海铃 / Yahata Umiri — Ave Mujica — `4186_tmoris_avemujica#1`
+- [ ] 冰酿 / Coldshot — 雷神推进者/III — `4104_coldst_striker#3`
+- [ ] 凛冬 / Зима — i.t — `115_headbr_it#1`
+- [ ] 凛冬 / Зима — 玛尔特/II — `115_headbr_marthe#2`
+- [ ] 凛视 / Valarqvin — 时代/XLI — `4102_threye_epoque#42`
+- [ ] 初雪 / Pramanix — 冰原信使/I — `174_slbell_snow#1`
+- [ ] 刺玫 / Vendela — 成就之星/X — `494_vendla_game#10`
+- [ ] 医生 / Doc — 彩虹六号：围攻/II — `4125_rdoc_rainbow6#2`
+- [ ] 华法琳 / Warfarin — 巫异盛宴 — `171_bldsk_witch#1`
+- [ ] 华法琳 / Warfarin — 珊瑚海岸/VII — `171_bldsk_summer#7`
+- [ ] 卡夫卡 / Kafka — 冰原信使/III — `214_kafka_snow#3`
+- [ ] 历阵锐枪芬 / Fang the Fire-sharpened — 冰原信使/VIII — 异格 / alternate — `1036_fang2_snow#8`
+- [ ] 双月 / Iana — 彩虹六号：围攻/II — `4124_iana_rainbow6#2`
+- [ ] 可颂 / Croissant — 珊瑚海岸/IV — `201_moeshd_summer#4`
+- [ ] 可颂 / Croissant — 肯德基 — `201_moeshd_kfc#1`
+- [ ] 吽 / Hung — 0011制造/III — `226_hmau_nian#4`
+- [ ] 和弦 / Harmonie — 待予花冠/I — `297_hamoni_unveiling#1`
+- [ ] 和弦 / Harmonie — 时代/XXIV — `297_hamoni_epoque#24`
+- [ ] 哈洛德 / Harold — 冰原信使/VII — `4114_harold_snow#7`
+- [ ] 四月 / April — 生命之地/III — `365_aprl_wild#3`
+- [ ] 因陀罗 / Indra — 雷神推进者/II — `155_tiger_striker#2`
+- [ ] 图耶 / Tuye — 时代/XIV — `402_tuye_epoque#14`
+- [ ] 埃拉托 / Erato — 冰原信使/V — `4043_erato_snow#5`
+- [ ] 夏栎 / Quercus — 巫异盛宴/IV — `492_quercu_witch#4`
+- [ ] 夏栎 / Quercus — 时代/XVII — `492_quercu_epoque#17`
+- [ ] 夜半 / Blacknight — 0011制造/VII — `476_blkngt_nian#8`
+- [ ] 夜半 / Blacknight — 珊瑚海岸/VIII — `476_blkngt_summer#8`
+- [ ] 夜魔 / Nightmare — 待予花冠/II — `164_nightm_unveiling#2`
+- [ ] 夜魔 / Nightmare — 时代/IV — `164_nightm_epoque#5`
+- [ ] 天火 / Skyfire — 珊瑚海岸/I — `166_skfire_summer#1`
+- [ ] 奥斯塔 / Aosta — 成就之星/II — `346_aosta_game#2`
+- [ ] 奥达 / Odda — 0011/飙系列/VIII — `4131_odda_whirlwind#8`
+- [ ] 子月 / Lunacub — 0011/韵系列/I — `4014_lunacu_yun#1`
+- [ ] 守林人 / Firewatch — 冰原信使/II — `158_milu_snow#2`
+- [ ] 守林人 / Firewatch — 生命之地/II — `158_milu_wild#2`
+- [ ] 安哲拉 / Andreana — 时代/XII — `218_cuttle_epoque#12`
+- [ ] 寒檀 / Santalla — 珊瑚海岸/XV — `341_sntlla_summer#15`
+- [ ] 寒芒克洛丝 / Kroos the Keen Glint — 0011制造/VII — 异格 / alternate — `1021_kroos2_nian#8`
+- [ ] 寒芒克洛丝 / Kroos the Keen Glint — 成就之星/III — 异格 / alternate — `1021_kroos2_game#3`
+- [ ] 寻澜 / Surfer — 0011制造/XII — `4052_surfer_nian#12`
+- [ ] 小满 / Grain Buds — 0011/韵系列/III — `4122_grabds_yun#3`
+- [ ] 崖心 / Cliffheart — WWF — `173_slchan_wwf#1`
+- [ ] 崖心 / Cliffheart — 生命之地/I — `173_slchan_wild#1`
+- [ ] 巫恋 / Shamare — 0011/韵系列/VIII — `254_vodfox_yun#8`
+- [ ] 巫恋 / Shamare — 巫异盛宴/II — `254_vodfox_witch#2`
+- [ ] 布洛卡 / Broca — 玛尔特/IV — `356_broca_marthe#4`
+- [ ] 幽灵鲨 / Specter — 寒武纪/I — `143_ghost_winter#1`
+- [ ] 微风 / Breeze — 待予花冠/IV — `275_breeze_unveiling#4`
+- [ ] 德克萨斯 / Texas — 寒武纪/I — `102_texas_winter#1`
+- [ ] 德克萨斯 / Texas — 时代/VII — `102_texas_epoque#7`
+- [ ] 惊蛰 / Leizi — 成就之星/III — `306_leizi_game#3`
+- [ ] 慑砂 / Sesa — 成就之星/V — `379_sesa_game#5`
+- [ ] 战车 / Tachanka — 彩虹六号：围攻 — `459_tachak_rainbow6#1`
+- [ ] 截云 / Jieyun — 0011/韵系列/II — `4078_bdhkgt_yun#2`
+- [ ] 承曦格雷伊 / Greyy the Lightningbearer — 冰原信使/V — 异格 / alternate — `1027_greyy2_snow#5`
+- [ ] 承曦格雷伊 / Greyy the Lightningbearer — 破格视界 — 异格 / alternate — `1027_greyy2_breaker#1`
+- [ ] 折光 / Diamante — 时代/XXXVII — `499_kaitou_epoque#37`
+- [ ] 折桠 / Веточки — 0011/韵系列/X — `4207_branch_yun#10`
+- [ ] 拉普兰德 / Lappland — 斗争血脉/I — `140_whitew_boc#1`
+- [ ] 拜松 / Bison — 0011/韵系列/VII — `325_bison_yun#7`
+- [ ] 摩根 / Morgan — 时代/XLVI — `154_morgan_epoque#47`
+- [ ] 断崖 / Ayerscarpe — 斗争血脉/III — `294_ayer_boc#3`
+- [ ] 明椒 / Paprika — 0011/飙系列/Ⅴ — `4071_peper_whirlwind#5`
+- [ ] 星极 / Astesia — 时代/V — `274_astesi_epoque#5`
+- [ ] 星极 / Astesia — 时代/XXIII — `274_astesi_epoque#23`
+- [ ] 星极 / Astesia — 闪耀阶梯 — `274_astesi_shining#1`
+- [ ] 星源 / Astgenne — 时代/XXV — `135_halo_epoque#25`
+- [ ] 晓歌 / Cantabile — 0011制造/VIII — `497_ctable_nian#9`
+- [ ] 晓歌 / Cantabile — 时代/XLIII — `497_ctable_epoque#44`
+- [ ] 普罗旺斯 / Provence — 珊瑚海岸/III — `145_prove_summer#3`
+- [ ] 普罗旺斯 / Provence — 生命之地/V — `145_prove_wild#5`
+- [ ] 暮落 / Shalem — 0011/飙系列/Ⅴ — `4025_aprot2_whirlwind#5`
+- [ ] 暴行 / Savage — 忒斯特收藏/XIX — `230_savage_sale#17`
+- [ ] 暴行 / Savage — 斗争血脉/VIII — `230_savage_boc#8`
+- [ ] 暴行 / Savage — 罗德厨房/III — `230_savage_kitchen#3`
+- [ ] 暴雨 / Heavyrain — 生命之地/VI — `304_zebra_wild#6`
+- [ ] 月禾 / Tsukinogi — 冰原信使/VI — `343_tknogi_snow#6`
+- [ ] 月禾 / Tsukinogi — 时代/IX — `343_tknogi_epoque#9`
+- [ ] 杏仁 / Almond — 0011制造/XI — `4105_almond_epoque#38`
+- [ ] 极光 / Aurora — 斗争血脉/IV — `422_aurora_boc#4`
+- [ ] 极境 / Elysium — 冰原信使/II — `401_elysm_snow#2`
+- [ ] 极境 / Elysium — 珊瑚海岸/IX — `401_elysm_summer#9`
+- [ ] 柏喙 / Bibeak — 寒武纪/II — `252_bibeak_winter#2`
+- [ ] 格劳克斯 / Glaucus — 缠梦古堡 — `326_glacus_ghost#1`
+- [ ] 格拉尼 / Grani — 时代/VI — `220_grani_epoque#6`
+- [ ] 桑葚 / Mulberry — 0011制造/VIII — `473_mberry_nian#9`
+- [ ] 桑葚 / Mulberry — 时代/XIV — `473_mberry_epoque#14`
+- [ ] 梅尔 / Mayer — 缠梦古堡 — `242_otter_ghost#1`
+- [ ] 槐琥 / Waai Fu — 0011/飙系列/II — `243_waaifu_whirlwind#2`
+- [ ] 水灯心 / Brigid — 时代/LIII — `4177_brigid_epoque#53`
+- [ ] 波卜 / Bobbing — 罗德厨房/IV — `487_bobb_kitchen#4`
+- [ ] 洋灰 / Cement — 时代/XXXI — `464_cement_epoque#31`
+- [ ] 洛洛 / Rockrock — 罗小黑战记 — `4040_rockr_lxh#1`
+- [ ] 海沫 / Highmore — 0011制造/IX — `4066_highmo_nian#10`
+- [ ] 海沫 / Highmore — 时代/XLIV — `4066_highmo_epoque#45`
+- [ ] 海蒂 / Heidi — 时代/XXIV — `4045_heidi_epoque#24`
+- [ ] 海霓 / Lucilla — 时代/XLIV — `4079_haini_epoque#45`
+- [ ] 深巡 / Underflow — 时代/XLV — `4137_udflow_epoque#46`
+- [ ] 深律 / Bassline — 巫异盛宴/V — `4109_baslin_witch#5`
+- [ ] 渡桥 / Mitm — 破格视界 — `4147_mitm_breaker#1`
+- [ ] 温米 / Warmy — 寒武纪/IV — `4081_warmy_winter#4`
+- [ ] 濯尘芙蓉 / Hibiscus the Purifier — 待予花冠/II — 异格 / alternate — `1024_hbisc2_unveiling#2`
+- [ ] 火神 / Vulcan — 斗争血脉/X — `163_hpsts_boc#10`
+- [ ] 灰喉 / GreyThroat — 斗争血脉/I — `367_swllow_boc#1`
+- [ ] 灰毫 / Ashlock — 时代/XXVIII — `431_ashlok_epoque#28`
+- [ ] 炎客 / Flamebringer — 0011/飙系列/VI — `131_flameb_whirlwind#6`
+- [ ] 炎客 / Flamebringer — 珊瑚海岸/VIII — `131_flameb_summer#8`
+- [ ] 炎狱炎熔 / Lava the Purgatory — 0011/飙系列/IX — 异格 / alternate — `1011_lava2_whirlwind#9`
+- [ ] 炎狱炎熔 / Lava the Purgatory — 0011制造/V — 异格 / alternate — `1011_lava2_nian#6`
+- [ ] 燧石 / Flint — 斗争血脉/III — `415_flint_boc#3`
+- [ ] 爱丽丝 / Iris — 巫异盛宴/III — `338_iris_witch#3`
+- [ ] 特米米 / Tomimi — 珊瑚海岸/V — `411_tomimi_summer#5`
+- [ ] 狮蝎 / Manticore — 时代/IV — `215_mantic_epoque#4`
+- [ ] 狮蝎 / Manticore — 时代/XX — `215_mantic_epoque#19`
+- [ ] 玫拉 / Melanite — 时代/XXXIII — `4006_melnte_epoque#33`
+- [ ] 瑰盐 / Rose Salt — 成就之星/VII — `4163_rosesa_game#7`
+- [ ] 白金 / Platinum — 珊瑚海岸/III — `204_platnm_summer#3`
+- [ ] 白面鸮 / Ptilopsis — 0011/韵系列/IV — `128_plosis_yun#4`
+- [ ] 白面鸮 / Ptilopsis — 时代/III — `128_plosis_epoque#3`
+- [ ] 真理 / Истина — 罗德厨房 — `195_glassb_kitchen#1`
+- [ ] 石棉 / Asbestos — 0011/飙系列/III — `378_asbest_whirlwind#3`
+- [ ] 祐天寺若麦 / Yūtenji Nyamu — Ave Mujica — `4185_amoris_avemujica#1`
+- [ ] 稀音 / Scene — 时代/XXII — `336_folivo_epoque#22`
+- [ ] 稀音 / Scene — 生命之地/XI — `336_folivo_wild#11`
+- [ ] 空 / Sora — 时代/XVII — `101_sora_epoque#17`
+- [ ] 空 / Sora — 珊瑚海岸/I — `101_sora_summer#1`
+- [ ] 絮雨 / Whisperain — 0011制造/III — `436_whispr_nian#4`
+- [ ] 絮雨 / Whisperain — 巫异盛宴/IV — `436_whispr_witch#4`
+- [ ] 红 / Projekt Red — 珊瑚海岸/VI — `144_red_summer#6`
+- [ ] 红隼 / Kestrel — 时代/LII — `4023_rfalcn_epoque#52`
+- [ ] 绮良 / Kirara — 成就之星/II — `478_kirara_game#2`
+- [ ] 罗宾 / Robin — 时代/XIII — `451_robin_epoque#13`
+- [ ] 羽毛笔 / La Pluma — 珊瑚海岸/IX — `421_crow_summer#9`
+- [ ] 耶拉 / Kjera — 时代/XVIII — `4013_kjera_epoque#18`
+- [ ] 聆音 / Gracebearer — 斗争血脉/XI — `4187_graceb_boc#11`
+- [ ] 至简 / Minimalist — 珊瑚海岸/XIV — `4054_malist_summer#14`
+- [ ] 芙兰卡 / Franka — 国家地理 — `106_franka_ncg#1`
+- [ ] 苇草 / Reed — 音律联觉/II — `261_sddrag_ambiencesynesthesia#2`
+- [ ] 苍苔 / Bryophyta — 时代/XXXV — `4106_bryota_epoque#34`
+- [ ] 若叶睦 / Wakaba Mutsumi — Ave Mujica — `4183_mortis_avemujica#1`
+- [ ] 苦艾 / Absinthe — 时代/XXVIII — `405_absin_epoque#28`
+- [ ] 莎草 / Papyrus — 成就之星/VIII — `4139_papyrs_game#8`
+- [ ] 莱恩哈特 / Leonhardt — 冰原信使/III — `373_lionhd_snow#3`
+- [ ] 莱恩哈特 / Leonhardt — 生命之地/III — `373_lionhd_wild#3`
+- [ ] 菲莱 / Philae — 0011制造/XII — `4148_philae_nian#12`
+- [ ] 蓝毒 / Blue Poison — 命途迭代/II — `129_bluep_iteration#2`
+- [ ] 蓝毒 / Blue Poison — 玛尔特/III — `129_bluep_marthe#3`
+- [ ] 薄绿 / Mint — 时代/XXII — `388_mint_epoque#22`
+- [ ] 薄绿 / Mint — 时代/XXX — `388_mint_epoque#30`
+- [ ] 蚀清 / Corroserum — 时代/XXXI — `489_serum_epoque#31`
+- [ ] 蜜莓 / Honeyberry — 0011制造/IX — `449_glider_nian#10`
+- [ ] 蜜莓 / Honeyberry — 时代/XVII — `449_glider_epoque#17`
+- [ ] 蜜蜡 / Beeswax — 时代/IX — `344_beewax_epoque#9`
+- [ ] 蜜蜡 / Beeswax — 珊瑚海岸/XI — `344_beewax_summer#11`
+- [ ] 行箸 / Xingzhu — 时代/L — `4172_xingzh_epoque#51`
+- [ ] 衡沙 / Sand Reckoner — 错位巡礼/III — `4140_lasher_sightseer#3`
+- [ ] 裁度 / Figurino — 0011/韵系列/IX — `4155_talr_yun#9`
+- [ ] 见行者 / Enforcer — 时代/XXI — `4036_forcer_epoque#20`
+- [ ] 诗怀雅 / Swire — 0011制造/II — `308_swire_nian#2`
+- [ ] 诺威尔 / Nowell — 命途迭代/VI — `4173_nowell_iteration#6`
+- [ ] 谜图 / Puzzle — 时代/XXIX — `4017_puzzle_epoque#29`
+- [ ] 谜图 / Puzzle — 闪耀阶梯/III — `4017_puzzle_shining#3`
+- [ ] 贝娜 / Bena — 0011制造/XI — `369_bena_epoque#38`
+- [ ] 贾维 / Chiave — 啸风/II — `349_chiave_race#2`
+- [ ] 赤冬 / Akafuyu — 时代/XV — `475_akafyu_epoque#15`
+- [ ] 赫默 / Silence — 寒武纪/II — `108_silent_winter#2`
+- [ ] 赫默 / Silence — 雷神开拓者 — `108_silent_sweep#1`
+- [ ] 车尔尼 / Czerny — 生命之地/VIII — `4047_pianst_wild#8`
+- [ ] 送葬人 / Executor — 斗争血脉/I — `279_excu_boc#1`
+- [ ] 野鬃 / Wild Mane — 时代/XVI — `496_wildmn_epoque#16`
+- [ ] 钼铅 / Wulfenite — 玛尔特/XIV — `4171_wulfen_marthe#14`
+- [ ] 铎铃 / Wind Chimes — 0011/韵系列/V — `4083_chimes_yun#5`
+- [ ] 铸铁 / Sideroca — 珊瑚海岸/VI — `333_sidero_summer#6`
+- [ ] 锡人 / Tin Man — 忒斯特收藏/XII — `4151_tinman_sale#11`
+- [ ] 锡兰 / Ceylon — 珊瑚海岸/XIII — `348_ceylon_summer#13`
+- [ ] 阿米娅 / Amiya — CASC — `1001_amiya2_casc#1`
+- [ ] 阿米娅 / Amiya — 忒斯特收藏/I — `002_amiya_winter#1`
+- [ ] 阿米娅 / Amiya — 忒斯特收藏/II — `002_amiya_epoque#4`
+- [ ] 阿米娅 / Amiya — 忒斯特收藏/IV — `002_amiya_test#1`
+- [ ] 阿米娅 / Amiya — 忒斯特收藏/XIV — `1037_amiya3_sale#13`
+- [ ] 阿米娅 / Amiya — 忒斯特收藏/XVIII — `1001_amiya2_sale#16`
+- [ ] 阿米娅 / Amiya — 默认服装 — `1037_amiya3`
+- [ ] 阿罗玛 / Aroma — 时代/LIV — `446_aroma_epoque#54`
+- [ ] 陨星 / Meteorite — 珊瑚海岸/XXII — `219_meteo_summer#22`
+- [ ] 陨星 / Meteorite — 雷神开拓者 — `219_meteo_sweep#1`
+- [ ] 隐现 / Insider — 珊瑚海岸/XXII — `498_inside_summer#22`
+- [ ] 隐现 / Insider — 罗德厨房/II — `498_inside_kitchen#2`
+- [ ] 雪绒 / Qanipalaat — 冰原信使/VI — `466_qanik_snow#6`
+- [ ] 雪雉 / Snowsant — 巫异盛宴/II — `383_snsant_witch#2`
+- [ ] 雷蛇 / Liskarm — 0011制造/II — `107_liskam_nian#2`
+- [ ] 雷蛇 / Liskarm — 雷神推进者 — `107_liskam_striker#1`
+- [ ] 青枳 / Poncirus — 时代/XXXIV — `488_buildr_epoque#34`
+- [ ] 鞭刃 / Whislash — 时代/XI — `265_sophia_epoque#11`
+- [ ] 风丸 / Kazemaru — 巫异盛宴/III — `4016_kazema_witch#3`
+- [ ] 食铁兽 / FEater — 0011制造/VI — `241_panda_nian#7`
+- [ ] 食铁兽 / FEater — 玛尔特/I — `241_panda_marthe#1`
+- [ ] 龙舌兰 / Tequila — 闪耀阶梯/II — `486_takila_shining#2`
+- [ ] 龙舌兰 / Tequila — 音律联觉/II — `486_takila_ambiencesynesthesia#2`
+
+### 6★
+
+- [ ] Mon3tr — 斗争血脉/XI — `4179_monstr_boc#11`
+- [ ] W — 时代/VII — `113_cqbw_epoque#7`
+- [ ] 丰川祥子 / Togawa Sakiko — Ave Mujica — `4182_oblvns_avemujica#1`
+- [ ] 乌尔比安 / Ulpianus — 时代/XLVII — `4145_ulpia_epoque#48`
+- [ ] 仇白 / Qiubai — 国家地理 — `4082_qiubai_ncg#1`
+- [ ] 仇白 / Qiubai — 时代/XXXI — `4082_qiubai_epoque#31`
+- [ ] 令 / Ling — 0011制造/VIII — `2023_ling_nian#9`
+- [ ] 令 / Ling — 0011制造/XII — `2023_ling_nian#12`
+- [ ] 令 / Ling — 国家地理 — `2023_ling_ncg#1`
+- [ ] 伊内丝 / Ines — 斗争血脉/VIII — `4087_ines_boc#8`
+- [ ] 伊内丝 / Ines — 音律联觉/V — `4087_ines_ambiencesynesthesia#5`
+- [ ] 伊芙利特 / Ifrit — 珊瑚海岸/I — `134_ifrit_summer#1`
+- [ ] 伊芙利特 / Ifrit — 肯德基 — `134_ifrit_kfc#1`
+- [ ] 伊芙利特 / Ifrit — 轻松小熊 — `134_ifrit_rilakkuma#1`
+- [ ] 伺夜 / Vigil — 时代/XXVII — `427_vigil_epoque#27`
+- [ ] 余 / Yu — 0011制造/XII — `2026_yu_nian#12`
+- [ ] 佩佩 / Pepe — 错位巡礼/II — `4058_pepe_sightseer#2`
+- [ ] 信仰搅拌机 / Sankta Miksaparato — 斗争血脉/XII — `4194_rmixer_boc#12`
+- [ ] 假日威龙陈 / Ch'en the Holungday — 斗争血脉/VI — 异格 / alternate — `1013_chen2_boc#6`
+- [ ] 假日威龙陈 / Ch'en the Holungday — 珊瑚海岸/XX — 异格 / alternate — `1013_chen2_summer#20`
+- [ ] 傀影 / Phantom — 忒斯特收藏/V — `250_phatom_sale#4`
+- [ ] 傀影 / Phantom — 缠梦古堡 — `250_phatom_ghost#1`
+- [ ] 凯尔希 / Kal'tsit — 忒斯特收藏/XVI — `003_kalts_sale#14`
+- [ ] 凯尔希 / Kal'tsit — 斗争血脉/VI — `003_kalts_boc#6`
+- [ ] 刻俄柏 / Ceobe — 0011/飙系列/II — `2013_cerber_whirlwind#2`
+- [ ] 刻俄柏 / Ceobe — 珊瑚海岸/IV — `2013_cerber_summer#4`
+- [ ] 卡涅利安 / Carnelian — 冰原信使/III — `426_billro_snow#3`
+- [ ] 卡涅利安 / Carnelian — 珊瑚海岸/VIII — `426_billro_summer#8`
+- [ ] 史尔特尔 / Surtr — i.t — `350_surtr_it#1`
+- [ ] 史尔特尔 / Surtr — 珊瑚海岸/IX — `350_surtr_summer#9`
+- [ ] 史尔特尔 / Surtr — 音律联觉/VII — `350_surtr_ambiencesynesthesia#6`
+- [ ] 号角 / Horn — 时代/XXIV — `4039_horn_epoque#24`
+- [ ] 司霆惊蛰 / Leizi the Thunderbringer — 成就之星/VIII — 异格 / alternate — `1043_leizi2_game#8`
+- [ ] 圣约送葬人 / Executor the Ex Foedere — 三丽鸥家族/II — 异格 / alternate — `1032_excu2_sanrio#2`
+- [ ] 圣约送葬人 / Executor the Ex Foedere — 忒斯特收藏/XIII — 异格 / alternate — `1032_excu2_sale#12`
+- [ ] 圣聆初雪 / Pramanix the Prerita — 音律联觉/IX — 异格 / alternate — `1046_sbell2_ambiencesynesthesia#8`
+- [ ] 塑心 / Virtuosa — 忒斯特收藏/XIII — `245_cello_sale#12`
+- [ ] 塞雷娅 / Saria — 忒斯特收藏/III — `202_demkni_test#1`
+- [ ] 塞雷娅 / Saria — 斗争血脉/I — `202_demkni_boc#1`
+- [ ] 塞雷娅 / Saria — 音律联觉/VIII — `202_demkni_ambiencesynesthesia#7`
+- [ ] 夕 / Dusk — 0011制造/VI — `2015_dusk_nian#7`
+- [ ] 夕 / Dusk — 0011制造/XII — `2015_dusk_nian#12`
+- [ ] 多萝西 / Dorothy — 巫异盛宴/IV — `4048_doroth_witch#4`
+- [ ] 夜莺 / Nightingale — 巫异盛宴 — `179_cgbird_witch#1`
+- [ ] 夜莺 / Nightingale — 错位巡礼/I — `179_cgbird_sightseer#1`
+- [ ] 妮芙 / Nymph — 时代/XLI — `4146_nymph_epoque#42`
+- [ ] 妮芙 / Nymph — 音律联觉/VII — `4146_nymph_ambiencesynesthesia#6`
+- [ ] 娜仁图亚 / Narantuya — 小马宝莉 — `4138_narant_littlepony#1`
+- [ ] 娜仁图亚 / Narantuya — 破格视界 — `4138_narant_breaker#1`
+- [x] 安洁莉娜 / Angelina — 斗争血脉/I — `291_aglina_boc#1` — [package](pets/angelina-boc-1)
+- [x] 安洁莉娜 / Angelina — 珊瑚海岸/V — `291_aglina_summer#5` — [package](pets/angelina-summer-5)
+- [ ] 山 / Mountain — 斗争血脉/III — `264_f12yin_boc#3`
+- [ ] 山 / Mountain — 时代/XV — `264_f12yin_epoque#15`
+- [ ] 山 / Mountain — 玛尔特/XIII — `264_f12yin_marthe#13`
+- [ ] 嵯峨 / Saga — 忒斯特收藏/X — `362_saga_sale#9`
+- [ ] 左乐 / Zuo Le — 0011制造/XI — `4121_zuole_nian#11`
+- [ ] 左乐 / Zuo Le — 忒斯特收藏/XVIII — `4121_zuole_sale#16`
+- [ ] 帕拉斯 / Pallas — 时代/XII — `485_pallas_epoque#12`
+- [ ] 帕拉斯 / Pallas — 时代/XIX — `485_pallas_epoque#19`
+- [ ] 年 / Nian — 0011制造/III — `2014_nian_nian#4`
+- [ ] 年 / Nian — 中国电影资料馆 — `2014_nian_cfa#1`
+- [ ] 异客 / Passenger — 时代/XVII — `472_pasngr_epoque#17`
+- [ ] 弑君者 / Crownslayer — 命途迭代/V — `1502_crosly_iteration#5`
+- [ ] 引星棘刺 / Thorns the Lodestar — 玛尔特/IX — 异格 / alternate — `1039_thorn2_marthe#9`
+- [ ] 归溟幽灵鲨 / Specter the Unchained — 斗争血脉/VI — 异格 / alternate — `1023_ghost2_boc#6`
+- [ ] 忍冬 / Vulpisfoglia — 时代/LV — `4026_vulpis_epoque#55`
+- [ ] 推进之王 / Siege — 生命之地/II — `112_siege_wild#2`
+- [ ] 推进之王 / Siege — 雷神推进者/II — `112_siege_striker#2`
+- [ ] 提丰 / Typhon — 珊瑚海岸/XVII — `2012_typhon_summer#17`
+- [ ] 提丰 / Typhon — 生命之地/IX — `2012_typhon_wild#9`
+- [ ] 斥罪 / Penance — 冰原信使/VI — `4065_judge_snow#6`
+- [ ] 斥罪 / Penance — 时代/XXXIII — `4065_judge_epoque#33`
+- [ ] 斯卡蒂 / Skadi — 玛尔特/V — `263_skadi_marthe#5`
+- [ ] 斯卡蒂 / Skadi — 珊瑚海岸/III — `263_skadi_summer#3`
+- [ ] 新约能天使 / Exusiai the New Covenant — 命途迭代/VI — 异格 / alternate — `1041_angel2_iteration#6`
+- [ ] 早露 / Роса — 时代/XII — `197_poca_epoque#12`
+- [ ] 早露 / Роса — 轻松小熊 — `197_poca_rilakkuma#1`
+- [ ] 星熊 / Hoshiguma — 0011/飙系列 — `136_hsguma_nian#3`
+- [ ] 星熊 / Hoshiguma — 珊瑚海岸/XVI — `136_hsguma_summer#16`
+- [ ] 林 / Lin — 0011制造/IX — `4080_lin_nian#10`
+- [ ] 林 / Lin — 小马宝莉 — `4080_lin_littlepony#1`
+- [ ] 林 / Lin — 珊瑚海岸/XIX — `4080_lin_summer#19`
+- [ ] 棘刺 / Thorns — i.t — `293_thorns_it#1`
+- [ ] 棘刺 / Thorns — 斗争血脉/VIII — `293_thorns_boc#8`
+- [ ] 森蚺 / Eunectes — 斗争血脉/III — `416_zumama_boc#3`
+- [ ] 歌蕾蒂娅 / Gladiia — 斗争血脉/V — `474_glady_boc#5`
+- [ ] 歌蕾蒂娅 / Gladiia — 时代/XXXIII — `474_glady_epoque#33`
+- [ ] 止颂 / Lessing — 0011/飙系列/VII — `4011_lessng_whirlwind#7`
+- [ ] 死芒 / Necrass — 珊瑚海岸/XX — `450_necras_summer#20`
+- [ ] 死芒 / Necrass — 音律联觉/VIII — `450_necras_ambiencesynesthesia#7`
+- [ ] 水月 / Mizuki — 忒斯特收藏/VIII — `437_mizuki_sale#7`
+- [ ] 水月 / Mizuki — 成就之星/VI — `437_mizuki_game#6`
+- [ ] 泥岩 / Mudrock — 珊瑚海岸/VI — `311_mudrok_summer#6`
+- [ ] 泥岩 / Mudrock — 生命之地/X — `311_mudrok_wild#10`
+- [ ] 泥岩 / Mudrock — 音律联觉/II — `311_mudrok_ambiencesynesthesia#2`
+- [ ] 流明 / Lumen — 三丽鸥家族/II — `4042_lumen_sanrio#2`
+- [ ] 流明 / Lumen — 音律联觉/III — `4042_lumen_ambiencesynesthesia#3`
+- [ ] 浊心斯卡蒂 / Skadi the Corrupting Heart — 命途迭代/II — 异格 / alternate — `1012_skadi2_iteration#2`
+- [ ] 浊心斯卡蒂 / Skadi the Corrupting Heart — 斗争血脉/IV — 异格 / alternate — `1012_skadi2_boc#4`
+- [ ] 涤火杰西卡 / Jessica the Liberated — 中国电影资料馆 — 异格 / alternate — `1034_jesca2_cfa#1`
+- [ ] 淬羽赫默 / Silence the Paradigmatic — 时代/XXXII — 异格 / alternate — `1031_slent2_epoque#32`
+- [ ] 温蒂 / Weedy — 冰原信使/II — `400_weedy_snow#2`
+- [ ] 温蒂 / Weedy — 错位巡礼/I — `400_weedy_sightseer#1`
+- [ ] 澄闪 / Goldenglow — 三丽鸥家族 — `377_gdglow_sanrio#1`
+- [ ] 澄闪 / Goldenglow — 冰原信使/V — `377_gdglow_snow#5`
+- [ ] 澄闪 / Goldenglow — 珊瑚海岸/XII — `377_gdglow_summer#12`
+- [ ] 灰烬 / Ash — 彩虹六号：围攻 — `456_ash_rainbow6#1`
+- [ ] 灵知 / Gnosis — 斗争血脉/IV — `206_gnosis_boc#4`
+- [ ] 烛煌 / Blaze the Igniting Spark — 寒武纪/V — 异格 / alternate — `1040_blaze2_winter#5`
+- [ ] 焰尾 / Flametail — 成就之星/II — `420_flamtl_game#2`
+- [ ] 焰影苇草 / Reed The Flame Shadow — 冰原信使/VIII — 异格 / alternate — `1020_reed2_snow#8`
+- [ ] 焰影苇草 / Reed The Flame Shadow — 时代/XXX — 异格 / alternate — `1020_reed2_epoque#30`
+- [ ] 焰影苇草 / Reed The Flame Shadow — 珊瑚海岸/XVII — 异格 / alternate — `1020_reed2_summer#17`
+- [ ] 煌 / Blaze — 巫异盛宴/V — `017_huang_witch#5`
+- [ ] 煌 / Blaze — 音律联觉 — `017_huang_as#1`
+- [ ] 玛恩纳 / Młynar — 命途迭代/III — `4064_mlynar_iteration#3`
+- [ ] 玛恩纳 / Młynar — 时代/XXVIII — `4064_mlynar_epoque#28`
+- [ ] 玛露西尔 / Marcille — 迷宫饭 — `4141_marcil_dungeon#1`
+- [ ] 琳琅诗怀雅 / Swire the Elegant Wit — 音律联觉/IV — 异格 / alternate — `1033_swire2_ambiencesynesthesia#4`
+- [ ] 琴柳 / Saileach — 时代/XIV — `479_sleach_epoque#14`
+- [ ] 琴柳 / Saileach — 珊瑚海岸/XI — `479_sleach_summer#11`
+- [ ] 瑕光 / Blemishine — 小马宝莉 — `423_blemsh_littlepony#1`
+- [ ] 瑕光 / Blemishine — 巫异盛宴/II — `423_blemsh_witch#2`
+- [ ] 电弧 / Raidian — 成就之星/VIII — `4195_radian_game#8`
+- [ ] 白铁 / Stainless — 珊瑚海岸/XI — `4072_ironmn_summer#11`
+- [ ] 白铁 / Stainless — 音律联觉/V — `4072_ironmn_ambiencesynesthesia#5`
+- [ ] 百炼嘉维尔 / Gavial the Invincible — 珊瑚海岸/XII — 异格 / alternate — `1026_gvial2_summer#12`
+- [ ] 空弦 / Archetto — 忒斯特收藏/XV — `332_archet_sale#14`
+- [ ] 空弦 / Archetto — 闪耀阶梯 — `332_archet_shining#1`
+- [ ] 纯烬艾雅法拉 / Eyjafjalla the Hvít Aska — 时代/XXXIV — 异格 / alternate — `1016_agoat2_epoque#34`
+- [ ] 维什戴尔 / Wiš'adel — 忒斯特收藏/XV — 异格 / alternate — `1035_wisdel_sale#14`
+- [ ] 维什戴尔 / Wiš'adel — 成就之星/IX — 异格 / alternate — `1035_wisdel_game#9`
+- [ ] 维娜·维多利亚 / Vina Victoria — 时代/XLIX — 异格 / alternate — `1019_siege2_epoque#50`
+- [ ] 缄默德克萨斯 / Texas the Omertosa — 命途迭代 — 异格 / alternate — `1028_texas2_iteration#1`
+- [ ] 缄默德克萨斯 / Texas the Omertosa — 时代/XXXVI — 异格 / alternate — `1028_texas2_epoque#36`
+- [ ] 缪尔赛思 / Muelsyse — 斗争血脉/VIII — `249_mlyss_boc#8`
+- [ ] 缪尔赛思 / Muelsyse — 音律联觉/VI — `249_mlyss_ambiencesynesthesia#6`
+- [ ] 耀骑士临光 / Nearl the Radiant Knight — 时代/XVII — 异格 / alternate — `1014_nearl2_epoque#17`
+- [ ] 老鲤 / Lee — 0011/飙系列/X — `322_lmlee_whirlwind#10`
+- [ ] 老鲤 / Lee — 三丽鸥家族 — `322_lmlee_sanrio#1`
+- [ ] 老鲤 / Lee — 巫异盛宴/III — `322_lmlee_witch#3`
+- [ ] 能天使 / Exusiai — 忒斯特收藏/IX — `103_angel_sale#8`
+- [ ] 能天使 / Exusiai — 生命之地/I — `103_angel_wild#1`
+- [ ] 能天使 / Exusiai — 肯德基 — `103_angel_kfc#1`
+- [ ] 艾丽妮 / Irene — 成就之星/III — `4009_irene_game#3`
+- [ ] 艾丽妮 / Irene — 音律联觉/III — `4009_irene_ambiencesynesthesia#3`
+- [ ] 艾拉 / Ela — 彩虹六号：围攻/II — `4123_ela_rainbow6#2`
+- [ ] 艾雅法拉 / Eyjafjalla — 三丽鸥家族/II — `180_amgoat_sanrio#2`
+- [ ] 艾雅法拉 / Eyjafjalla — 珊瑚海岸/V — `180_amgoat_summer#5`
+- [ ] 荒芜拉普兰德 / Lappland the Decadenza — 忒斯特收藏/XVII — 异格 / alternate — `1038_whitw2_sale#15`
+- [ ] 莫斯提马 / Mostima — 时代/V — `213_mostma_epoque#5`
+- [ ] 莫斯提马 / Mostima — 音律联觉/VI — `213_mostma_ambiencesynesthesia#6`
+- [ ] 莱伊 / Ray — 珊瑚海岸/XXII — `4117_ray_summer#22`
+- [ ] 莱伊 / Ray — 闪耀阶梯/II — `4117_ray_shining#2`
+- [ ] 菲亚梅塔 / Fiammetta — 巫异盛宴/IV — `300_phenxi_witch#4`
+- [ ] 菲亚梅塔 / Fiammetta — 斗争血脉/IX — `300_phenxi_boc#9`
+- [ ] 蕾缪安 / Lemuen — 音律联觉/VIII — `4193_lemuen_ambiencesynesthesia#7`
+- [ ] 薇薇安娜 / Viviana — 时代/XXXIX — `4098_vvana_epoque#40`
+- [ ] 赫德雷 / Hoederer — 错位巡礼/I — `4088_hodrer_sightseer#1`
+- [ ] 赫拉格 / Hellagur — 斗争血脉/II — `188_helage_boc#2`
+- [ ] 远牙 / Fartooth — 0011/飙系列/Ⅴ — `430_fartth_whirlwind#5`
+- [ ] 迷迭香 / Rosmontis — 忒斯特收藏/XVIII — `391_rosmon_sale#16`
+- [ ] 迷迭香 / Rosmontis — 时代/XVII — `391_rosmon_epoque#17`
+- [ ] 逻各斯 / Logos — 音律联觉/VI — `4133_logos_ambiencesynesthesia#6`
+- [ ] 遥 / Haruka — 命途迭代/VI — `4202_haruka_iteration#6`
+- [ ] 重岳 / Chongyue — 0011制造/IX — `2024_chyue_nian#10`
+- [ ] 重岳 / Chongyue — 中国电影资料馆 — `2024_chyue_cfa#1`
+- [ ] 铃兰 / Suzuran — 时代/XXII — `358_lisa_epoque#22`
+- [ ] 铃兰 / Suzuran — 生命之地/III — `358_lisa_wild#3`
+- [ ] 铃兰 / Suzuran — 罗小黑战记 — `358_lisa_lxh#1`
+- [ ] 银灰 / SilverAsh — 冰原信使/I — `172_svrash_snow#1`
+- [ ] 银灰 / SilverAsh — 珊瑚海岸/IV — `172_svrash_summer#4`
+- [ ] 银灰 / SilverAsh — 音律联觉/IV — `172_svrash_ambiencesynesthesia#4`
+- [ ] 锏 / Degenbrecher — 巫异盛宴/V — `4116_blkkgt_witch#5`
+- [ ] 闪灵 / Shining — 珊瑚海岸/I — `147_shining_summer#1`
+- [ ] 阿 / Aak — 0011制造/III — `225_haak_nian#4`
+- [ ] 阿 / Aak — 0011制造/IV — `225_haak_nian#5`
+- [ ] 阿斯卡纶 / Ascalon — 命途迭代/IV — `4132_ascln_iteration#4`
+- [ ] 陈 / Ch'en — 0011制造/II — `010_chen_nian#2`
+- [ ] 陈 / Ch'en — 忒斯特收藏/XI — `010_chen_sale#10`
+- [ ] 隐德来希 / Entelechia — 寒武纪/V — `4010_etlchi_winter#5`
+- [ ] 霍尔海雅 / Ho'olheyak — 时代/XLIX — `4027_heyak_epoque#50`
+- [ ] 霍尔海雅 / Ho'olheyak — 音律联觉/IV — `4027_heyak_ambiencesynesthesia#4`
+- [ ] 风笛 / Bagpipe — 啸风 — `222_bpipe_race#1`
+- [ ] 风笛 / Bagpipe — 时代/XXVIII — `222_bpipe_epoque#28`
+- [ ] 风笛 / Bagpipe — 时代/XXXIX — `222_bpipe_epoque#40`
+- [ ] 魔王 / Civilight Eterna — 时代/XLIX — `4134_cetsyr_epoque#50`
+- [ ] 鸿雪 / Позёмка — 0011/韵系列/VII — `4055_bgsnow_yun#7`
+- [ ] 鸿雪 / Позёмка — 生命之地/VII — `4055_bgsnow_wild#7`
+- [ ] 麦哲伦 / Magallan — 罗德厨房 — `248_mgllan_kitchen#1`
+- [ ] 黍 / Shu — 0011制造/XI — `2025_shu_nian#11`
+- [ ] 黑 / Schwarz — 冰原信使/I — `340_shwaz_snow#1`
+- [ ] 黑 / Schwarz — 雷神推进者 — `340_shwaz_striker#1`
+- [ ] 黑键 / Ebenholz — 斗争血脉/VI — `4046_ebnhlz_boc#6`

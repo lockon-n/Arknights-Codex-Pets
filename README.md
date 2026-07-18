@@ -6,6 +6,10 @@
 
 将《明日方舟》干员基建动态小人转换为 Codex v2 宠物的社区项目。本仓库只收录通过验证的成品包；完整上游素材和转换过程中的中间文件不会提交到这里。
 
+### 制作进度
+
+查看 [PROGRESS.md](PROGRESS.md) 了解已经完成的默认干员与皮肤，以及尚未发布的 TODO。项目会按照国服实装顺序逐步扩充；勾选状态由成品登记表自动生成。
+
 ### 安装与使用
 
 以下命令适用于 macOS 和 Linux。
@@ -74,7 +78,8 @@ Codex 本地使用时只需要 `pet.json` 和 `spritesheet.webp` 或 `spriteshee
 2. 从其 `models_data.json` 中选择 `model_key`。
 3. 使用可移植的 `ark-models-to-pet` Skill 完成渲染、动作映射、QA 和打包。
 4. 在本 Git 工作树之外暂存待验收成品，并验证图集原件和 QA 证据。
-5. 将通过验收的目录发布到 `pets/<pet-id>/`，合并登记到 `registry/pets.json`，再次验证后再提交。
+5. 将通过验收的目录发布到 `pets/<pet-id>/`，合并登记到 `registry/pets.json`。
+6. 运行 `python3 scripts/update_progress.py` 更新进度页，再次验证后提交。
 
 详细的审核关卡和素材规则见 [docs/WORKFLOW.md](docs/WORKFLOW.md)。
 
@@ -90,6 +95,10 @@ Codex 本地使用时只需要 `pet.json` 和 `spritesheet.webp` 或 `spriteshee
 ## English
 
 A community project that converts Arknights operator building-chibi animations into Codex v2 pets. This repository contains only validated packages; complete upstream assets and conversion intermediates are kept outside the repository.
+
+### Production progress
+
+See [PROGRESS.md](PROGRESS.md) for completed default operators and outfits, plus the unpublished TODO list. The collection will expand gradually in CN release order; checkbox states are generated from the approved-package registry.
 
 ### Installation and usage
 
@@ -159,7 +168,8 @@ The default sizing policy is `safe-max`: render official Spine assets at 768×83
 2. Select a `model_key` from its `models_data.json`.
 3. Use the portable `ark-models-to-pet` Skill to render, map, QA, and package the pet.
 4. Stage candidate packages outside this Git worktree and validate the exact atlas copies and QA evidence.
-5. Publish accepted directories into `pets/<pet-id>/`, merge their entries into `registry/pets.json`, validate again, and then commit.
+5. Publish accepted directories into `pets/<pet-id>/` and merge their entries into `registry/pets.json`.
+6. Run `python3 scripts/update_progress.py` to refresh the progress page, validate again, and then commit.
 
 See [docs/WORKFLOW.md](docs/WORKFLOW.md) for detailed review gates and source rules.
 
