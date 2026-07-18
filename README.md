@@ -41,8 +41,8 @@ The screenshots below show the installed pet picker and Angelina's default outfi
 先克隆仓库：
 
 ```bash
-git clone https://github.com/lockon-n/ArkNights-Codex-Pets.git
-cd ArkNights-Codex-Pets
+git clone https://github.com/lockon-n/Arknights-Codex-Pets.git
+cd Arknights-Codex-Pets
 ```
 
 安装单个宠物（以安洁莉娜为例）：
@@ -131,8 +131,8 @@ The following commands are intended for macOS and Linux.
 Clone the repository:
 
 ```bash
-git clone https://github.com/lockon-n/ArkNights-Codex-Pets.git
-cd ArkNights-Codex-Pets
+git clone https://github.com/lockon-n/Arknights-Codex-Pets.git
+cd Arknights-Codex-Pets
 ```
 
 Install one pet (Angelina in this example):
