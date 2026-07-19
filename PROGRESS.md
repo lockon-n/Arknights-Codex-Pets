@@ -11,9 +11,9 @@ The collection will expand gradually in CN release order, with outfits maintaine
 
 | 类别 / Category | 已完成 / Done | 总数 / Total | 进度 / Progress |
 |---|---:|---:|---:|
-| 默认干员 / Default operators | 133 | 420 | 31.7% |
+| 默认干员 / Default operators | 143 | 420 | 34.0% |
 | 皮肤 / Outfits | 2 | 506 | 0.4% |
-| **合计 / Total** | **135** | **926** | **14.6%** |
+| **合计 / Total** | **145** | **926** | **15.7%** |
 
 上游目录快照 / Upstream catalog snapshot: `2026-07-13`, Ark-Models commit `3619a9a7268ec049dbbb30d1cff0ffa6d3fdf5ed` (`zh_CN`).
 
@@ -27,7 +27,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] GALLUS² — `4227_gallus`
 - [x] Lancet-2 — `285_medic2` — [package](pets/lancet-2)
 - [ ] PhonoR-0 — `4136_phonor`
-- [ ] THRM-EX / Thermal-EX — `376_therex`
+- [x] THRM-EX / Thermal-EX — `376_therex` — [package](pets/thermal-ex)
 - [ ] U-Official — `4091_ulika`
 - [ ] 正义骑士号 / "Justice Knight" — `4000_jnight`
 - [ ] 泰拉大陆调查团 / Terra Research Commission — `4077_palico`
@@ -91,7 +91,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 桃金娘 / Myrtle — `151_myrtle` — [package](pets/myrtle)
 - [x] 梅 / May — `133_mm` — [package](pets/may)
 - [ ] 泡泡 / Bubble — `381_bubble`
-- [ ] 波登可 / Podenco — `258_podego`
+- [x] 波登可 / Podenco — `258_podego` — [package](pets/podenco)
 - [x] 流星 / Meteor — `126_shotst` — [package](pets/meteor)
 - [x] 深海色 / Deepcolor — `110_deepcl` — [package](pets/deepcolor)
 - [ ] 深靛 / Indigo — `469_indigo`
@@ -207,11 +207,11 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 暮落 / Shalem — `4025_aprot2`
 - [x] 暴行 / Savage — `230_savage` — [package](pets/savage)
 - [ ] 暴雨 / Heavyrain — `304_zebra`
-- [ ] 月禾 / Tsukinogi — `343_tknogi`
+- [x] 月禾 / Tsukinogi — `343_tknogi` — [package](pets/tsukinogi)
 - [ ] 杏仁 / Almond — `4105_almond`
 - [ ] 松桐 / Matsukiri — `4199_makiri`
 - [ ] 极光 / Aurora — `422_aurora`
-- [ ] 极境 / Elysium — `401_elysm`
+- [x] 极境 / Elysium — `401_elysm` — [package](pets/elysium)
 - [x] 柏喙 / Bibeak — `252_bibeak` — [package](pets/bibeak)
 - [x] 格劳克斯 / Glaucus — `326_glacus` — [package](pets/glaucus)
 - [x] 格拉尼 / Grani — `220_grani` — [package](pets/grani)
@@ -251,7 +251,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 白面鸮 / Ptilopsis — `128_plosis` — [package](pets/ptilopsis)
 - [x] 真理 / Истина — `195_glassb` — [package](pets/istina)
 - [ ] 矩 / Ju — `4221_ju`
-- [ ] 石棉 / Asbestos — `378_asbest`
+- [x] 石棉 / Asbestos — `378_asbest` — [package](pets/asbestos)
 - [ ] 祐天寺若麦 / Yūtenji Nyamu — `4185_amoris`
 - [ ] 稀音 / Scene — `336_folivo`
 - [x] 空 / Sora — `101_sora` — [package](pets/sora)
@@ -269,9 +269,9 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 苇草 / Reed — `261_sddrag` — [package](pets/reed)
 - [ ] 苍苔 / Bryophyta — `4106_bryota`
 - [ ] 若叶睦 / Wakaba Mutsumi — `4183_mortis`
-- [ ] 苦艾 / Absinthe — `405_absin`
+- [x] 苦艾 / Absinthe — `405_absin` — [package](pets/absinthe)
 - [ ] 莎草 / Papyrus — `4139_papyrs`
-- [ ] 莱恩哈特 / Leonhardt — `373_lionhd`
+- [x] 莱恩哈特 / Leonhardt — `373_lionhd` — [package](pets/leonhardt)
 - [ ] 莱欧斯 / Laios — `4142_laios`
 - [ ] 菲莱 / Philae — `4148_philae`
 - [ ] 蒂比 / Tippi — `4191_tippi`
@@ -324,7 +324,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 ### 6★
 
 - [ ] Mon3tr — `4179_monstr`
-- [ ] W — `113_cqbw`
+- [x] W — `113_cqbw` — [package](pets/w)
 - [ ] 丰川祥子 / Togawa Sakiko — `4182_oblvns`
 - [ ] 乌尔比安 / Ulpianus — `4145_ulpia`
 - [ ] 仇白 / Qiubai — `4082_qiubai`
@@ -374,7 +374,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 斩业星熊 / Hoshiguma the Breacher — 异格 / alternate — `1044_hsgma2`
 - [x] 斯卡蒂 / Skadi — `263_skadi` — [package](pets/skadi)
 - [ ] 新约能天使 / Exusiai the New Covenant — 异格 / alternate — `1041_angel2`
-- [ ] 早露 / Роса — `197_poca`
+- [x] 早露 / Роса — `197_poca` — [package](pets/rosa)
 - [x] 星熊 / Hoshiguma — `136_hsguma` — [package](pets/hoshiguma)
 - [ ] 望 / Wang — `2027_wang`
 - [ ] 林 / Lin — `4080_lin`
@@ -389,7 +389,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 浊心斯卡蒂 / Skadi the Corrupting Heart — 异格 / alternate — `1012_skadi2`
 - [ ] 涤火杰西卡 / Jessica the Liberated — 异格 / alternate — `1034_jesca2`
 - [ ] 淬羽赫默 / Silence the Paradigmatic — 异格 / alternate — `1031_slent2`
-- [ ] 温蒂 / Weedy — `400_weedy`
+- [x] 温蒂 / Weedy — `400_weedy` — [package](pets/weedy)
 - [ ] 溯光星源 / Astgenne the Lightchaser — 异格 / alternate — `1047_halo2`
 - [ ] 澄闪 / Goldenglow — `377_gdglow`
 - [ ] 灰烬 / Ash — `456_ash`

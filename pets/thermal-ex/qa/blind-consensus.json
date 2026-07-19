@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "model_key": "376_therex",
+  "votes": {
+    "horizontal_A": {
+      "ambiguous": 3
+    },
+    "horizontal_B": {
+      "ambiguous": 3
+    },
+    "vertical_A": {
+      "ambiguous": 3
+    },
+    "vertical_B": {
+      "ambiguous": 3
+    }
+  },
+  "horizontal_A": "screen-right",
+  "horizontal_B": "screen-left",
+  "vertical_A": "down",
+  "vertical_B": "up",
+  "semantic_recheck": {
+    "source_observed": {
+      "horizontal_A": "screen-left",
+      "horizontal_B": "screen-right",
+      "vertical_A": "down",
+      "vertical_B": "up"
+    },
+    "source_expected": {
+      "horizontal_A": "screen-left",
+      "horizontal_B": "screen-right",
+      "vertical_A": "down",
+      "vertical_B": "up"
+    },
+    "translated_to_base": {
+      "horizontal_A": "screen-right",
+      "horizontal_B": "screen-left",
+      "vertical_A": "down",
+      "vertical_B": "up"
+    },
+    "votes": {
+      "horizontal_A": {
+        "screen-left": 2,
+        "ambiguous": 1
+      },
+      "horizontal_B": {
+        "screen-right": 2,
+        "ambiguous": 1
+      },
+      "vertical_A": {
+        "down": 3
+      },
+      "vertical_B": {
+        "up": 3
+      }
+    }
+  }
+}
