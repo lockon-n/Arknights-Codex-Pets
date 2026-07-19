@@ -11,9 +11,9 @@ The collection will expand gradually in CN release order, with outfits maintaine
 
 | 类别 / Category | 已完成 / Done | 总数 / Total | 进度 / Progress |
 |---|---:|---:|---:|
-| 默认干员 / Default operators | 123 | 420 | 29.3% |
+| 默认干员 / Default operators | 133 | 420 | 31.7% |
 | 皮肤 / Outfits | 2 | 506 | 0.4% |
-| **合计 / Total** | **125** | **926** | **13.5%** |
+| **合计 / Total** | **135** | **926** | **14.6%** |
 
 上游目录快照 / Upstream catalog snapshot: `2026-07-13`, Ark-Models commit `3619a9a7268ec049dbbb30d1cff0ffa6d3fdf5ed` (`zh_CN`).
 
@@ -67,7 +67,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 伊桑 / Ethan — `355_ethan` — [package](pets/ethan)
 - [ ] 休谟斯 / Humus — `491_humus`
 - [ ] 冬时 / Снегурочка — `4208_wintim`
-- [ ] 刻刀 / Cutter — `301_cutter`
+- [x] 刻刀 / Cutter — `301_cutter` — [package](pets/cutter)
 - [ ] 协律 / Akkord — `4051_akkord`
 - [ ] 卡达 / Click — `328_cammou`
 - [x] 古米 / Гум — `196_sunbr` — [package](pets/gummy)
@@ -77,10 +77,10 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 夜烟 / Haze — `141_nights` — [package](pets/haze)
 - [ ] 孑 / Jaye — `272_strong`
 - [x] 安比尔 / Ambriel — `302_glaze` — [package](pets/ambriel)
-- [ ] 宴 / Utage — `337_utage`
+- [x] 宴 / Utage — `337_utage` — [package](pets/utage)
 - [ ] 布丁 / Pudding — `4004_pudd`
 - [x] 慕斯 / Mousse — `185_frncat` — [package](pets/mousse)
-- [ ] 断罪者 / Conviction — `159_peacok`
+- [x] 断罪者 / Conviction — `159_peacok` — [package](pets/conviction)
 - [x] 暗索 / Rope — `236_rope` — [package](pets/rope)
 - [x] 末药 / Myrrh — `117_myrrh` — [package](pets/myrrh)
 - [x] 杜宾 / Dobermann — `130_doberm` — [package](pets/dobermann)
@@ -95,7 +95,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 流星 / Meteor — `126_shotst` — [package](pets/meteor)
 - [x] 深海色 / Deepcolor — `110_deepcl` — [package](pets/deepcolor)
 - [ ] 深靛 / Indigo — `469_indigo`
-- [ ] 清流 / Purestream — `385_finlpp`
+- [x] 清流 / Purestream — `385_finlpp` — [package](pets/purestream)
 - [x] 清道夫 / Scavenger — `149_scave` — [package](pets/scavenger)
 - [x] 猎蜂 / Beehunter — `137_brownb` — [package](pets/beehunter)
 - [x] 白雪 / ShiraYuki — `118_yuki` — [package](pets/shirayuki)
@@ -178,14 +178,14 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 导火索 / Fuze — `4126_fuze`
 - [ ] 小满 / Grain Buds — `4122_grabds`
 - [x] 崖心 / Cliffheart — `173_slchan` — [package](pets/cliffheart)
-- [ ] 巫恋 / Shamare — `254_vodfox`
+- [x] 巫恋 / Shamare — `254_vodfox` — [package](pets/shamare)
 - [x] 布洛卡 / Broca — `356_broca` — [package](pets/broca)
 - [x] 幽灵鲨 / Specter — `143_ghost` — [package](pets/specter)
 - [ ] 录武官 / Record Keeper — `4196_reckpr`
 - [x] 微风 / Breeze — `275_breeze` — [package](pets/breeze)
 - [x] 德克萨斯 / Texas — `102_texas` — [package](pets/texas)
 - [x] 惊蛰 / Leizi — `306_leizi` — [package](pets/leizi)
-- [ ] 慑砂 / Sesa — `379_sesa`
+- [x] 慑砂 / Sesa — `379_sesa` — [package](pets/sesa)
 - [ ] 战车 / Tachanka — `459_tachak`
 - [ ] 截云 / Jieyun — `4078_bdhkgt`
 - [ ] 戴菲恩 / Delphine — `4110_delphn`
@@ -212,7 +212,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 松桐 / Matsukiri — `4199_makiri`
 - [ ] 极光 / Aurora — `422_aurora`
 - [ ] 极境 / Elysium — `401_elysm`
-- [ ] 柏喙 / Bibeak — `252_bibeak`
+- [x] 柏喙 / Bibeak — `252_bibeak` — [package](pets/bibeak)
 - [x] 格劳克斯 / Glaucus — `326_glacus` — [package](pets/glaucus)
 - [x] 格拉尼 / Grani — `220_grani` — [package](pets/grani)
 - [ ] 桑葚 / Mulberry — `473_mberry`
@@ -298,7 +298,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 野鬃 / Wild Mane — `496_wildmn`
 - [ ] 钼铅 / Wulfenite — `4171_wulfen`
 - [ ] 铎铃 / Wind Chimes — `4083_chimes`
-- [ ] 铸铁 / Sideroca — `333_sidero`
+- [x] 铸铁 / Sideroca — `333_sidero` — [package](pets/sideroca)
 - [ ] 锡人 / Tin Man — `4151_tinman`
 - [x] 锡兰 / Ceylon — `348_ceylon` — [package](pets/ceylon)
 - [ ] 闪击 / Blitz — `457_blitz`
@@ -336,7 +336,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 佩佩 / Pepe — `4058_pepe`
 - [ ] 信仰搅拌机 / Sankta Miksaparato — `4194_rmixer`
 - [ ] 假日威龙陈 / Ch'en the Holungday — 异格 / alternate — `1013_chen2`
-- [ ] 傀影 / Phantom — `250_phatom`
+- [x] 傀影 / Phantom — `250_phatom` — [package](pets/phantom)
 - [ ] 凛御银灰 / SilverAsh the Reignfrost — 异格 / alternate — `1045_svash2`
 - [ ] 凯尔希 / Kal'tsit — `003_kalts`
 - [ ] 凯尔希·思衡托 / Kal'tsit·Esperanta — 异格 / alternate — `1052_kalts2`
@@ -448,7 +448,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 陈 / Ch'en — `010_chen` — [package](pets/ch-en)
 - [ ] 隐德来希 / Entelechia — `4010_etlchi`
 - [ ] 霍尔海雅 / Ho'olheyak — `4027_heyak`
-- [ ] 风笛 / Bagpipe — `222_bpipe`
+- [x] 风笛 / Bagpipe — `222_bpipe` — [package](pets/bagpipe)
 - [ ] 魔王 / Civilight Eterna — `4134_cetsyr`
 - [ ] 鸿雪 / Позёмка — `4055_bgsnow`
 - [ ] 麒麟R夜刀 / Kirin R Yato — 异格 / alternate — `1029_yato2`
