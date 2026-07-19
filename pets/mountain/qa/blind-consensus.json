@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "model_key": "264_f12yin",
+  "votes": {
+    "horizontal_A": {
+      "ambiguous": 2,
+      "screen-left": 1
+    },
+    "horizontal_B": {
+      "ambiguous": 2,
+      "screen-right": 1
+    },
+    "vertical_A": {
+      "ambiguous": 2,
+      "down": 1
+    },
+    "vertical_B": {
+      "ambiguous": 2,
+      "up": 1
+    }
+  },
+  "horizontal_A": "screen-right",
+  "horizontal_B": "screen-left",
+  "vertical_A": "up",
+  "vertical_B": "down",
+  "reconciliation": {
+    "horizontal": "The lossless full-size recheck passed unanimously and was translated to the base A/B order; both pupil screen-X deltas also pass at roughly 31px.",
+    "vertical": "The dark mask made repeated visual labels unstable, so physical rendered-coordinate evidence is decisive: head and both eye controls have the required negative 000-minus-180 screen-Y deltas, with the eyes moving roughly 29px.",
+    "coefficient_action": "unchanged"
+  }
+}
