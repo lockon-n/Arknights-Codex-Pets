@@ -11,9 +11,9 @@ The collection will expand gradually in CN release order, with outfits maintaine
 
 | 类别 / Category | 已完成 / Done | 总数 / Total | 进度 / Progress |
 |---|---:|---:|---:|
-| 默认干员 / Default operators | 103 | 420 | 24.5% |
+| 默认干员 / Default operators | 113 | 420 | 26.9% |
 | 皮肤 / Outfits | 2 | 506 | 0.4% |
-| **合计 / Total** | **105** | **926** | **11.3%** |
+| **合计 / Total** | **115** | **926** | **12.4%** |
 
 上游目录快照 / Upstream catalog snapshot: `2026-07-13`, Ark-Models commit `3619a9a7268ec049dbbb30d1cff0ffa6d3fdf5ed` (`zh_CN`).
 
@@ -64,7 +64,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 ### 4★
 
 - [ ] 云迹 / Contrail — `4165_ctrail`
-- [ ] 伊桑 / Ethan — `355_ethan`
+- [x] 伊桑 / Ethan — `355_ethan` — [package](pets/ethan)
 - [ ] 休谟斯 / Humus — `491_humus`
 - [ ] 冬时 / Снегурочка — `4208_wintim`
 - [ ] 刻刀 / Cutter — `301_cutter`
@@ -89,7 +89,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 松果 / Pinecone — `440_pinecn`
 - [x] 格雷伊 / Greyy — `253_greyy` — [package](pets/greyy)
 - [x] 桃金娘 / Myrtle — `151_myrtle` — [package](pets/myrtle)
-- [ ] 梅 / May — `133_mm`
+- [x] 梅 / May — `133_mm` — [package](pets/may)
 - [ ] 泡泡 / Bubble — `381_bubble`
 - [ ] 波登可 / Podenco — `258_podego`
 - [x] 流星 / Meteor — `126_shotst` — [package](pets/meteor)
@@ -182,7 +182,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 布洛卡 / Broca — `356_broca`
 - [x] 幽灵鲨 / Specter — `143_ghost` — [package](pets/specter)
 - [ ] 录武官 / Record Keeper — `4196_reckpr`
-- [ ] 微风 / Breeze — `275_breeze`
+- [x] 微风 / Breeze — `275_breeze` — [package](pets/breeze)
 - [x] 德克萨斯 / Texas — `102_texas` — [package](pets/texas)
 - [ ] 惊蛰 / Leizi — `306_leizi`
 - [ ] 慑砂 / Sesa — `379_sesa`
@@ -193,7 +193,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 折光 / Diamante — `499_kaitou`
 - [ ] 折桠 / Веточки — `4207_branch`
 - [x] 拉普兰德 / Lappland — `140_whitew` — [package](pets/lappland)
-- [ ] 拜松 / Bison — `325_bison`
+- [x] 拜松 / Bison — `325_bison` — [package](pets/bison)
 - [ ] 掠风 / Windflit — `433_windft`
 - [ ] 摆渡人 / Varkáris — `4166_varkis`
 - [ ] 摩根 / Morgan — `154_morgan`
@@ -218,7 +218,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 桑葚 / Mulberry — `473_mberry`
 - [x] 梅尔 / Mayer — `242_otter` — [package](pets/mayer)
 - [ ] 森西 / Senshi — `4143_sensi`
-- [ ] 槐琥 / Waai Fu — `243_waaifu`
+- [x] 槐琥 / Waai Fu — `243_waaifu` — [package](pets/waai-fu)
 - [ ] 水灯心 / Brigid — `4177_brigid`
 - [ ] 波卜 / Bobbing — `487_bobb`
 - [ ] 洋灰 / Cement — `464_cement`
@@ -236,7 +236,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 火龙S黑角 / Rathalos S Noir Corne — 异格 / alternate — `1030_noirc2`
 - [ ] 灰喉 / GreyThroat — `367_swllow`
 - [ ] 灰毫 / Ashlock — `431_ashlok`
-- [ ] 炎客 / Flamebringer — `131_flameb`
+- [x] 炎客 / Flamebringer — `131_flameb` — [package](pets/flamebringer)
 - [ ] 炎狱炎熔 / Lava the Purgatory — 异格 / alternate — `1011_lava2`
 - [ ] 烈夏 / Лето — `194_leto`
 - [ ] 熔泉 / Toddifons — `363_toddi`
@@ -266,7 +266,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 聆音 / Gracebearer — `4187_graceb`
 - [ ] 至简 / Minimalist — `4054_malist`
 - [x] 芙兰卡 / Franka — `106_franka` — [package](pets/franka)
-- [ ] 苇草 / Reed — `261_sddrag`
+- [x] 苇草 / Reed — `261_sddrag` — [package](pets/reed)
 - [ ] 苍苔 / Bryophyta — `4106_bryota`
 - [ ] 若叶睦 / Wakaba Mutsumi — `4183_mortis`
 - [ ] 苦艾 / Absinthe — `405_absin`
@@ -294,7 +294,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 赫默 / Silence — `108_silent` — [package](pets/silence)
 - [ ] 车尔尼 / Czerny — `4047_pianst`
 - [ ] 达格达 / Dagda — `157_dagda`
-- [ ] 送葬人 / Executor — `279_excu`
+- [x] 送葬人 / Executor — `279_excu` — [package](pets/executor)
 - [ ] 野鬃 / Wild Mane — `496_wildmn`
 - [ ] 钼铅 / Wulfenite — `4171_wulfen`
 - [ ] 铎铃 / Wind Chimes — `4083_chimes`
@@ -423,7 +423,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 艾拉 / Ela — `4123_ela`
 - [x] 艾雅法拉 / Eyjafjalla — `180_amgoat` — [package](pets/eyjafjalla)
 - [ ] 荒芜拉普兰德 / Lappland the Decadenza — 异格 / alternate — `1038_whitw2`
-- [ ] 莫斯提马 / Mostima — `213_mostma`
+- [x] 莫斯提马 / Mostima — `213_mostma` — [package](pets/mostima)
 - [ ] 莱伊 / Ray — `4117_ray`
 - [ ] 菲亚梅塔 / Fiammetta — `300_phenxi`
 - [ ] 蕾缪安 / Lemuen — `4193_lemuen`
@@ -452,7 +452,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 魔王 / Civilight Eterna — `4134_cetsyr`
 - [ ] 鸿雪 / Позёмка — `4055_bgsnow`
 - [ ] 麒麟R夜刀 / Kirin R Yato — 异格 / alternate — `1029_yato2`
-- [ ] 麦哲伦 / Magallan — `248_mgllan`
+- [x] 麦哲伦 / Magallan — `248_mgllan` — [package](pets/magallan)
 - [ ] 黍 / Shu — `2025_shu`
 - [x] 黑 / Schwarz — `340_shwaz` — [package](pets/schwarz)
 - [ ] 黑键 / Ebenholz — `4046_ebnhlz`
