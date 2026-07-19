@@ -11,9 +11,9 @@ The collection will expand gradually in CN release order, with outfits maintaine
 
 | 类别 / Category | 已完成 / Done | 总数 / Total | 进度 / Progress |
 |---|---:|---:|---:|
-| 默认干员 / Default operators | 203 | 420 | 48.3% |
+| 默认干员 / Default operators | 213 | 420 | 50.7% |
 | 皮肤 / Outfits | 2 | 506 | 0.4% |
-| **合计 / Total** | **205** | **926** | **22.1%** |
+| **合计 / Total** | **215** | **926** | **23.2%** |
 
 上游目录快照 / Upstream catalog snapshot: `2026-07-13`, Ark-Models commit `3619a9a7268ec049dbbb30d1cff0ffa6d3fdf5ed` (`zh_CN`).
 
@@ -29,7 +29,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] PhonoR-0 — `4136_phonor`
 - [x] THRM-EX / Thermal-EX — `376_therex` — [package](pets/thermal-ex)
 - [ ] U-Official — `4091_ulika`
-- [ ] 正义骑士号 / "Justice Knight" — `4000_jnight`
+- [x] 正义骑士号 / "Justice Knight" — `4000_jnight` — [package](pets/justice-knight)
 - [ ] 泰拉大陆调查团 / Terra Research Commission — `4077_palico`
 - [ ] 罗德岛隐秘队 / Rhodes Island Recon — `4215_buddy`
 
@@ -78,7 +78,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 孑 / Jaye — `272_strong` — [package](pets/jaye)
 - [x] 安比尔 / Ambriel — `302_glaze` — [package](pets/ambriel)
 - [x] 宴 / Utage — `337_utage` — [package](pets/utage)
-- [ ] 布丁 / Pudding — `4004_pudd`
+- [x] 布丁 / Pudding — `4004_pudd` — [package](pets/pudding)
 - [x] 慕斯 / Mousse — `185_frncat` — [package](pets/mousse)
 - [x] 断罪者 / Conviction — `159_peacok` — [package](pets/conviction)
 - [x] 暗索 / Rope — `236_rope` — [package](pets/rope)
@@ -204,13 +204,13 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 星源 / Astgenne — `135_halo`
 - [ ] 晓歌 / Cantabile — `497_ctable`
 - [x] 普罗旺斯 / Provence — `145_prove` — [package](pets/provence)
-- [ ] 暮落 / Shalem — `4025_aprot2`
+- [x] 暮落 / Shalem — `4025_aprot2` — [package](pets/shalem)
 - [x] 暴行 / Savage — `230_savage` — [package](pets/savage)
 - [x] 暴雨 / Heavyrain — `304_zebra` — [package](pets/heavyrain)
 - [x] 月禾 / Tsukinogi — `343_tknogi` — [package](pets/tsukinogi)
 - [ ] 杏仁 / Almond — `4105_almond`
 - [ ] 松桐 / Matsukiri — `4199_makiri`
-- [ ] 极光 / Aurora — `422_aurora`
+- [x] 极光 / Aurora — `422_aurora` — [package](pets/aurora)
 - [x] 极境 / Elysium — `401_elysm` — [package](pets/elysium)
 - [x] 柏喙 / Bibeak — `252_bibeak` — [package](pets/bibeak)
 - [x] 格劳克斯 / Glaucus — `326_glacus` — [package](pets/glaucus)
@@ -262,7 +262,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 绮良 / Kirara — `478_kirara` — [package](pets/kirara)
 - [x] 罗宾 / Robin — `451_robin` — [package](pets/robin)
 - [x] 羽毛笔 / La Pluma — `421_crow` — [package](pets/la-pluma)
-- [ ] 耶拉 / Kjera — `4013_kjera`
+- [x] 耶拉 / Kjera — `4013_kjera` — [package](pets/kjera)
 - [ ] 聆音 / Gracebearer — `4187_graceb`
 - [ ] 至简 / Minimalist — `4054_malist`
 - [x] 芙兰卡 / Franka — `106_franka` — [package](pets/franka)
@@ -277,8 +277,8 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 蒂比 / Tippi — `4191_tippi`
 - [x] 蓝毒 / Blue Poison — `129_bluep` — [package](pets/blue-poison)
 - [x] 薄绿 / Mint — `388_mint` — [package](pets/mint)
-- [ ] 蚀清 / Corroserum — `489_serum`
-- [ ] 蜜莓 / Honeyberry — `449_glider`
+- [x] 蚀清 / Corroserum — `489_serum` — [package](pets/corroserum)
+- [x] 蜜莓 / Honeyberry — `449_glider` — [package](pets/honeyberry)
 - [x] 蜜蜡 / Beeswax — `344_beewax` — [package](pets/beeswax)
 - [ ] 行箸 / Xingzhu — `4172_xingzh`
 - [ ] 衡沙 / Sand Reckoner — `4140_lasher`
@@ -295,7 +295,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 车尔尼 / Czerny — `4047_pianst`
 - [ ] 达格达 / Dagda — `157_dagda`
 - [x] 送葬人 / Executor — `279_excu` — [package](pets/executor)
-- [ ] 野鬃 / Wild Mane — `496_wildmn`
+- [x] 野鬃 / Wild Mane — `496_wildmn` — [package](pets/wild-mane)
 - [ ] 钼铅 / Wulfenite — `4171_wulfen`
 - [ ] 铎铃 / Wind Chimes — `4083_chimes`
 - [x] 铸铁 / Sideroca — `333_sidero` — [package](pets/sideroca)
@@ -393,9 +393,9 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 溯光星源 / Astgenne the Lightchaser — 异格 / alternate — `1047_halo2`
 - [ ] 澄闪 / Goldenglow — `377_gdglow`
 - [x] 灰烬 / Ash — `456_ash` — [package](pets/ash)
-- [ ] 灵知 / Gnosis — `206_gnosis`
+- [x] 灵知 / Gnosis — `206_gnosis` — [package](pets/gnosis)
 - [ ] 烛煌 / Blaze the Igniting Spark — 异格 / alternate — `1040_blaze2`
-- [ ] 焰尾 / Flametail — `420_flamtl`
+- [x] 焰尾 / Flametail — `420_flamtl` — [package](pets/flametail)
 - [ ] 焰影苇草 / Reed The Flame Shadow — 异格 / alternate — `1020_reed2`
 - [ ] 焰狐龙梓兰 / Violet Mizutsune Orchid — 异格 / alternate — `1048_orchd2`
 - [x] 煌 / Blaze — `017_huang` — [package](pets/blaze)
