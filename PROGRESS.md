@@ -11,9 +11,9 @@ The collection will expand gradually in CN release order, with outfits maintaine
 
 | 类别 / Category | 已完成 / Done | 总数 / Total | 进度 / Progress |
 |---|---:|---:|---:|
-| 默认干员 / Default operators | 183 | 420 | 43.6% |
+| 默认干员 / Default operators | 193 | 420 | 46.0% |
 | 皮肤 / Outfits | 2 | 506 | 0.4% |
-| **合计 / Total** | **185** | **926** | **20.0%** |
+| **合计 / Total** | **195** | **926** | **21.1%** |
 
 上游目录快照 / Upstream catalog snapshot: `2026-07-13`, Ark-Models commit `3619a9a7268ec049dbbb30d1cff0ffa6d3fdf5ed` (`zh_CN`).
 
@@ -94,7 +94,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 波登可 / Podenco — `258_podego` — [package](pets/podenco)
 - [x] 流星 / Meteor — `126_shotst` — [package](pets/meteor)
 - [x] 深海色 / Deepcolor — `110_deepcl` — [package](pets/deepcolor)
-- [ ] 深靛 / Indigo — `469_indigo`
+- [x] 深靛 / Indigo — `469_indigo` — [package](pets/indigo)
 - [x] 清流 / Purestream — `385_finlpp` — [package](pets/purestream)
 - [x] 清道夫 / Scavenger — `149_scave` — [package](pets/scavenger)
 - [x] 猎蜂 / Beehunter — `137_brownb` — [package](pets/beehunter)
@@ -206,7 +206,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 普罗旺斯 / Provence — `145_prove` — [package](pets/provence)
 - [ ] 暮落 / Shalem — `4025_aprot2`
 - [x] 暴行 / Savage — `230_savage` — [package](pets/savage)
-- [ ] 暴雨 / Heavyrain — `304_zebra`
+- [x] 暴雨 / Heavyrain — `304_zebra` — [package](pets/heavyrain)
 - [x] 月禾 / Tsukinogi — `343_tknogi` — [package](pets/tsukinogi)
 - [ ] 杏仁 / Almond — `4105_almond`
 - [ ] 松桐 / Matsukiri — `4199_makiri`
@@ -239,7 +239,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 炎客 / Flamebringer — `131_flameb` — [package](pets/flamebringer)
 - [ ] 炎狱炎熔 / Lava the Purgatory — 异格 / alternate — `1011_lava2`
 - [ ] 烈夏 / Лето — `194_leto`
-- [ ] 熔泉 / Toddifons — `363_toddi`
+- [x] 熔泉 / Toddifons — `363_toddi` — [package](pets/toddifons)
 - [x] 燧石 / Flint — `415_flint` — [package](pets/flint)
 - [x] 爱丽丝 / Iris — `338_iris` — [package](pets/iris)
 - [ ] 特克诺 / Tecno — `4164_tecno`
@@ -259,7 +259,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 絮雨 / Whisperain — `436_whispr` — [package](pets/whisperain)
 - [x] 红 / Projekt Red — `144_red` — [package](pets/projekt-red)
 - [ ] 红隼 / Kestrel — `4023_rfalcn`
-- [ ] 绮良 / Kirara — `478_kirara`
+- [x] 绮良 / Kirara — `478_kirara` — [package](pets/kirara)
 - [x] 罗宾 / Robin — `451_robin` — [package](pets/robin)
 - [ ] 羽毛笔 / La Pluma — `421_crow`
 - [ ] 耶拉 / Kjera — `4013_kjera`
@@ -288,9 +288,9 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 诗怀雅 / Swire — `308_swire` — [package](pets/swire)
 - [ ] 诺威尔 / Nowell — `4173_nowell`
 - [ ] 谜图 / Puzzle — `4017_puzzle`
-- [ ] 贝娜 / Bena — `369_bena`
+- [x] 贝娜 / Bena — `369_bena` — [package](pets/bena)
 - [x] 贾维 / Chiave — `349_chiave` — [package](pets/chiave)
-- [ ] 赤冬 / Akafuyu — `475_akafyu`
+- [x] 赤冬 / Akafuyu — `475_akafyu` — [package](pets/akafuyu)
 - [x] 赫默 / Silence — `108_silent` — [package](pets/silence)
 - [ ] 车尔尼 / Czerny — `4047_pianst`
 - [ ] 达格达 / Dagda — `157_dagda`
@@ -338,7 +338,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 假日威龙陈 / Ch'en the Holungday — 异格 / alternate — `1013_chen2`
 - [x] 傀影 / Phantom — `250_phatom` — [package](pets/phantom)
 - [ ] 凛御银灰 / SilverAsh the Reignfrost — 异格 / alternate — `1045_svash2`
-- [ ] 凯尔希 / Kal'tsit — `003_kalts`
+- [x] 凯尔希 / Kal'tsit — `003_kalts` — [package](pets/kal-tsit)
 - [ ] 凯尔希·思衡托 / Kal'tsit·Esperanta — 异格 / alternate — `1052_kalts2`
 - [x] 刻俄柏 / Ceobe — `2013_cerber` — [package](pets/ceobe)
 - [ ] 卡涅利安 / Carnelian — `426_billro`
@@ -362,7 +362,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 左乐 / Zuo Le — `4121_zuole`
 - [ ] 帕拉斯 / Pallas — `485_pallas`
 - [x] 年 / Nian — `2014_nian` — [package](pets/nian)
-- [ ] 异客 / Passenger — `472_pasngr`
+- [x] 异客 / Passenger — `472_pasngr` — [package](pets/passenger)
 - [ ] 弑君者 / Crownslayer — `1502_crosly`
 - [ ] 引星棘刺 / Thorns the Lodestar — 异格 / alternate — `1039_thorn2`
 - [ ] 归溟幽灵鲨 / Specter the Unchained — 异格 / alternate — `1023_ghost2`
@@ -380,7 +380,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 林 / Lin — `4080_lin`
 - [x] 棘刺 / Thorns — `293_thorns` — [package](pets/thorns)
 - [x] 森蚺 / Eunectes — `416_zumama` — [package](pets/eunectes)
-- [ ] 歌蕾蒂娅 / Gladiia — `474_glady`
+- [x] 歌蕾蒂娅 / Gladiia — `474_glady` — [package](pets/gladiia)
 - [ ] 止颂 / Lessing — `4011_lessng`
 - [ ] 死芒 / Necrass — `450_necras`
 - [ ] 水月 / Mizuki — `437_mizuki`
@@ -392,7 +392,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 温蒂 / Weedy — `400_weedy` — [package](pets/weedy)
 - [ ] 溯光星源 / Astgenne the Lightchaser — 异格 / alternate — `1047_halo2`
 - [ ] 澄闪 / Goldenglow — `377_gdglow`
-- [ ] 灰烬 / Ash — `456_ash`
+- [x] 灰烬 / Ash — `456_ash` — [package](pets/ash)
 - [ ] 灵知 / Gnosis — `206_gnosis`
 - [ ] 烛煌 / Blaze the Igniting Spark — 异格 / alternate — `1040_blaze2`
 - [ ] 焰尾 / Flametail — `420_flamtl`
