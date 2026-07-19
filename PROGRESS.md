@@ -11,9 +11,9 @@ The collection will expand gradually in CN release order, with outfits maintaine
 
 | 类别 / Category | 已完成 / Done | 总数 / Total | 进度 / Progress |
 |---|---:|---:|---:|
-| 默认干员 / Default operators | 143 | 420 | 34.0% |
+| 默认干员 / Default operators | 153 | 420 | 36.4% |
 | 皮肤 / Outfits | 2 | 506 | 0.4% |
-| **合计 / Total** | **145** | **926** | **15.7%** |
+| **合计 / Total** | **155** | **926** | **16.7%** |
 
 上游目录快照 / Upstream catalog snapshot: `2026-07-13`, Ark-Models commit `3619a9a7268ec049dbbb30d1cff0ffa6d3fdf5ed` (`zh_CN`).
 
@@ -69,13 +69,13 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 冬时 / Снегурочка — `4208_wintim`
 - [x] 刻刀 / Cutter — `301_cutter` — [package](pets/cutter)
 - [ ] 协律 / Akkord — `4051_akkord`
-- [ ] 卡达 / Click — `328_cammou`
+- [x] 卡达 / Click — `328_cammou` — [package](pets/click)
 - [x] 古米 / Гум — `196_sunbr` — [package](pets/gummy)
 - [x] 嘉维尔 / Gavial — `187_ccheal` — [package](pets/gavial)
 - [x] 地灵 / Earthspirit — `183_skgoat` — [package](pets/earthspirit)
 - [x] 坚雷 / Dur-nar — `260_durnar` — [package](pets/dur-nar)
 - [x] 夜烟 / Haze — `141_nights` — [package](pets/haze)
-- [ ] 孑 / Jaye — `272_strong`
+- [x] 孑 / Jaye — `272_strong` — [package](pets/jaye)
 - [x] 安比尔 / Ambriel — `302_glaze` — [package](pets/ambriel)
 - [x] 宴 / Utage — `337_utage` — [package](pets/utage)
 - [ ] 布丁 / Pudding — `4004_pudd`
@@ -134,7 +134,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 乌啾 / Укусик — `4224_turdus`
 - [ ] 乌有 / Mr.Nothing — `455_nothin`
 - [ ] 九色鹿 / Nine-Colored Deer — `4019_ncdeer`
-- [ ] 亚叶 / Folinic — `345_folnic`
+- [x] 亚叶 / Folinic — `345_folnic` — [package](pets/folinic)
 - [ ] 伯塔尼 / Ботани — `4223_botany`
 - [ ] 但书 / Proviso — `4032_provs`
 - [ ] 佩德洛 / Pedro — `4234_pedro`
@@ -171,7 +171,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 奥达 / Odda — `4131_odda`
 - [ ] 子月 / Lunacub — `4014_lunacu`
 - [x] 守林人 / Firewatch — `158_milu` — [package](pets/firewatch)
-- [ ] 安哲拉 / Andreana — `218_cuttle`
+- [x] 安哲拉 / Andreana — `218_cuttle` — [package](pets/andreana)
 - [ ] 寒檀 / Santalla — `341_sntlla`
 - [ ] 寒芒克洛丝 / Kroos the Keen Glint — 异格 / alternate — `1021_kroos2`
 - [ ] 寻澜 / Surfer — `4052_surfer`
@@ -198,7 +198,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 摆渡人 / Varkáris — `4166_varkis`
 - [ ] 摩根 / Morgan — `154_morgan`
 - [ ] 撷英调香师 / Perfumer the Distilled — 异格 / alternate — `1022_flwr2`
-- [ ] 断崖 / Ayerscarpe — `294_ayer`
+- [x] 断崖 / Ayerscarpe — `294_ayer` — [package](pets/ayerscarpe)
 - [ ] 明椒 / Paprika — `4071_peper`
 - [x] 星极 / Astesia — `274_astesi` — [package](pets/astesia)
 - [ ] 星源 / Astgenne — `135_halo`
@@ -253,7 +253,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 矩 / Ju — `4221_ju`
 - [x] 石棉 / Asbestos — `378_asbest` — [package](pets/asbestos)
 - [ ] 祐天寺若麦 / Yūtenji Nyamu — `4185_amoris`
-- [ ] 稀音 / Scene — `336_folivo`
+- [x] 稀音 / Scene — `336_folivo` — [package](pets/scene)
 - [x] 空 / Sora — `101_sora` — [package](pets/sora)
 - [ ] 空构 / Spuria — `4015_spuria`
 - [ ] 絮雨 / Whisperain — `436_whispr`
@@ -279,7 +279,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 薄绿 / Mint — `388_mint`
 - [ ] 蚀清 / Corroserum — `489_serum`
 - [ ] 蜜莓 / Honeyberry — `449_glider`
-- [ ] 蜜蜡 / Beeswax — `344_beewax`
+- [x] 蜜蜡 / Beeswax — `344_beewax` — [package](pets/beeswax)
 - [ ] 行箸 / Xingzhu — `4172_xingzh`
 - [ ] 衡沙 / Sand Reckoner — `4140_lasher`
 - [ ] 裁度 / Figurino — `4155_talr`
@@ -289,7 +289,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 诺威尔 / Nowell — `4173_nowell`
 - [ ] 谜图 / Puzzle — `4017_puzzle`
 - [ ] 贝娜 / Bena — `369_bena`
-- [ ] 贾维 / Chiave — `349_chiave`
+- [x] 贾维 / Chiave — `349_chiave` — [package](pets/chiave)
 - [ ] 赤冬 / Akafuyu — `475_akafyu`
 - [x] 赫默 / Silence — `108_silent` — [package](pets/silence)
 - [ ] 车尔尼 / Czerny — `4047_pianst`
@@ -378,7 +378,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 星熊 / Hoshiguma — `136_hsguma` — [package](pets/hoshiguma)
 - [ ] 望 / Wang — `2027_wang`
 - [ ] 林 / Lin — `4080_lin`
-- [ ] 棘刺 / Thorns — `293_thorns`
+- [x] 棘刺 / Thorns — `293_thorns` — [package](pets/thorns)
 - [ ] 森蚺 / Eunectes — `416_zumama`
 - [ ] 歌蕾蒂娅 / Gladiia — `474_glady`
 - [ ] 止颂 / Lessing — `4011_lessng`
@@ -439,7 +439,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 遥 / Haruka — `4202_haruka`
 - [ ] 酒神 / Tragodia — 异格 / alternate — `1042_phatm2`
 - [ ] 重岳 / Chongyue — `2024_chyue`
-- [ ] 铃兰 / Suzuran — `358_lisa`
+- [x] 铃兰 / Suzuran — `358_lisa` — [package](pets/suzuran)
 - [x] 银灰 / SilverAsh — `172_svrash` — [package](pets/silverash)
 - [ ] 锏 / Degenbrecher — `4116_blkkgt`
 - [x] 闪灵 / Shining — `147_shining` — [package](pets/shining)

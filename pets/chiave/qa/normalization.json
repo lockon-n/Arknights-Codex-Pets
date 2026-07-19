@@ -1,0 +1,550 @@
+{
+  "ok": true,
+  "normalization": "safe-max",
+  "margin": 6,
+  "safe_max": {
+    "scale": 0.3015075376884422,
+    "max_state_union_width": 597,
+    "max_state_union_height": 575,
+    "available_width": 180,
+    "available_height": 196,
+    "source_canvas": [
+      768,
+      832
+    ],
+    "registration": "pet-wide scale with per-state union registration"
+  },
+  "states": {
+    "idle": {
+      "animation": "Relax",
+      "normalization": "safe-max",
+      "scale": 0.3015075376884422,
+      "source_union_bbox": [
+        162,
+        57,
+        548,
+        616
+      ],
+      "target_union_size": [
+        116,
+        169
+      ],
+      "target_union_offset": [
+        38,
+        33
+      ],
+      "output_bboxes": [
+        [
+          38,
+          33,
+          154,
+          202
+        ],
+        [
+          49,
+          33,
+          154,
+          202
+        ],
+        [
+          38,
+          33,
+          154,
+          202
+        ],
+        [
+          49,
+          33,
+          154,
+          202
+        ],
+        [
+          38,
+          33,
+          154,
+          202
+        ],
+        [
+          49,
+          33,
+          154,
+          202
+        ]
+      ]
+    },
+    "running-right": {
+      "animation": "Move",
+      "normalization": "safe-max",
+      "scale": 0.3015075376884422,
+      "source_union_bbox": [
+        195,
+        50,
+        592,
+        624
+      ],
+      "target_union_size": [
+        120,
+        173
+      ],
+      "target_union_offset": [
+        36,
+        29
+      ],
+      "output_bboxes": [
+        [
+          36,
+          29,
+          154,
+          202
+        ],
+        [
+          36,
+          29,
+          156,
+          201
+        ],
+        [
+          41,
+          29,
+          156,
+          202
+        ],
+        [
+          42,
+          29,
+          154,
+          202
+        ],
+        [
+          42,
+          29,
+          156,
+          202
+        ],
+        [
+          41,
+          29,
+          156,
+          202
+        ],
+        [
+          38,
+          29,
+          156,
+          202
+        ],
+        [
+          36,
+          29,
+          155,
+          202
+        ]
+      ]
+    },
+    "running-left": {
+      "animation": "Move",
+      "normalization": "safe-max",
+      "scale": 0.3015075376884422,
+      "source_union_bbox": [
+        176,
+        50,
+        573,
+        624
+      ],
+      "target_union_size": [
+        120,
+        173
+      ],
+      "target_union_offset": [
+        36,
+        29
+      ],
+      "output_bboxes": [
+        [
+          38,
+          29,
+          156,
+          202
+        ],
+        [
+          36,
+          29,
+          156,
+          201
+        ],
+        [
+          36,
+          29,
+          151,
+          202
+        ],
+        [
+          38,
+          29,
+          150,
+          202
+        ],
+        [
+          36,
+          29,
+          150,
+          202
+        ],
+        [
+          36,
+          29,
+          151,
+          202
+        ],
+        [
+          36,
+          29,
+          154,
+          202
+        ],
+        [
+          37,
+          29,
+          156,
+          202
+        ]
+      ]
+    },
+    "waving": {
+      "animation": "Interact",
+      "normalization": "safe-max",
+      "scale": 0.3015075376884422,
+      "source_union_bbox": [
+        154,
+        52,
+        562,
+        616
+      ],
+      "target_union_size": [
+        123,
+        170
+      ],
+      "target_union_offset": [
+        34,
+        32
+      ],
+      "output_bboxes": [
+        [
+          35,
+          32,
+          154,
+          202
+        ],
+        [
+          42,
+          32,
+          157,
+          202
+        ],
+        [
+          34,
+          32,
+          152,
+          202
+        ],
+        [
+          40,
+          32,
+          154,
+          202
+        ]
+      ]
+    },
+    "jumping": {
+      "animation": "Relax",
+      "normalization": "safe-max",
+      "scale": 0.3015075376884422,
+      "source_union_bbox": [
+        162,
+        41,
+        548,
+        616
+      ],
+      "target_union_size": [
+        116,
+        173
+      ],
+      "target_union_offset": [
+        38,
+        29
+      ],
+      "output_bboxes": [
+        [
+          38,
+          32,
+          154,
+          202
+        ],
+        [
+          49,
+          29,
+          154,
+          202
+        ],
+        [
+          49,
+          29,
+          154,
+          199
+        ],
+        [
+          49,
+          29,
+          154,
+          202
+        ],
+        [
+          49,
+          32,
+          154,
+          202
+        ]
+      ]
+    },
+    "failed": {
+      "animation": "Sleep",
+      "normalization": "safe-max",
+      "scale": 0.3015075376884422,
+      "source_union_bbox": [
+        85,
+        375,
+        682,
+        648
+      ],
+      "target_union_size": [
+        180,
+        82
+      ],
+      "target_union_offset": [
+        6,
+        120
+      ],
+      "output_bboxes": [
+        [
+          6,
+          120,
+          186,
+          202
+        ],
+        [
+          6,
+          120,
+          186,
+          202
+        ],
+        [
+          6,
+          120,
+          186,
+          202
+        ],
+        [
+          6,
+          120,
+          186,
+          202
+        ],
+        [
+          6,
+          120,
+          186,
+          202
+        ],
+        [
+          6,
+          120,
+          186,
+          202
+        ],
+        [
+          6,
+          120,
+          186,
+          202
+        ],
+        [
+          6,
+          120,
+          186,
+          202
+        ]
+      ]
+    },
+    "waiting": {
+      "animation": "Sit",
+      "normalization": "safe-max",
+      "scale": 0.3015075376884422,
+      "source_union_bbox": [
+        280,
+        221,
+        582,
+        782
+      ],
+      "target_union_size": [
+        91,
+        169
+      ],
+      "target_union_offset": [
+        50,
+        33
+      ],
+      "output_bboxes": [
+        [
+          50,
+          33,
+          141,
+          202
+        ],
+        [
+          50,
+          33,
+          140,
+          202
+        ],
+        [
+          50,
+          33,
+          139,
+          202
+        ],
+        [
+          50,
+          33,
+          141,
+          202
+        ],
+        [
+          50,
+          33,
+          141,
+          202
+        ],
+        [
+          50,
+          33,
+          141,
+          202
+        ]
+      ]
+    },
+    "running": {
+      "animation": "Interact",
+      "normalization": "safe-max",
+      "scale": 0.3015075376884422,
+      "source_union_bbox": [
+        150,
+        51,
+        569,
+        616
+      ],
+      "target_union_size": [
+        126,
+        170
+      ],
+      "target_union_offset": [
+        33,
+        32
+      ],
+      "output_bboxes": [
+        [
+          35,
+          32,
+          154,
+          202
+        ],
+        [
+          38,
+          32,
+          159,
+          202
+        ],
+        [
+          42,
+          32,
+          159,
+          202
+        ],
+        [
+          33,
+          33,
+          145,
+          202
+        ],
+        [
+          33,
+          32,
+          152,
+          202
+        ],
+        [
+          40,
+          32,
+          154,
+          202
+        ]
+      ]
+    },
+    "review": {
+      "animation": "Relax",
+      "normalization": "safe-max",
+      "scale": 0.3015075376884422,
+      "source_union_bbox": [
+        162,
+        57,
+        548,
+        616
+      ],
+      "target_union_size": [
+        116,
+        169
+      ],
+      "target_union_offset": [
+        38,
+        33
+      ],
+      "output_bboxes": [
+        [
+          38,
+          33,
+          154,
+          202
+        ],
+        [
+          49,
+          33,
+          154,
+          202
+        ],
+        [
+          38,
+          33,
+          154,
+          202
+        ],
+        [
+          38,
+          33,
+          154,
+          202
+        ],
+        [
+          49,
+          33,
+          154,
+          202
+        ],
+        [
+          49,
+          33,
+          154,
+          202
+        ]
+      ]
+    }
+  }
+}
