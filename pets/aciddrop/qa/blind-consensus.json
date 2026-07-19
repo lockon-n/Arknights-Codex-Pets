@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "model_key": "366_acdrop",
+  "votes": {
+    "horizontal_A": {
+      "ambiguous": 2,
+      "screen-right": 1
+    },
+    "horizontal_B": {
+      "ambiguous": 2,
+      "screen-left": 1
+    },
+    "vertical_A": {
+      "down": 2,
+      "ambiguous": 1
+    },
+    "vertical_B": {
+      "up": 2,
+      "ambiguous": 1
+    }
+  },
+  "horizontal_A": "screen-right",
+  "horizontal_B": "screen-left",
+  "vertical_A": "down",
+  "vertical_B": "up",
+  "reconciliation": {
+    "horizontal": "Lossless recheck passed its independently randomized hidden key for this axis and was translated to the base A/B order.",
+    "vertical": "The original blind protocol passed the base key; rendered control coordinates also pass with negative 000-minus-180 screen-Y deltas.",
+    "coefficient_action": "unchanged"
+  }
+}

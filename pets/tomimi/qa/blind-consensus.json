@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "model_key": "411_tomimi",
+  "votes": {
+    "horizontal_A": {
+      "screen-left": 2,
+      "screen-right": 1
+    },
+    "horizontal_B": {
+      "screen-right": 2,
+      "screen-left": 1
+    },
+    "vertical_A": {
+      "up": 3
+    },
+    "vertical_B": {
+      "down": 3
+    }
+  },
+  "horizontal_A": "screen-right",
+  "horizontal_B": "screen-left",
+  "vertical_A": "up",
+  "vertical_B": "down",
+  "reconciliation": {
+    "horizontal": "The lossless recheck passed its independently randomized hidden key and was translated to the base A/B order.",
+    "vertical": "The lossless recheck, original blind protocol, and rendered control coordinates all pass.",
+    "coefficient_action": "unchanged"
+  }
+}

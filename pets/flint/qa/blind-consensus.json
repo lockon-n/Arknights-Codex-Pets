@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "model_key": "415_flint",
+  "votes": {
+    "horizontal_A": {
+      "screen-right": 2,
+      "screen-left": 1
+    },
+    "horizontal_B": {
+      "screen-left": 2,
+      "screen-right": 1
+    },
+    "vertical_A": {
+      "up": 3
+    },
+    "vertical_B": {
+      "down": 3
+    }
+  },
+  "horizontal_A": "screen-left",
+  "horizontal_B": "screen-right",
+  "vertical_A": "up",
+  "vertical_B": "down",
+  "reconciliation": {
+    "horizontal": "The focused local-cue protocol passed its independently randomized hidden key for the rotation-only horizontal cue and was translated to the base A/B order.",
+    "vertical": "The original blind and lossless protocols passed, and the rendered head control has the correct negative vertical delta.",
+    "coefficient_action": "unchanged"
+  }
+}
