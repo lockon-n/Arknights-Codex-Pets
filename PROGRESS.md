@@ -11,9 +11,9 @@ The collection will expand gradually in CN release order, with outfits maintaine
 
 | 类别 / Category | 已完成 / Done | 总数 / Total | 进度 / Progress |
 |---|---:|---:|---:|
-| 默认干员 / Default operators | 253 | 420 | 60.2% |
+| 默认干员 / Default operators | 263 | 420 | 62.6% |
 | 皮肤 / Outfits | 2 | 506 | 0.4% |
-| **合计 / Total** | **255** | **926** | **27.5%** |
+| **合计 / Total** | **265** | **926** | **28.6%** |
 
 上游目录快照 / Upstream catalog snapshot: `2026-07-13`, Ark-Models commit `3619a9a7268ec049dbbb30d1cff0ffa6d3fdf5ed` (`zh_CN`).
 
@@ -28,9 +28,9 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] Lancet-2 — `285_medic2` — [package](pets/lancet-2)
 - [ ] PhonoR-0 — `4136_phonor`
 - [x] THRM-EX / Thermal-EX — `376_therex` — [package](pets/thermal-ex)
-- [ ] U-Official — `4091_ulika`
+- [x] U-Official — `4091_ulika` — [package](pets/u-official)
 - [x] 正义骑士号 / "Justice Knight" — `4000_jnight` — [package](pets/justice-knight)
-- [ ] 泰拉大陆调查团 / Terra Research Commission — `4077_palico`
+- [x] 泰拉大陆调查团 / Terra Research Commission — `4077_palico` — [package](pets/terra-research-commission)
 - [ ] 罗德岛隐秘队 / Rhodes Island Recon — `4215_buddy`
 
 ### 2★
@@ -65,7 +65,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 
 - [ ] 云迹 / Contrail — `4165_ctrail`
 - [x] 伊桑 / Ethan — `355_ethan` — [package](pets/ethan)
-- [ ] 休谟斯 / Humus — `491_humus`
+- [x] 休谟斯 / Humus — `491_humus` — [package](pets/humus)
 - [ ] 冬时 / Снегурочка — `4208_wintim`
 - [x] 刻刀 / Cutter — `301_cutter` — [package](pets/cutter)
 - [ ] 协律 / Akkord — `4051_akkord`
@@ -196,7 +196,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 拜松 / Bison — `325_bison` — [package](pets/bison)
 - [x] 掠风 / Windflit — `433_windft` — [package](pets/windflit)
 - [ ] 摆渡人 / Varkáris — `4166_varkis`
-- [ ] 摩根 / Morgan — `154_morgan`
+- [x] 摩根 / Morgan — `154_morgan` — [package](pets/morgan)
 - [ ] 撷英调香师 / Perfumer the Distilled — 异格 / alternate — `1022_flwr2`
 - [x] 断崖 / Ayerscarpe — `294_ayer` — [package](pets/ayerscarpe)
 - [x] 明椒 / Paprika — `4071_peper` — [package](pets/paprika)
@@ -221,7 +221,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 槐琥 / Waai Fu — `243_waaifu` — [package](pets/waai-fu)
 - [ ] 水灯心 / Brigid — `4177_brigid`
 - [ ] 波卜 / Bobbing — `487_bobb`
-- [ ] 洋灰 / Cement — `464_cement`
+- [x] 洋灰 / Cement — `464_cement` — [package](pets/cement)
 - [x] 洛洛 / Rockrock — `4040_rockr` — [package](pets/rockrock)
 - [x] 海沫 / Highmore — `4066_highmo` — [package](pets/highmore)
 - [x] 海蒂 / Heidi — `4045_heidi` — [package](pets/heidi)
@@ -231,7 +231,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 渡桥 / Mitm — `4147_mitm`
 - [ ] 温米 / Warmy — `4081_warmy`
 - [ ] 濯尘芙蓉 / Hibiscus the Purifier — 异格 / alternate — `1024_hbisc2`
-- [ ] 火哨 / Firewhistle — `493_firwhl`
+- [x] 火哨 / Firewhistle — `493_firwhl` — [package](pets/firewhistle)
 - [x] 火神 / Vulcan — `163_hpsts` — [package](pets/vulcan)
 - [ ] 火龙S黑角 / Rathalos S Noir Corne — 异格 / alternate — `1030_noirc2`
 - [x] 灰喉 / GreyThroat — `367_swllow` — [package](pets/grey-throat)
@@ -297,7 +297,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 送葬人 / Executor — `279_excu` — [package](pets/executor)
 - [x] 野鬃 / Wild Mane — `496_wildmn` — [package](pets/wild-mane)
 - [ ] 钼铅 / Wulfenite — `4171_wulfen`
-- [ ] 铎铃 / Wind Chimes — `4083_chimes`
+- [x] 铎铃 / Wind Chimes — `4083_chimes` — [package](pets/wind-chimes)
 - [x] 铸铁 / Sideroca — `333_sidero` — [package](pets/sideroca)
 - [ ] 锡人 / Tin Man — `4151_tinman`
 - [x] 锡兰 / Ceylon — `348_ceylon` — [package](pets/ceylon)
@@ -327,7 +327,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] W — `113_cqbw` — [package](pets/w)
 - [ ] 丰川祥子 / Togawa Sakiko — `4182_oblvns`
 - [ ] 乌尔比安 / Ulpianus — `4145_ulpia`
-- [ ] 仇白 / Qiubai — `4082_qiubai`
+- [x] 仇白 / Qiubai — `4082_qiubai` — [package](pets/qiubai)
 - [x] 令 / Ling — `2023_ling` — [package](pets/ling)
 - [ ] 伊内丝 / Ines — `4087_ines`
 - [x] 伊芙利特 / Ifrit — `134_ifrit` — [package](pets/ifrit)
@@ -377,7 +377,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 早露 / Роса — `197_poca` — [package](pets/rosa)
 - [x] 星熊 / Hoshiguma — `136_hsguma` — [package](pets/hoshiguma)
 - [ ] 望 / Wang — `2027_wang`
-- [ ] 林 / Lin — `4080_lin`
+- [x] 林 / Lin — `4080_lin` — [package](pets/lin)
 - [x] 棘刺 / Thorns — `293_thorns` — [package](pets/thorns)
 - [x] 森蚺 / Eunectes — `416_zumama` — [package](pets/eunectes)
 - [x] 歌蕾蒂娅 / Gladiia — `474_glady` — [package](pets/gladiia)
@@ -438,7 +438,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 逻各斯 / Logos — `4133_logos`
 - [ ] 遥 / Haruka — `4202_haruka`
 - [ ] 酒神 / Tragodia — 异格 / alternate — `1042_phatm2`
-- [ ] 重岳 / Chongyue — `2024_chyue`
+- [x] 重岳 / Chongyue — `2024_chyue` — [package](pets/chongyue)
 - [x] 铃兰 / Suzuran — `358_lisa` — [package](pets/suzuran)
 - [x] 银灰 / SilverAsh — `172_svrash` — [package](pets/silverash)
 - [ ] 锏 / Degenbrecher — `4116_blkkgt`
