@@ -24,6 +24,12 @@ def clear_hidden_rgb(image: Image.Image) -> Image.Image:
     return rgba
 
 
+def clear_generated_state_frames(state_dir: Path) -> None:
+    """Remove only prior generated PNG cells before a resumable state rebuild."""
+    for stale_frame in state_dir.glob("*.png"):
+        stale_frame.unlink()
+
+
 def apply_counter_mirror_regions(
     canvas: Image.Image, state: str, spec: dict
 ) -> Image.Image:
@@ -240,6 +246,10 @@ def main() -> None:
             offset_y = (208 - union_height * scale) / 2 - min_y * scale
         state_dir = frames_root / state
         state_dir.mkdir(parents=True, exist_ok=True)
+        # A reviewed mapping may legitimately change a state's frame count. Remove
+        # only this generated state's prior PNG cells so a resumable rerun cannot
+        # leave stale trailing frames that make inspection report a false mismatch.
+        clear_generated_state_frames(state_dir)
         outputs = []
         output_boxes = []
         for index, (image, box) in enumerate(zip(images, boxes)):

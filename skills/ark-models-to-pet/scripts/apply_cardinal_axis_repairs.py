@@ -74,6 +74,11 @@ def main() -> None:
     parser.add_argument("--validation", required=True)
     parser.add_argument("--job-root", required=True)
     parser.add_argument("--repair-log", required=True)
+    parser.add_argument(
+        "--skip-unsupported",
+        action="store_true",
+        help="repair proven inverse axes while leaving ambiguous or mixed axes for manual review",
+    )
     args = parser.parse_args()
 
     manifest_path = Path(args.manifest).resolve()
@@ -86,11 +91,21 @@ def main() -> None:
     validation = json.loads(Path(args.validation).resolve().read_text(encoding="utf-8"))
     job_root = Path(args.job_root).resolve()
     repairs = []
+    skipped = []
 
     for result in validation.get("jobs", []):
         axes = [axis for axis in AXIS_FIELDS if axis_verdict(result, axis) == "inverse"]
         unsupported = [axis for axis in AXIS_FIELDS if axis_verdict(result, axis) == "unsupported"]
         if unsupported:
+            if args.skip_unsupported:
+                skipped.append(
+                    {
+                        "model_key": result["model_key"],
+                        "axes": unsupported,
+                        "reason": "ambiguous-or-mixed-blind-cardinal-result",
+                    }
+                )
+                continue
             raise SystemExit(
                 f"{result['model_key']} has ambiguous/mixed axes requiring manual repair: {', '.join(unsupported)}"
             )
@@ -139,9 +154,14 @@ def main() -> None:
         atomic_csv(Path(args.csv).resolve(), jobs)
     atomic_json(
         Path(args.repair_log).resolve(),
-        {"schema_version": 1, "source_validation": Path(args.validation).name, "jobs": repairs},
+        {
+            "schema_version": 1,
+            "source_validation": Path(args.validation).name,
+            "jobs": repairs,
+            "skipped": skipped,
+        },
     )
-    print(json.dumps({"repaired": len(repairs)}, ensure_ascii=False))
+    print(json.dumps({"repaired": len(repairs), "skipped": len(skipped)}, ensure_ascii=False))
 
 
 if __name__ == "__main__":

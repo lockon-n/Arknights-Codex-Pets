@@ -32,6 +32,12 @@ def main() -> None:
     parser.add_argument("--base-answer-key", required=True)
     parser.add_argument("--recheck", required=True)
     parser.add_argument("--recheck-answer-key", required=True)
+    parser.add_argument(
+        "--model-key",
+        action="append",
+        default=[],
+        help="merge only this validated recheck job; repeat for multiple jobs",
+    )
     parser.add_argument("--output", required=True)
     args = parser.parse_args()
 
@@ -44,6 +50,18 @@ def main() -> None:
         load_jobs(Path(args.recheck_answer_key).expanduser().resolve()),
         "recheck answer key",
     )
+
+    selected = set(args.model_key)
+    if selected:
+        missing_review = sorted(selected - set(recheck))
+        missing_key = sorted(selected - set(recheck_key))
+        if missing_review or missing_key:
+            raise SystemExit(
+                "selected model keys missing from recheck/recheck answer key: "
+                f"review={missing_review}, key={missing_key}"
+            )
+        recheck = {key: value for key, value in recheck.items() if key in selected}
+        recheck_key = {key: value for key, value in recheck_key.items() if key in selected}
 
     if set(recheck) != set(recheck_key):
         raise SystemExit("recheck jobs do not exactly match the recheck answer key")

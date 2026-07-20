@@ -38,6 +38,16 @@ def main() -> None:
     parser.add_argument("--output-dir", required=True)
     parser.add_argument("--operators-per-page", type=int, default=5)
     parser.add_argument("--model-key", action="append", default=[])
+    parser.add_argument(
+        "--probe-dir-name",
+        default="look-probe",
+        help="Per-job probe directory to review (default: look-probe).",
+    )
+    parser.add_argument(
+        "--config-name",
+        default="look-config.json",
+        help="Per-job look config shown in labels (default: look-config.json).",
+    )
     args = parser.parse_args()
 
     payload = json.loads(Path(args.manifest).resolve().read_text(encoding="utf-8"))
@@ -66,7 +76,7 @@ def main() -> None:
         entries = []
         for row, job in enumerate(page_jobs):
             y = HEADER_HEIGHT + row * CELL_HEIGHT
-            config_path = job_root / job["pet_id"] / "look-config.json"
+            config_path = job_root / job["pet_id"] / args.config_name
             config = json.loads(config_path.read_text(encoding="utf-8"))
             draw.text((5, y + 8), job["display_name"], fill=(0, 0, 0, 255))
             draw.text((5, y + 28), job["pet_id"], fill=(60, 60, 60, 255))
@@ -77,7 +87,12 @@ def main() -> None:
                 f"eyes={len(config.get('eye_bones') or [])}",
                 fill=(60, 60, 60, 255),
             )
-            probe_root = job_root / job["pet_id"] / "look-probe" / "look-candidates"
+            probe_root = (
+                job_root
+                / job["pet_id"]
+                / args.probe_dir_name
+                / "look-candidates"
+            )
             for column, probe in enumerate(PROBES):
                 x = LABEL_WIDTH + column * CELL_WIDTH
                 path = probe_root / f"{probe}.png"

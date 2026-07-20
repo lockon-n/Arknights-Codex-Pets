@@ -11,9 +11,9 @@ The collection will expand gradually in CN release order, with outfits maintaine
 
 | 类别 / Category | 已完成 / Done | 总数 / Total | 进度 / Progress |
 |---|---:|---:|---:|
-| 默认干员 / Default operators | 343 | 420 | 81.7% |
+| 默认干员 / Default operators | 353 | 420 | 84.0% |
 | 皮肤 / Outfits | 2 | 506 | 0.4% |
-| **合计 / Total** | **345** | **926** | **37.3%** |
+| **合计 / Total** | **355** | **926** | **38.3%** |
 
 上游目录快照 / Upstream catalog snapshot: `2026-07-13`, Ark-Models commit `3619a9a7268ec049dbbb30d1cff0ffa6d3fdf5ed` (`zh_CN`).
 
@@ -127,7 +127,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 
 ### 5★
 
-- [ ] Miss.Christine — `4198_christ`
+- [x] Miss.Christine — `4198_christ` — [package](pets/miss-christine)
 - [x] 万顷 / Wanqing — `4119_wanqin` — [package](pets/wanqing)
 - [ ] 三角初华 / Misumi Uika — `4184_dolris`
 - [x] 临光 / Nearl — `148_nearl` — [package](pets/nearl)
@@ -151,7 +151,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 历阵锐枪芬 / Fang the Fire-sharpened — 异格 / alternate — `1036_fang2`
 - [x] 双月 / Iana — `4124_iana` — [package](pets/iana)
 - [x] 可颂 / Croissant — `201_moeshd` — [package](pets/croissant)
-- [ ] 吉星 / Kichisei — `4203_kichi`
+- [x] 吉星 / Kichisei — `4203_kichi` — [package](pets/kichisei)
 - [x] 吽 / Hung — `226_hmau` — [package](pets/hung)
 - [x] 和弦 / Harmonie — `297_hamoni` — [package](pets/harmonie)
 - [x] 哈洛德 / Harold — `4114_harold` — [package](pets/harold)
@@ -181,7 +181,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 巫恋 / Shamare — `254_vodfox` — [package](pets/shamare)
 - [x] 布洛卡 / Broca — `356_broca` — [package](pets/broca)
 - [x] 幽灵鲨 / Specter — `143_ghost` — [package](pets/specter)
-- [ ] 录武官 / Record Keeper — `4196_reckpr`
+- [x] 录武官 / Record Keeper — `4196_reckpr` — [package](pets/record-keeper)
 - [x] 微风 / Breeze — `275_breeze` — [package](pets/breeze)
 - [x] 德克萨斯 / Texas — `102_texas` — [package](pets/texas)
 - [x] 惊蛰 / Leizi — `306_leizi` — [package](pets/leizi)
@@ -209,7 +209,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 暴雨 / Heavyrain — `304_zebra` — [package](pets/heavyrain)
 - [x] 月禾 / Tsukinogi — `343_tknogi` — [package](pets/tsukinogi)
 - [x] 杏仁 / Almond — `4105_almond` — [package](pets/almond)
-- [ ] 松桐 / Matsukiri — `4199_makiri`
+- [x] 松桐 / Matsukiri — `4199_makiri` — [package](pets/matsukiri)
 - [x] 极光 / Aurora — `422_aurora` — [package](pets/aurora)
 - [x] 极境 / Elysium — `401_elysm` — [package](pets/elysium)
 - [x] 柏喙 / Bibeak — `252_bibeak` — [package](pets/bibeak)
@@ -252,7 +252,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 真理 / Истина — `195_glassb` — [package](pets/istina)
 - [ ] 矩 / Ju — `4221_ju`
 - [x] 石棉 / Asbestos — `378_asbest` — [package](pets/asbestos)
-- [ ] 祐天寺若麦 / Yūtenji Nyamu — `4185_amoris`
+- [x] 祐天寺若麦 / Yūtenji Nyamu — `4185_amoris` — [package](pets/yutenji-nyamu)
 - [x] 稀音 / Scene — `336_folivo` — [package](pets/scene)
 - [x] 空 / Sora — `101_sora` — [package](pets/sora)
 - [x] 空构 / Spuria — `4015_spuria` — [package](pets/spuria)
@@ -274,7 +274,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 莱恩哈特 / Leonhardt — `373_lionhd` — [package](pets/leonhardt)
 - [x] 莱欧斯 / Laios — `4142_laios` — [package](pets/laios)
 - [x] 菲莱 / Philae — `4148_philae` — [package](pets/philae)
-- [ ] 蒂比 / Tippi — `4191_tippi`
+- [x] 蒂比 / Tippi — `4191_tippi` — [package](pets/tippi)
 - [x] 蓝毒 / Blue Poison — `129_bluep` — [package](pets/blue-poison)
 - [x] 薄绿 / Mint — `388_mint` — [package](pets/mint)
 - [x] 蚀清 / Corroserum — `489_serum` — [package](pets/corroserum)
@@ -334,7 +334,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 伺夜 / Vigil — `427_vigil` — [package](pets/vigil)
 - [x] 余 / Yu — `2026_yu` — [package](pets/yu)
 - [x] 佩佩 / Pepe — `4058_pepe` — [package](pets/pepe)
-- [ ] 信仰搅拌机 / Sankta Miksaparato — `4194_rmixer`
+- [x] 信仰搅拌机 / Sankta Miksaparato — `4194_rmixer` — [package](pets/sankta-miksaparato)
 - [ ] 假日威龙陈 / Ch'en the Holungday — 异格 / alternate — `1013_chen2`
 - [x] 傀影 / Phantom — `250_phatom` — [package](pets/phantom)
 - [ ] 凛御银灰 / SilverAsh the Reignfrost — 异格 / alternate — `1045_svash2`
@@ -404,7 +404,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 琳琅诗怀雅 / Swire the Elegant Wit — 异格 / alternate — `1033_swire2`
 - [x] 琴柳 / Saileach — `479_sleach` — [package](pets/saileach)
 - [x] 瑕光 / Blemishine — `423_blemsh` — [package](pets/blemishine)
-- [ ] 电弧 / Raidian — `4195_radian`
+- [x] 电弧 / Raidian — `4195_radian` — [package](pets/raidian)
 - [x] 白铁 / Stainless — `4072_ironmn` — [package](pets/stainless)
 - [ ] 百炼嘉维尔 / Gavial the Invincible — 异格 / alternate — `1026_gvial2`
 - [ ] 真言 / Mantra — `4204_mantra`
@@ -426,7 +426,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 莫斯提马 / Mostima — `213_mostma` — [package](pets/mostima)
 - [x] 莱伊 / Ray — `4117_ray` — [package](pets/ray)
 - [x] 菲亚梅塔 / Fiammetta — `300_phenxi` — [package](pets/fiammetta)
-- [ ] 蕾缪安 / Lemuen — `4193_lemuen`
+- [x] 蕾缪安 / Lemuen — `4193_lemuen` — [package](pets/lemuen)
 - [x] 薇薇安娜 / Viviana — `4098_vvana` — [package](pets/viviana)
 - [ ] 谬因 / Aphrissa — `4229_aphris`
 - [ ] 贝洛内 / Bellone — `4037_demetr`
@@ -436,7 +436,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 远牙 / Fartooth — `430_fartth` — [package](pets/fartooth)
 - [x] 迷迭香 / Rosmontis — `391_rosmon` — [package](pets/rosmontis)
 - [x] 逻各斯 / Logos — `4133_logos` — [package](pets/logos)
-- [ ] 遥 / Haruka — `4202_haruka`
+- [x] 遥 / Haruka — `4202_haruka` — [package](pets/haruka)
 - [ ] 酒神 / Tragodia — 异格 / alternate — `1042_phatm2`
 - [x] 重岳 / Chongyue — `2024_chyue` — [package](pets/chongyue)
 - [x] 铃兰 / Suzuran — `358_lisa` — [package](pets/suzuran)
