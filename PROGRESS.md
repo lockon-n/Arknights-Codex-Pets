@@ -11,9 +11,9 @@ The collection will expand gradually in CN release order, with outfits maintaine
 
 | 类别 / Category | 已完成 / Done | 总数 / Total | 进度 / Progress |
 |---|---:|---:|---:|
-| 默认干员 / Default operators | 273 | 420 | 65.0% |
+| 默认干员 / Default operators | 283 | 420 | 67.4% |
 | 皮肤 / Outfits | 2 | 506 | 0.4% |
-| **合计 / Total** | **275** | **926** | **29.7%** |
+| **合计 / Total** | **285** | **926** | **30.8%** |
 
 上游目录快照 / Upstream catalog snapshot: `2026-07-13`, Ark-Models commit `3619a9a7268ec049dbbb30d1cff0ffa6d3fdf5ed` (`zh_CN`).
 
@@ -103,7 +103,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 砾 / Gravel — `237_gravel` — [package](pets/gravel)
 - [x] 红云 / Vermeil — `190_clour` — [package](pets/vermeil)
 - [x] 红豆 / Vigna — `290_vigna` — [package](pets/vigna)
-- [ ] 维荻 / Verdant — `4107_vrdant`
+- [x] 维荻 / Verdant — `4107_vrdant` — [package](pets/verdant)
 - [x] 缠丸 / Matoimaru — `289_gyuki` — [package](pets/matoimaru)
 - [x] 罗小黑 / Luo Xiaohei — `4067_lolxh` — [package](pets/luo-xiaohei)
 - [x] 罗比菈塔 / Roberta — `484_robrta` — [package](pets/roberta)
@@ -116,7 +116,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 讯使 / Courier — `198_blackd` — [package](pets/courier)
 - [x] 调香师 / Perfumer — `181_flower` — [package](pets/perfumer)
 - [x] 豆苗 / Beanstalk — `452_bstalk` — [package](pets/beanstalk)
-- [ ] 跃跃 / Caper — `4100_caper`
+- [x] 跃跃 / Caper — `4100_caper` — [package](pets/caper)
 - [x] 远山 / Gitano — `109_fmout` — [package](pets/gitano)
 - [x] 酸糖 / Aciddrop — `366_acdrop` — [package](pets/aciddrop)
 - [x] 铅踝 / Totter — `4062_totter` — [package](pets/totter)
@@ -139,12 +139,12 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 但书 / Proviso — `4032_provs` — [package](pets/proviso)
 - [ ] 佩德洛 / Pedro — `4234_pedro`
 - [ ] 八幡海铃 / Yahata Umiri — `4186_tmoris`
-- [ ] 冰酿 / Coldshot — `4104_coldst`
+- [x] 冰酿 / Coldshot — `4104_coldst` — [package](pets/coldshot)
 - [x] 凛冬 / Зима — `115_headbr` — [package](pets/zima)
 - [x] 凛视 / Valarqvin — `4102_threye` — [package](pets/valarqvin)
 - [ ] 凯瑟琳 / Catherine — `4162_cathy`
 - [x] 初雪 / Pramanix — `174_slbell` — [package](pets/pramanix)
-- [ ] 刺玫 / Vendela — `494_vendla`
+- [x] 刺玫 / Vendela — `494_vendla` — [package](pets/vendela)
 - [ ] 医生 / Doc — `4125_rdoc`
 - [x] 华法琳 / Warfarin — `171_bldsk` — [package](pets/warfarin)
 - [x] 卡夫卡 / Kafka — `214_kafka` — [package](pets/kafka)
@@ -188,9 +188,9 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 慑砂 / Sesa — `379_sesa` — [package](pets/sesa)
 - [x] 战车 / Tachanka — `459_tachak` — [package](pets/tachanka)
 - [x] 截云 / Jieyun — `4078_bdhkgt` — [package](pets/jieyun)
-- [ ] 戴菲恩 / Delphine — `4110_delphn`
+- [x] 戴菲恩 / Delphine — `4110_delphn` — [package](pets/delphine)
 - [ ] 承曦格雷伊 / Greyy the Lightningbearer — 异格 / alternate — `1027_greyy2`
-- [ ] 折光 / Diamante — `499_kaitou`
+- [x] 折光 / Diamante — `499_kaitou` — [package](pets/diamante)
 - [ ] 折桠 / Веточки — `4207_branch`
 - [x] 拉普兰德 / Lappland — `140_whitew` — [package](pets/lappland)
 - [x] 拜松 / Bison — `325_bison` — [package](pets/bison)
@@ -208,7 +208,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 暴行 / Savage — `230_savage` — [package](pets/savage)
 - [x] 暴雨 / Heavyrain — `304_zebra` — [package](pets/heavyrain)
 - [x] 月禾 / Tsukinogi — `343_tknogi` — [package](pets/tsukinogi)
-- [ ] 杏仁 / Almond — `4105_almond`
+- [x] 杏仁 / Almond — `4105_almond` — [package](pets/almond)
 - [ ] 松桐 / Matsukiri — `4199_makiri`
 - [x] 极光 / Aurora — `422_aurora` — [package](pets/aurora)
 - [x] 极境 / Elysium — `401_elysm` — [package](pets/elysium)
@@ -267,7 +267,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 至简 / Minimalist — `4054_malist` — [package](pets/minimalist)
 - [x] 芙兰卡 / Franka — `106_franka` — [package](pets/franka)
 - [x] 苇草 / Reed — `261_sddrag` — [package](pets/reed)
-- [ ] 苍苔 / Bryophyta — `4106_bryota`
+- [x] 苍苔 / Bryophyta — `4106_bryota` — [package](pets/bryophyta)
 - [ ] 若叶睦 / Wakaba Mutsumi — `4183_mortis`
 - [x] 苦艾 / Absinthe — `405_absin` — [package](pets/absinthe)
 - [ ] 莎草 / Papyrus — `4139_papyrs`
@@ -313,7 +313,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 雷狼龙S空爆 / Zinogre S Catapult — 异格 / alternate — `1049_catap2`
 - [x] 雷蛇 / Liskarm — `107_liskam` — [package](pets/liskarm)
 - [x] 霜华 / Frost — `458_rfrost` — [package](pets/frost)
-- [ ] 青枳 / Poncirus — `488_buildr`
+- [x] 青枳 / Poncirus — `488_buildr` — [package](pets/poncirus)
 - [x] 鞭刃 / Whislash — `265_sophia` — [package](pets/whislash)
 - [x] 风丸 / Kazemaru — `4016_kazema` — [package](pets/kazemaru)
 - [ ] 风絮 / Taraxacum — `4222_taraxa`
@@ -431,7 +431,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 谬因 / Aphrissa — `4229_aphris`
 - [ ] 贝洛内 / Bellone — `4037_demetr`
 - [ ] 赤刃明霄陈 / Ch'en the Dawnstreak — 异格 / alternate — `1050_chen3`
-- [ ] 赫德雷 / Hoederer — `4088_hodrer`
+- [x] 赫德雷 / Hoederer — `4088_hodrer` — [package](pets/hoederer)
 - [x] 赫拉格 / Hellagur — `188_helage` — [package](pets/hellagur)
 - [x] 远牙 / Fartooth — `430_fartth` — [package](pets/fartooth)
 - [x] 迷迭香 / Rosmontis — `391_rosmon` — [package](pets/rosmontis)
