@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "model_key": "4198_christ",
+  "votes": {
+    "horizontal_A": {
+      "screen-left": 2,
+      "screen-right": 1
+    },
+    "horizontal_B": {
+      "screen-right": 2,
+      "screen-left": 1
+    },
+    "vertical_A": {
+      "down": 3
+    },
+    "vertical_B": {
+      "up": 3
+    }
+  },
+  "horizontal_A": "screen-right",
+  "horizontal_B": "screen-left",
+  "vertical_A": "down",
+  "vertical_B": "up",
+  "semantic_recheck": {
+    "source_observed": {
+      "horizontal_A": "screen-left",
+      "horizontal_B": "screen-right",
+      "vertical_A": "down",
+      "vertical_B": "up"
+    },
+    "source_expected": {
+      "horizontal_A": "screen-left",
+      "horizontal_B": "screen-right",
+      "vertical_A": "down",
+      "vertical_B": "up"
+    },
+    "translated_to_base": {
+      "horizontal_A": "screen-right",
+      "horizontal_B": "screen-left",
+      "vertical_A": "down",
+      "vertical_B": "up"
+    },
+    "votes": {
+      "horizontal_A": {
+        "screen-left": 3
+      },
+      "horizontal_B": {
+        "screen-right": 3
+      },
+      "vertical_A": {
+        "down": 2,
+        "ambiguous": 1
+      },
+      "vertical_B": {
+        "up": 2,
+        "ambiguous": 1
+      }
+    }
+  }
+}
