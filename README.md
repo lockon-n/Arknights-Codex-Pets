@@ -100,12 +100,21 @@ Codex 本地使用时只需要 `pet.json` 和 `spritesheet.webp` 或 `spriteshee
 
 1. 更新完整的 `Ark-Models` 本地检出。
 2. 从其 `models_data.json` 中选择 `model_key`。
-3. 使用可移植的 `ark-models-to-pet` Skill 完成渲染、动作映射、QA 和打包。
+3. 使用仓库内的 [`ark-models-to-pet` Skill](skills/ark-models-to-pet/SKILL.md) 完成渲染、动作映射、QA 和打包。
 4. 在本 Git 工作树之外暂存待验收成品，并验证图集原件和 QA 证据。
 5. 将通过验收的目录发布到 `pets/<pet-id>/`，合并登记到 `registry/pets.json`。
 6. 运行 `python3 scripts/update_progress.py` 更新进度页，再次验证后提交。
 
 详细的审核关卡和素材规则见 [docs/WORKFLOW.md](docs/WORKFLOW.md)。
+
+转换 Skill 的完整文档、脚本、审核规则和测试位于 [`skills/ark-models-to-pet/`](skills/ark-models-to-pet/)。若希望另一台 Codex 直接发现并使用它，可以复制到个人 Skill 目录：
+
+```bash
+mkdir -p "$HOME/.codex/skills"
+cp -R skills/ark-models-to-pet "$HOME/.codex/skills/ark-models-to-pet"
+```
+
+安装后新开一个 Codex 任务即可使用；批量制作仍需在仓库外准备完整的 Ark-Models 检出和渲染工作目录。
 
 ### 致谢、版权与免责声明
 
@@ -190,12 +199,21 @@ The default sizing policy is `safe-max`: render official Spine assets at 768×83
 
 1. Refresh the complete local `Ark-Models` checkout.
 2. Select a `model_key` from its `models_data.json`.
-3. Use the portable `ark-models-to-pet` Skill to render, map, QA, and package the pet.
+3. Use the bundled [`ark-models-to-pet` Skill](skills/ark-models-to-pet/SKILL.md) to render, map, QA, and package the pet.
 4. Stage candidate packages outside this Git worktree and validate the exact atlas copies and QA evidence.
 5. Publish accepted directories into `pets/<pet-id>/` and merge their entries into `registry/pets.json`.
 6. Run `python3 scripts/update_progress.py` to refresh the progress page, validate again, and then commit.
 
 See [docs/WORKFLOW.md](docs/WORKFLOW.md) for detailed review gates and source rules.
+
+The complete conversion Skill—documentation, scripts, review rules, and tests—is included under [`skills/ark-models-to-pet/`](skills/ark-models-to-pet/). To make it discoverable by another Codex installation, copy it into the personal Skill directory:
+
+```bash
+mkdir -p "$HOME/.codex/skills"
+cp -R skills/ark-models-to-pet "$HOME/.codex/skills/ark-models-to-pet"
+```
+
+Start a new Codex task after installation. Batch production still requires a complete Ark-Models checkout and an external rendering workspace outside this repository.
 
 ### Acknowledgements, rights, and disclaimer
 

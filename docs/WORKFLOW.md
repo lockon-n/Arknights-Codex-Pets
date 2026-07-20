@@ -16,7 +16,7 @@ Record the following before conversion:
 - display name and proposed `pet-id`
 - operator / skin labels from `models_data.json`
 
-Run the portable `ark-models-to-pet` Skill from a separate job folder. Review its generated animation mapping and look-direction controls; they are not automatically authoritative.
+Run the bundled [`ark-models-to-pet` Skill](../skills/ark-models-to-pet/SKILL.md) from a separate job folder. Review its generated animation mapping and look-direction controls; they are not automatically authoritative.
 
 ## Acceptance gate
 
