@@ -11,9 +11,9 @@ The collection will expand gradually in CN release order, with outfits maintaine
 
 | 类别 / Category | 已完成 / Done | 总数 / Total | 进度 / Progress |
 |---|---:|---:|---:|
-| 默认干员 / Default operators | 293 | 420 | 69.8% |
+| 默认干员 / Default operators | 303 | 420 | 72.1% |
 | 皮肤 / Outfits | 2 | 506 | 0.4% |
-| **合计 / Total** | **295** | **926** | **31.9%** |
+| **合计 / Total** | **305** | **926** | **32.9%** |
 
 上游目录快照 / Upstream catalog snapshot: `2026-07-13`, Ark-Models commit `3619a9a7268ec049dbbb30d1cff0ffa6d3fdf5ed` (`zh_CN`).
 
@@ -122,7 +122,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 铅踝 / Totter — `4062_totter` — [package](pets/totter)
 - [x] 阿消 / Shaw — `277_sqrrel` — [package](pets/shaw)
 - [x] 霜叶 / Frostleaf — `193_frostl` — [package](pets/frostleaf)
-- [ ] 露托 / Lutonada — `4130_luton`
+- [x] 露托 / Lutonada — `4130_luton` — [package](pets/lutonada)
 - [ ] 骋风 / Windscoot — `445_wscoot`
 
 ### 5★
@@ -145,11 +145,11 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 凯瑟琳 / Catherine — `4162_cathy`
 - [x] 初雪 / Pramanix — `174_slbell` — [package](pets/pramanix)
 - [x] 刺玫 / Vendela — `494_vendla` — [package](pets/vendela)
-- [ ] 医生 / Doc — `4125_rdoc`
+- [x] 医生 / Doc — `4125_rdoc` — [package](pets/doc)
 - [x] 华法琳 / Warfarin — `171_bldsk` — [package](pets/warfarin)
 - [x] 卡夫卡 / Kafka — `214_kafka` — [package](pets/kafka)
 - [ ] 历阵锐枪芬 / Fang the Fire-sharpened — 异格 / alternate — `1036_fang2`
-- [ ] 双月 / Iana — `4124_iana`
+- [x] 双月 / Iana — `4124_iana` — [package](pets/iana)
 - [x] 可颂 / Croissant — `201_moeshd` — [package](pets/croissant)
 - [ ] 吉星 / Kichisei — `4203_kichi`
 - [x] 吽 / Hung — `226_hmau` — [package](pets/hung)
@@ -168,15 +168,15 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 天火 / Skyfire — `166_skfire` — [package](pets/skyfire)
 - [ ] 天空盒 / Skybox — `4213_skybx`
 - [x] 奥斯塔 / Aosta — `346_aosta` — [package](pets/aosta)
-- [ ] 奥达 / Odda — `4131_odda`
+- [x] 奥达 / Odda — `4131_odda` — [package](pets/odda)
 - [x] 子月 / Lunacub — `4014_lunacu` — [package](pets/lunacub)
 - [x] 守林人 / Firewatch — `158_milu` — [package](pets/firewatch)
 - [x] 安哲拉 / Andreana — `218_cuttle` — [package](pets/andreana)
 - [x] 寒檀 / Santalla — `341_sntlla` — [package](pets/santalla)
 - [ ] 寒芒克洛丝 / Kroos the Keen Glint — 异格 / alternate — `1021_kroos2`
 - [ ] 寻澜 / Surfer — `4052_surfer`
-- [ ] 导火索 / Fuze — `4126_fuze`
-- [ ] 小满 / Grain Buds — `4122_grabds`
+- [x] 导火索 / Fuze — `4126_fuze` — [package](pets/fuze)
+- [x] 小满 / Grain Buds — `4122_grabds` — [package](pets/grain-buds)
 - [x] 崖心 / Cliffheart — `173_slchan` — [package](pets/cliffheart)
 - [x] 巫恋 / Shamare — `254_vodfox` — [package](pets/shamare)
 - [x] 布洛卡 / Broca — `356_broca` — [package](pets/broca)
@@ -258,7 +258,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 空构 / Spuria — `4015_spuria` — [package](pets/spuria)
 - [x] 絮雨 / Whisperain — `436_whispr` — [package](pets/whisperain)
 - [x] 红 / Projekt Red — `144_red` — [package](pets/projekt-red)
-- [ ] 红隼 / Kestrel — `4023_rfalcn`
+- [x] 红隼 / Kestrel — `4023_rfalcn` — [package](pets/kestrel)
 - [x] 绮良 / Kirara — `478_kirara` — [package](pets/kirara)
 - [x] 罗宾 / Robin — `451_robin` — [package](pets/robin)
 - [x] 羽毛笔 / La Pluma — `421_crow` — [package](pets/la-pluma)
@@ -359,7 +359,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 安洁莉娜 / Angelina — `291_aglina` — [package](pets/angelina)
 - [x] 山 / Mountain — `264_f12yin` — [package](pets/mountain)
 - [x] 嵯峨 / Saga — `362_saga` — [package](pets/saga)
-- [ ] 左乐 / Zuo Le — `4121_zuole`
+- [x] 左乐 / Zuo Le — `4121_zuole` — [package](pets/zuo-le)
 - [x] 帕拉斯 / Pallas — `485_pallas` — [package](pets/pallas)
 - [x] 年 / Nian — `2014_nian` — [package](pets/nian)
 - [x] 异客 / Passenger — `472_pasngr` — [package](pets/passenger)
@@ -420,7 +420,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 老鲤 / Lee — `322_lmlee` — [package](pets/lee)
 - [x] 能天使 / Exusiai — `103_angel` — [package](pets/exusiai)
 - [x] 艾丽妮 / Irene — `4009_irene` — [package](pets/irene)
-- [ ] 艾拉 / Ela — `4123_ela`
+- [x] 艾拉 / Ela — `4123_ela` — [package](pets/ela)
 - [x] 艾雅法拉 / Eyjafjalla — `180_amgoat` — [package](pets/eyjafjalla)
 - [ ] 荒芜拉普兰德 / Lappland the Decadenza — 异格 / alternate — `1038_whitw2`
 - [x] 莫斯提马 / Mostima — `213_mostma` — [package](pets/mostima)
@@ -453,7 +453,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 鸿雪 / Позёмка — `4055_bgsnow` — [package](pets/pozemka)
 - [ ] 麒麟R夜刀 / Kirin R Yato — 异格 / alternate — `1029_yato2`
 - [x] 麦哲伦 / Magallan — `248_mgllan` — [package](pets/magallan)
-- [ ] 黍 / Shu — `2025_shu`
+- [x] 黍 / Shu — `2025_shu` — [package](pets/shu)
 - [x] 黑 / Schwarz — `340_shwaz` — [package](pets/schwarz)
 - [x] 黑键 / Ebenholz — `4046_ebnhlz` — [package](pets/ebenholz)
 
