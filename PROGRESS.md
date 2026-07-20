@@ -11,9 +11,9 @@ The collection will expand gradually in CN release order, with outfits maintaine
 
 | 类别 / Category | 已完成 / Done | 总数 / Total | 进度 / Progress |
 |---|---:|---:|---:|
-| 默认干员 / Default operators | 323 | 420 | 76.9% |
+| 默认干员 / Default operators | 333 | 420 | 79.3% |
 | 皮肤 / Outfits | 2 | 506 | 0.4% |
-| **合计 / Total** | **325** | **926** | **35.1%** |
+| **合计 / Total** | **335** | **926** | **36.2%** |
 
 上游目录快照 / Upstream catalog snapshot: `2026-07-13`, Ark-Models commit `3619a9a7268ec049dbbb30d1cff0ffa6d3fdf5ed` (`zh_CN`).
 
@@ -63,7 +63,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 
 ### 4★
 
-- [ ] 云迹 / Contrail — `4165_ctrail`
+- [x] 云迹 / Contrail — `4165_ctrail` — [package](pets/contrail)
 - [x] 伊桑 / Ethan — `355_ethan` — [package](pets/ethan)
 - [x] 休谟斯 / Humus — `491_humus` — [package](pets/humus)
 - [ ] 冬时 / Снегурочка — `4208_wintim`
@@ -174,7 +174,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 安哲拉 / Andreana — `218_cuttle` — [package](pets/andreana)
 - [x] 寒檀 / Santalla — `341_sntlla` — [package](pets/santalla)
 - [ ] 寒芒克洛丝 / Kroos the Keen Glint — 异格 / alternate — `1021_kroos2`
-- [ ] 寻澜 / Surfer — `4052_surfer`
+- [x] 寻澜 / Surfer — `4052_surfer` — [package](pets/surfer)
 - [x] 导火索 / Fuze — `4126_fuze` — [package](pets/fuze)
 - [x] 小满 / Grain Buds — `4122_grabds` — [package](pets/grain-buds)
 - [x] 崖心 / Cliffheart — `173_slchan` — [package](pets/cliffheart)
@@ -220,7 +220,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 森西 / Senshi — `4143_sensi` — [package](pets/senshi)
 - [x] 槐琥 / Waai Fu — `243_waaifu` — [package](pets/waai-fu)
 - [ ] 水灯心 / Brigid — `4177_brigid`
-- [ ] 波卜 / Bobbing — `487_bobb`
+- [x] 波卜 / Bobbing — `487_bobb` — [package](pets/bobbing)
 - [x] 洋灰 / Cement — `464_cement` — [package](pets/cement)
 - [x] 洛洛 / Rockrock — `4040_rockr` — [package](pets/rockrock)
 - [x] 海沫 / Highmore — `4066_highmo` — [package](pets/highmore)
@@ -242,11 +242,11 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 熔泉 / Toddifons — `363_toddi` — [package](pets/toddifons)
 - [x] 燧石 / Flint — `415_flint` — [package](pets/flint)
 - [x] 爱丽丝 / Iris — `338_iris` — [package](pets/iris)
-- [ ] 特克诺 / Tecno — `4164_tecno`
+- [x] 特克诺 / Tecno — `4164_tecno` — [package](pets/tecno)
 - [x] 特米米 / Tomimi — `411_tomimi` — [package](pets/tomimi)
 - [x] 狮蝎 / Manticore — `215_mantic` — [package](pets/manticore)
 - [x] 玫拉 / Melanite — `4006_melnte` — [package](pets/melanite)
-- [ ] 瑰盐 / Rose Salt — `4163_rosesa`
+- [x] 瑰盐 / Rose Salt — `4163_rosesa` — [package](pets/rose-salt)
 - [x] 白金 / Platinum — `204_platnm` — [package](pets/platinum)
 - [x] 白面鸮 / Ptilopsis — `128_plosis` — [package](pets/ptilopsis)
 - [x] 真理 / Истина — `195_glassb` — [package](pets/istina)
@@ -273,16 +273,16 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 莎草 / Papyrus — `4139_papyrs` — [package](pets/papyrus)
 - [x] 莱恩哈特 / Leonhardt — `373_lionhd` — [package](pets/leonhardt)
 - [x] 莱欧斯 / Laios — `4142_laios` — [package](pets/laios)
-- [ ] 菲莱 / Philae — `4148_philae`
+- [x] 菲莱 / Philae — `4148_philae` — [package](pets/philae)
 - [ ] 蒂比 / Tippi — `4191_tippi`
 - [x] 蓝毒 / Blue Poison — `129_bluep` — [package](pets/blue-poison)
 - [x] 薄绿 / Mint — `388_mint` — [package](pets/mint)
 - [x] 蚀清 / Corroserum — `489_serum` — [package](pets/corroserum)
 - [x] 蜜莓 / Honeyberry — `449_glider` — [package](pets/honeyberry)
 - [x] 蜜蜡 / Beeswax — `344_beewax` — [package](pets/beeswax)
-- [ ] 行箸 / Xingzhu — `4172_xingzh`
+- [x] 行箸 / Xingzhu — `4172_xingzh` — [package](pets/xingzhu)
 - [x] 衡沙 / Sand Reckoner — `4140_lasher` — [package](pets/sand-reckoner)
-- [ ] 裁度 / Figurino — `4155_talr`
+- [x] 裁度 / Figurino — `4155_talr` — [package](pets/figurino)
 - [ ] 裂响 / Crackborne — `4225_tanya`
 - [x] 见行者 / Enforcer — `4036_forcer` — [package](pets/enforcer)
 - [x] 诗怀雅 / Swire — `308_swire` — [package](pets/swire)
@@ -363,10 +363,10 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 帕拉斯 / Pallas — `485_pallas` — [package](pets/pallas)
 - [x] 年 / Nian — `2014_nian` — [package](pets/nian)
 - [x] 异客 / Passenger — `472_pasngr` — [package](pets/passenger)
-- [ ] 弑君者 / Crownslayer — `1502_crosly`
+- [x] 弑君者 / Crownslayer — `1502_crosly` — [package](pets/crownslayer)
 - [ ] 引星棘刺 / Thorns the Lodestar — 异格 / alternate — `1039_thorn2`
 - [ ] 归溟幽灵鲨 / Specter the Unchained — 异格 / alternate — `1023_ghost2`
-- [ ] 忍冬 / Vulpisfoglia — `4026_vulpis`
+- [x] 忍冬 / Vulpisfoglia — `4026_vulpis` — [package](pets/vulpisfoglia)
 - [ ] 怒潮凛冬 / Zima the Raging Tide — 异格 / alternate — `1051_headb2`
 - [x] 推进之王 / Siege — `112_siege` — [package](pets/siege)
 - [x] 提丰 / Typhon — `2012_typhon` — [package](pets/typhon)
