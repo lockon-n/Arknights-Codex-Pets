@@ -11,9 +11,9 @@ The collection will expand gradually in CN release order, with outfits maintaine
 
 | 类别 / Category | 已完成 / Done | 总数 / Total | 进度 / Progress |
 |---|---:|---:|---:|
-| 默认干员 / Default operators | 363 | 420 | 86.4% |
+| 默认干员 / Default operators | 373 | 420 | 88.8% |
 | 皮肤 / Outfits | 2 | 506 | 0.4% |
-| **合计 / Total** | **365** | **926** | **39.4%** |
+| **合计 / Total** | **375** | **926** | **40.5%** |
 
 上游目录快照 / Upstream catalog snapshot: `2026-07-13`, Ark-Models commit `3619a9a7268ec049dbbb30d1cff0ffa6d3fdf5ed` (`zh_CN`).
 
@@ -156,7 +156,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 和弦 / Harmonie — `297_hamoni` — [package](pets/harmonie)
 - [x] 哈洛德 / Harold — `4114_harold` — [package](pets/harold)
 - [x] 哈蒂娅 / Hadiya — `394_hadiya` — [package](pets/hadiya)
-- [ ] 响石 / Cairn — `4214_cairn`
+- [x] 响石 / Cairn — `4214_cairn` — [package](pets/cairn)
 - [x] 四月 / April — `365_aprl` — [package](pets/april)
 - [x] 因陀罗 / Indra — `155_tiger` — [package](pets/indra)
 - [x] 图耶 / Tuye — `402_tuye` — [package](pets/tuye)
@@ -166,7 +166,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 夜半 / Blacknight — `476_blkngt` — [package](pets/blacknight)
 - [x] 夜魔 / Nightmare — `164_nightm` — [package](pets/nightmare)
 - [x] 天火 / Skyfire — `166_skfire` — [package](pets/skyfire)
-- [ ] 天空盒 / Skybox — `4213_skybx`
+- [x] 天空盒 / Skybox — `4213_skybx` — [package](pets/skybox)
 - [x] 奥斯塔 / Aosta — `346_aosta` — [package](pets/aosta)
 - [x] 奥达 / Odda — `4131_odda` — [package](pets/odda)
 - [x] 子月 / Lunacub — `4014_lunacu` — [package](pets/lunacub)
@@ -195,9 +195,9 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 拉普兰德 / Lappland — `140_whitew` — [package](pets/lappland)
 - [x] 拜松 / Bison — `325_bison` — [package](pets/bison)
 - [x] 掠风 / Windflit — `433_windft` — [package](pets/windflit)
-- [ ] 摆渡人 / Varkáris — `4166_varkis`
+- [x] 摆渡人 / Varkáris — `4166_varkis` — [package](pets/varkaris)
 - [x] 摩根 / Morgan — `154_morgan` — [package](pets/morgan)
-- [ ] 撷英调香师 / Perfumer the Distilled — 异格 / alternate — `1022_flwr2`
+- [x] 撷英调香师 / Perfumer the Distilled — 异格 / alternate — `1022_flwr2` — [package](pets/perfumer-the-distilled)
 - [x] 断崖 / Ayerscarpe — `294_ayer` — [package](pets/ayerscarpe)
 - [x] 明椒 / Paprika — `4071_peper` — [package](pets/paprika)
 - [x] 星极 / Astesia — `274_astesi` — [package](pets/astesia)
@@ -250,7 +250,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 白金 / Platinum — `204_platnm` — [package](pets/platinum)
 - [x] 白面鸮 / Ptilopsis — `128_plosis` — [package](pets/ptilopsis)
 - [x] 真理 / Истина — `195_glassb` — [package](pets/istina)
-- [ ] 矩 / Ju — `4221_ju`
+- [x] 矩 / Ju — `4221_ju` — [package](pets/ju)
 - [x] 石棉 / Asbestos — `378_asbest` — [package](pets/asbestos)
 - [x] 祐天寺若麦 / Yūtenji Nyamu — `4185_amoris` — [package](pets/yutenji-nyamu)
 - [x] 稀音 / Scene — `336_folivo` — [package](pets/scene)
@@ -337,7 +337,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 信仰搅拌机 / Sankta Miksaparato — `4194_rmixer` — [package](pets/sankta-miksaparato)
 - [ ] 假日威龙陈 / Ch'en the Holungday — 异格 / alternate — `1013_chen2`
 - [x] 傀影 / Phantom — `250_phatom` — [package](pets/phantom)
-- [ ] 凛御银灰 / SilverAsh the Reignfrost — 异格 / alternate — `1045_svash2`
+- [x] 凛御银灰 / SilverAsh the Reignfrost — 异格 / alternate — `1045_svash2` — [package](pets/silverash-the-reignfrost)
 - [x] 凯尔希 / Kal'tsit — `003_kalts` — [package](pets/kal-tsit)
 - [ ] 凯尔希·思衡托 / Kal'tsit·Esperanta — 异格 / alternate — `1052_kalts2`
 - [x] 刻俄柏 / Ceobe — `2013_cerber` — [package](pets/ceobe)
@@ -347,7 +347,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 号角 / Horn — `4039_horn` — [package](pets/horn)
 - [ ] 司霆惊蛰 / Leizi the Thunderbringer — 异格 / alternate — `1043_leizi2`
 - [ ] 圣约送葬人 / Executor the Ex Foedere — 异格 / alternate — `1032_excu2`
-- [ ] 圣聆初雪 / Pramanix the Prerita — 异格 / alternate — `1046_sbell2`
+- [x] 圣聆初雪 / Pramanix the Prerita — 异格 / alternate — `1046_sbell2` — [package](pets/pramanix-the-prerita)
 - [x] 塑心 / Virtuosa — `245_cello` — [package](pets/virtuosa)
 - [x] 塞雷娅 / Saria — `202_demkni` — [package](pets/saria)
 - [x] 夕 / Dusk — `2015_dusk` — [package](pets/dusk)
@@ -355,7 +355,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 夜莺 / Nightingale — `179_cgbird` — [package](pets/nightingale)
 - [x] 妮芙 / Nymph — `4146_nymph` — [package](pets/nymph)
 - [x] 娜仁图亚 / Narantuya — `4138_narant` — [package](pets/narantuya)
-- [ ] 娜斯提 / Nasti — `4212_nasti`
+- [x] 娜斯提 / Nasti — `4212_nasti` — [package](pets/nasti)
 - [x] 安洁莉娜 / Angelina — `291_aglina` — [package](pets/angelina)
 - [x] 山 / Mountain — `264_f12yin` — [package](pets/mountain)
 - [x] 嵯峨 / Saga — `362_saga` — [package](pets/saga)
@@ -390,7 +390,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 涤火杰西卡 / Jessica the Liberated — 异格 / alternate — `1034_jesca2`
 - [ ] 淬羽赫默 / Silence the Paradigmatic — 异格 / alternate — `1031_slent2`
 - [x] 温蒂 / Weedy — `400_weedy` — [package](pets/weedy)
-- [ ] 溯光星源 / Astgenne the Lightchaser — 异格 / alternate — `1047_halo2`
+- [x] 溯光星源 / Astgenne the Lightchaser — 异格 / alternate — `1047_halo2` — [package](pets/astgenne-the-lightchaser)
 - [x] 澄闪 / Goldenglow — `377_gdglow` — [package](pets/goldenglow)
 - [x] 灰烬 / Ash — `456_ash` — [package](pets/ash)
 - [x] 灵知 / Gnosis — `206_gnosis` — [package](pets/gnosis)
@@ -414,7 +414,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 维伊 / Вий — `4226_veen`
 - [ ] 维娜·维多利亚 / Vina Victoria — 异格 / alternate — `1019_siege2`
 - [ ] 缄默德克萨斯 / Texas the Omertosa — 异格 / alternate — `1028_texas2`
-- [ ] 缇缇 / Titi — `4056_titi`
+- [x] 缇缇 / Titi — `4056_titi` — [package](pets/titi)
 - [x] 缪尔赛思 / Muelsyse — `249_mlyss` — [package](pets/muelsyse)
 - [ ] 耀骑士临光 / Nearl the Radiant Knight — 异格 / alternate — `1014_nearl2`
 - [x] 老鲤 / Lee — `322_lmlee` — [package](pets/lee)
