@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "model_key": "1022_flwr2",
+  "votes": {
+    "horizontal_A": {
+      "screen-right": 1,
+      "ambiguous": 2
+    },
+    "horizontal_B": {
+      "screen-left": 1,
+      "ambiguous": 2
+    },
+    "vertical_A": {
+      "up": 2,
+      "ambiguous": 1
+    },
+    "vertical_B": {
+      "down": 2,
+      "ambiguous": 1
+    }
+  },
+  "horizontal_A": "screen-right",
+  "horizontal_B": "screen-left",
+  "vertical_A": "up",
+  "vertical_B": "down",
+  "semantic_recheck": {
+    "source_observed": {
+      "horizontal_A": "screen-left",
+      "horizontal_B": "screen-right",
+      "vertical_A": "down",
+      "vertical_B": "up"
+    },
+    "source_expected": {
+      "horizontal_A": "screen-left",
+      "horizontal_B": "screen-right",
+      "vertical_A": "down",
+      "vertical_B": "up"
+    },
+    "translated_to_base": {
+      "horizontal_A": "screen-right",
+      "horizontal_B": "screen-left",
+      "vertical_A": "up",
+      "vertical_B": "down"
+    },
+    "votes": {
+      "horizontal_A": {
+        "screen-left": 2,
+        "screen-right": 1
+      },
+      "horizontal_B": {
+        "screen-right": 2,
+        "screen-left": 1
+      },
+      "vertical_A": {
+        "up": 1,
+        "down": 2
+      },
+      "vertical_B": {
+        "down": 1,
+        "up": 2
+      }
+    }
+  }
+}
