@@ -11,9 +11,9 @@ The collection will expand gradually in CN release order, with outfits maintaine
 
 | 类别 / Category | 已完成 / Done | 总数 / Total | 进度 / Progress |
 |---|---:|---:|---:|
-| 默认干员 / Default operators | 383 | 420 | 91.2% |
+| 默认干员 / Default operators | 393 | 420 | 93.6% |
 | 皮肤 / Outfits | 2 | 506 | 0.4% |
-| **合计 / Total** | **385** | **926** | **41.6%** |
+| **合计 / Total** | **395** | **926** | **42.7%** |
 
 上游目录快照 / Upstream catalog snapshot: `2026-07-13`, Ark-Models commit `3619a9a7268ec049dbbb30d1cff0ffa6d3fdf5ed` (`zh_CN`).
 
@@ -31,7 +31,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] U-Official — `4091_ulika` — [package](pets/u-official)
 - [x] 正义骑士号 / "Justice Knight" — `4000_jnight` — [package](pets/justice-knight)
 - [x] 泰拉大陆调查团 / Terra Research Commission — `4077_palico` — [package](pets/terra-research-commission)
-- [ ] 罗德岛隐秘队 / Rhodes Island Recon — `4215_buddy`
+- [x] 罗德岛隐秘队 / Rhodes Island Recon — `4215_buddy` — [package](pets/rhodes-island-recon)
 
 ### 2★
 
@@ -137,7 +137,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 亚叶 / Folinic — `345_folnic` — [package](pets/folinic)
 - [x] 伯塔尼 / Ботани — `4223_botany` — [package](pets/botani)
 - [x] 但书 / Proviso — `4032_provs` — [package](pets/proviso)
-- [ ] 佩德洛 / Pedro — `4234_pedro`
+- [x] 佩德洛 / Pedro — `4234_pedro` — [package](pets/pedro)
 - [x] 八幡海铃 / Yahata Umiri — `4186_tmoris` — [package](pets/yahata-umiri)
 - [x] 冰酿 / Coldshot — `4104_coldst` — [package](pets/coldshot)
 - [x] 凛冬 / Зима — `115_headbr` — [package](pets/zima)
@@ -237,7 +237,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 灰喉 / GreyThroat — `367_swllow` — [package](pets/grey-throat)
 - [x] 灰毫 / Ashlock — `431_ashlok` — [package](pets/ashlock)
 - [x] 炎客 / Flamebringer — `131_flameb` — [package](pets/flamebringer)
-- [ ] 炎狱炎熔 / Lava the Purgatory — 异格 / alternate — `1011_lava2`
+- [x] 炎狱炎熔 / Lava the Purgatory — 异格 / alternate — `1011_lava2` — [package](pets/lava-the-purgatory)
 - [x] 烈夏 / Лето — `194_leto` — [package](pets/leto)
 - [x] 熔泉 / Toddifons — `363_toddi` — [package](pets/toddifons)
 - [x] 燧石 / Flint — `415_flint` — [package](pets/flint)
@@ -310,7 +310,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 雪猎 / Snow Hunter — `4211_snhunt` — [package](pets/snow-hunter)
 - [x] 雪绒 / Qanipalaat — `466_qanik` — [package](pets/qanipalaat)
 - [x] 雪雉 / Snowsant — `383_snsant` — [package](pets/snowsant)
-- [ ] 雷狼龙S空爆 / Zinogre S Catapult — 异格 / alternate — `1049_catap2`
+- [x] 雷狼龙S空爆 / Zinogre S Catapult — 异格 / alternate — `1049_catap2` — [package](pets/zinogre-s-catapult)
 - [x] 雷蛇 / Liskarm — `107_liskam` — [package](pets/liskarm)
 - [x] 霜华 / Frost — `458_rfrost` — [package](pets/frost)
 - [x] 青枳 / Poncirus — `488_buildr` — [package](pets/poncirus)
@@ -339,10 +339,10 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 傀影 / Phantom — `250_phatom` — [package](pets/phantom)
 - [x] 凛御银灰 / SilverAsh the Reignfrost — 异格 / alternate — `1045_svash2` — [package](pets/silverash-the-reignfrost)
 - [x] 凯尔希 / Kal'tsit — `003_kalts` — [package](pets/kal-tsit)
-- [ ] 凯尔希·思衡托 / Kal'tsit·Esperanta — 异格 / alternate — `1052_kalts2`
+- [x] 凯尔希·思衡托 / Kal'tsit·Esperanta — 异格 / alternate — `1052_kalts2` — [package](pets/kal-tsit-esperanta)
 - [x] 刻俄柏 / Ceobe — `2013_cerber` — [package](pets/ceobe)
 - [x] 卡涅利安 / Carnelian — `426_billro` — [package](pets/carnelian)
-- [ ] 可露希尔 / Closure — `4228_closur`
+- [x] 可露希尔 / Closure — `4228_closur` — [package](pets/closure)
 - [x] 史尔特尔 / Surtr — `350_surtr` — [package](pets/surtr)
 - [x] 号角 / Horn — `4039_horn` — [package](pets/horn)
 - [ ] 司霆惊蛰 / Leizi the Thunderbringer — 异格 / alternate — `1043_leizi2`
@@ -386,7 +386,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 水月 / Mizuki — `437_mizuki` — [package](pets/mizuki)
 - [x] 泥岩 / Mudrock — `311_mudrok` — [package](pets/mudrock)
 - [x] 流明 / Lumen — `4042_lumen` — [package](pets/lumen)
-- [ ] 浊心斯卡蒂 / Skadi the Corrupting Heart — 异格 / alternate — `1012_skadi2`
+- [x] 浊心斯卡蒂 / Skadi the Corrupting Heart — 异格 / alternate — `1012_skadi2` — [package](pets/skadi-the-corrupting-heart)
 - [ ] 涤火杰西卡 / Jessica the Liberated — 异格 / alternate — `1034_jesca2`
 - [ ] 淬羽赫默 / Silence the Paradigmatic — 异格 / alternate — `1031_slent2`
 - [x] 温蒂 / Weedy — `400_weedy` — [package](pets/weedy)
@@ -397,7 +397,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [ ] 烛煌 / Blaze the Igniting Spark — 异格 / alternate — `1040_blaze2`
 - [x] 焰尾 / Flametail — `420_flamtl` — [package](pets/flametail)
 - [ ] 焰影苇草 / Reed The Flame Shadow — 异格 / alternate — `1020_reed2`
-- [ ] 焰狐龙梓兰 / Violet Mizutsune Orchid — 异格 / alternate — `1048_orchd2`
+- [x] 焰狐龙梓兰 / Violet Mizutsune Orchid — 异格 / alternate — `1048_orchd2` — [package](pets/violet-mizutsune-orchid)
 - [x] 煌 / Blaze — `017_huang` — [package](pets/blaze)
 - [x] 玛恩纳 / Młynar — `4064_mlynar` — [package](pets/mlynar)
 - [x] 玛露西尔 / Marcille — `4141_marcil` — [package](pets/marcille)
@@ -411,7 +411,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 空弦 / Archetto — `332_archet` — [package](pets/archetto)
 - [ ] 纯烬艾雅法拉 / Eyjafjalla the Hvít Aska — 异格 / alternate — `1016_agoat2`
 - [ ] 维什戴尔 / Wiš'adel — 异格 / alternate — `1035_wisdel`
-- [ ] 维伊 / Вий — `4226_veen`
+- [x] 维伊 / Вий — `4226_veen` — [package](pets/viy)
 - [ ] 维娜·维多利亚 / Vina Victoria — 异格 / alternate — `1019_siege2`
 - [ ] 缄默德克萨斯 / Texas the Omertosa — 异格 / alternate — `1028_texas2`
 - [x] 缇缇 / Titi — `4056_titi` — [package](pets/titi)
@@ -428,7 +428,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 菲亚梅塔 / Fiammetta — `300_phenxi` — [package](pets/fiammetta)
 - [x] 蕾缪安 / Lemuen — `4193_lemuen` — [package](pets/lemuen)
 - [x] 薇薇安娜 / Viviana — `4098_vvana` — [package](pets/viviana)
-- [ ] 谬因 / Aphrissa — `4229_aphris`
+- [x] 谬因 / Aphrissa — `4229_aphris` — [package](pets/aphrissa)
 - [x] 贝洛内 / Bellone — `4037_demetr` — [package](pets/bellone)
 - [x] 赤刃明霄陈 / Ch'en the Dawnstreak — 异格 / alternate — `1050_chen3` — [package](pets/ch-en-the-dawnstreak)
 - [x] 赫德雷 / Hoederer — `4088_hodrer` — [package](pets/hoederer)
