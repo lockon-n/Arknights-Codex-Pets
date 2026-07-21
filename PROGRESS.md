@@ -11,9 +11,9 @@ The collection will expand gradually in CN release order, with outfits maintaine
 
 | 类别 / Category | 已完成 / Done | 总数 / Total | 进度 / Progress |
 |---|---:|---:|---:|
-| 默认干员 / Default operators | 393 | 420 | 93.6% |
+| 默认干员 / Default operators | 403 | 420 | 96.0% |
 | 皮肤 / Outfits | 2 | 506 | 0.4% |
-| **合计 / Total** | **395** | **926** | **42.7%** |
+| **合计 / Total** | **405** | **926** | **43.7%** |
 
 上游目录快照 / Upstream catalog snapshot: `2026-07-13`, Ark-Models commit `3619a9a7268ec049dbbb30d1cff0ffa6d3fdf5ed` (`zh_CN`).
 
@@ -173,7 +173,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 守林人 / Firewatch — `158_milu` — [package](pets/firewatch)
 - [x] 安哲拉 / Andreana — `218_cuttle` — [package](pets/andreana)
 - [x] 寒檀 / Santalla — `341_sntlla` — [package](pets/santalla)
-- [ ] 寒芒克洛丝 / Kroos the Keen Glint — 异格 / alternate — `1021_kroos2`
+- [x] 寒芒克洛丝 / Kroos the Keen Glint — 异格 / alternate — `1021_kroos2` — [package](pets/kroos-the-keen-glint)
 - [x] 寻澜 / Surfer — `4052_surfer` — [package](pets/surfer)
 - [x] 导火索 / Fuze — `4126_fuze` — [package](pets/fuze)
 - [x] 小满 / Grain Buds — `4122_grabds` — [package](pets/grain-buds)
@@ -189,7 +189,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 战车 / Tachanka — `459_tachak` — [package](pets/tachanka)
 - [x] 截云 / Jieyun — `4078_bdhkgt` — [package](pets/jieyun)
 - [x] 戴菲恩 / Delphine — `4110_delphn` — [package](pets/delphine)
-- [ ] 承曦格雷伊 / Greyy the Lightningbearer — 异格 / alternate — `1027_greyy2`
+- [x] 承曦格雷伊 / Greyy the Lightningbearer — 异格 / alternate — `1027_greyy2` — [package](pets/greyy-the-lightningbearer)
 - [x] 折光 / Diamante — `499_kaitou` — [package](pets/diamante)
 - [x] 折桠 / Веточки — `4207_branch` — [package](pets/vetochki)
 - [x] 拉普兰德 / Lappland — `140_whitew` — [package](pets/lappland)
@@ -230,10 +230,10 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 深律 / Bassline — `4109_baslin` — [package](pets/bassline)
 - [x] 渡桥 / Mitm — `4147_mitm` — [package](pets/mitm)
 - [x] 温米 / Warmy — `4081_warmy` — [package](pets/warmy)
-- [ ] 濯尘芙蓉 / Hibiscus the Purifier — 异格 / alternate — `1024_hbisc2`
+- [x] 濯尘芙蓉 / Hibiscus the Purifier — 异格 / alternate — `1024_hbisc2` — [package](pets/hibiscus-the-purifier)
 - [x] 火哨 / Firewhistle — `493_firwhl` — [package](pets/firewhistle)
 - [x] 火神 / Vulcan — `163_hpsts` — [package](pets/vulcan)
-- [ ] 火龙S黑角 / Rathalos S Noir Corne — 异格 / alternate — `1030_noirc2`
+- [x] 火龙S黑角 / Rathalos S Noir Corne — 异格 / alternate — `1030_noirc2` — [package](pets/rathalos-s-noir-corne)
 - [x] 灰喉 / GreyThroat — `367_swllow` — [package](pets/grey-throat)
 - [x] 灰毫 / Ashlock — `431_ashlok` — [package](pets/ashlock)
 - [x] 炎客 / Flamebringer — `131_flameb` — [package](pets/flamebringer)
@@ -335,7 +335,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 余 / Yu — `2026_yu` — [package](pets/yu)
 - [x] 佩佩 / Pepe — `4058_pepe` — [package](pets/pepe)
 - [x] 信仰搅拌机 / Sankta Miksaparato — `4194_rmixer` — [package](pets/sankta-miksaparato)
-- [ ] 假日威龙陈 / Ch'en the Holungday — 异格 / alternate — `1013_chen2`
+- [x] 假日威龙陈 / Ch'en the Holungday — 异格 / alternate — `1013_chen2` — [package](pets/ch-en-the-holungday)
 - [x] 傀影 / Phantom — `250_phatom` — [package](pets/phantom)
 - [x] 凛御银灰 / SilverAsh the Reignfrost — 异格 / alternate — `1045_svash2` — [package](pets/silverash-the-reignfrost)
 - [x] 凯尔希 / Kal'tsit — `003_kalts` — [package](pets/kal-tsit)
@@ -365,7 +365,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 异客 / Passenger — `472_pasngr` — [package](pets/passenger)
 - [x] 弑君者 / Crownslayer — `1502_crosly` — [package](pets/crownslayer)
 - [ ] 引星棘刺 / Thorns the Lodestar — 异格 / alternate — `1039_thorn2`
-- [ ] 归溟幽灵鲨 / Specter the Unchained — 异格 / alternate — `1023_ghost2`
+- [x] 归溟幽灵鲨 / Specter the Unchained — 异格 / alternate — `1023_ghost2` — [package](pets/specter-the-unchained)
 - [x] 忍冬 / Vulpisfoglia — `4026_vulpis` — [package](pets/vulpisfoglia)
 - [x] 怒潮凛冬 / Zima the Raging Tide — 异格 / alternate — `1051_headb2` — [package](pets/zima-the-raging-tide)
 - [x] 推进之王 / Siege — `112_siege` — [package](pets/siege)
@@ -396,7 +396,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 灵知 / Gnosis — `206_gnosis` — [package](pets/gnosis)
 - [ ] 烛煌 / Blaze the Igniting Spark — 异格 / alternate — `1040_blaze2`
 - [x] 焰尾 / Flametail — `420_flamtl` — [package](pets/flametail)
-- [ ] 焰影苇草 / Reed The Flame Shadow — 异格 / alternate — `1020_reed2`
+- [x] 焰影苇草 / Reed The Flame Shadow — 异格 / alternate — `1020_reed2` — [package](pets/reed-the-flame-shadow)
 - [x] 焰狐龙梓兰 / Violet Mizutsune Orchid — 异格 / alternate — `1048_orchd2` — [package](pets/violet-mizutsune-orchid)
 - [x] 煌 / Blaze — `017_huang` — [package](pets/blaze)
 - [x] 玛恩纳 / Młynar — `4064_mlynar` — [package](pets/mlynar)
@@ -406,17 +406,17 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 瑕光 / Blemishine — `423_blemsh` — [package](pets/blemishine)
 - [x] 电弧 / Raidian — `4195_radian` — [package](pets/raidian)
 - [x] 白铁 / Stainless — `4072_ironmn` — [package](pets/stainless)
-- [ ] 百炼嘉维尔 / Gavial the Invincible — 异格 / alternate — `1026_gvial2`
+- [x] 百炼嘉维尔 / Gavial the Invincible — 异格 / alternate — `1026_gvial2` — [package](pets/gavial-the-invincible)
 - [x] 真言 / Mantra — `4204_mantra` — [package](pets/mantra)
 - [x] 空弦 / Archetto — `332_archet` — [package](pets/archetto)
 - [ ] 纯烬艾雅法拉 / Eyjafjalla the Hvít Aska — 异格 / alternate — `1016_agoat2`
 - [ ] 维什戴尔 / Wiš'adel — 异格 / alternate — `1035_wisdel`
 - [x] 维伊 / Вий — `4226_veen` — [package](pets/viy)
 - [ ] 维娜·维多利亚 / Vina Victoria — 异格 / alternate — `1019_siege2`
-- [ ] 缄默德克萨斯 / Texas the Omertosa — 异格 / alternate — `1028_texas2`
+- [x] 缄默德克萨斯 / Texas the Omertosa — 异格 / alternate — `1028_texas2` — [package](pets/texas-the-omertosa)
 - [x] 缇缇 / Titi — `4056_titi` — [package](pets/titi)
 - [x] 缪尔赛思 / Muelsyse — `249_mlyss` — [package](pets/muelsyse)
-- [ ] 耀骑士临光 / Nearl the Radiant Knight — 异格 / alternate — `1014_nearl2`
+- [x] 耀骑士临光 / Nearl the Radiant Knight — 异格 / alternate — `1014_nearl2` — [package](pets/nearl-the-radiant-knight)
 - [x] 老鲤 / Lee — `322_lmlee` — [package](pets/lee)
 - [x] 能天使 / Exusiai — `103_angel` — [package](pets/exusiai)
 - [x] 艾丽妮 / Irene — `4009_irene` — [package](pets/irene)
