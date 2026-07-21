@@ -11,9 +11,9 @@ The collection will expand gradually in CN release order, with outfits maintaine
 
 | 类别 / Category | 已完成 / Done | 总数 / Total | 进度 / Progress |
 |---|---:|---:|---:|
-| 默认干员 / Default operators | 413 | 420 | 98.3% |
-| 皮肤 / Outfits | 2 | 506 | 0.4% |
-| **合计 / Total** | **415** | **926** | **44.8%** |
+| 默认干员 / Default operators | 420 | 420 | 100.0% |
+| 皮肤 / Outfits | 5 | 506 | 1.0% |
+| **合计 / Total** | **425** | **926** | **45.9%** |
 
 上游目录快照 / Upstream catalog snapshot: `2026-07-13`, Ark-Models commit `3619a9a7268ec049dbbb30d1cff0ffa6d3fdf5ed` (`zh_CN`).
 
@@ -345,7 +345,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 可露希尔 / Closure — `4228_closur` — [package](pets/closure)
 - [x] 史尔特尔 / Surtr — `350_surtr` — [package](pets/surtr)
 - [x] 号角 / Horn — `4039_horn` — [package](pets/horn)
-- [ ] 司霆惊蛰 / Leizi the Thunderbringer — 异格 / alternate — `1043_leizi2`
+- [x] 司霆惊蛰 / Leizi the Thunderbringer — 异格 / alternate — `1043_leizi2` — [package](pets/leizi-the-thunderbringer)
 - [x] 圣约送葬人 / Executor the Ex Foedere — 异格 / alternate — `1032_excu2` — [package](pets/executor-the-ex-foedere)
 - [x] 圣聆初雪 / Pramanix the Prerita — 异格 / alternate — `1046_sbell2` — [package](pets/pramanix-the-prerita)
 - [x] 塑心 / Virtuosa — `245_cello` — [package](pets/virtuosa)
@@ -364,16 +364,16 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 年 / Nian — `2014_nian` — [package](pets/nian)
 - [x] 异客 / Passenger — `472_pasngr` — [package](pets/passenger)
 - [x] 弑君者 / Crownslayer — `1502_crosly` — [package](pets/crownslayer)
-- [ ] 引星棘刺 / Thorns the Lodestar — 异格 / alternate — `1039_thorn2`
+- [x] 引星棘刺 / Thorns the Lodestar — 异格 / alternate — `1039_thorn2` — [package](pets/thorns-the-lodestar)
 - [x] 归溟幽灵鲨 / Specter the Unchained — 异格 / alternate — `1023_ghost2` — [package](pets/specter-the-unchained)
 - [x] 忍冬 / Vulpisfoglia — `4026_vulpis` — [package](pets/vulpisfoglia)
 - [x] 怒潮凛冬 / Zima the Raging Tide — 异格 / alternate — `1051_headb2` — [package](pets/zima-the-raging-tide)
 - [x] 推进之王 / Siege — `112_siege` — [package](pets/siege)
 - [x] 提丰 / Typhon — `2012_typhon` — [package](pets/typhon)
 - [x] 斥罪 / Penance — `4065_judge` — [package](pets/penance)
-- [ ] 斩业星熊 / Hoshiguma the Breacher — 异格 / alternate — `1044_hsgma2`
+- [x] 斩业星熊 / Hoshiguma the Breacher — 异格 / alternate — `1044_hsgma2` — [package](pets/hoshiguma-the-breacher)
 - [x] 斯卡蒂 / Skadi — `263_skadi` — [package](pets/skadi)
-- [ ] 新约能天使 / Exusiai the New Covenant — 异格 / alternate — `1041_angel2`
+- [x] 新约能天使 / Exusiai the New Covenant — 异格 / alternate — `1041_angel2` — [package](pets/exusiai-the-new-covenant)
 - [x] 早露 / Роса — `197_poca` — [package](pets/rosa)
 - [x] 星熊 / Hoshiguma — `136_hsguma` — [package](pets/hoshiguma)
 - [x] 望 / Wang — `2027_wang` — [package](pets/wang)
@@ -382,7 +382,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 森蚺 / Eunectes — `416_zumama` — [package](pets/eunectes)
 - [x] 歌蕾蒂娅 / Gladiia — `474_glady` — [package](pets/gladiia)
 - [x] 止颂 / Lessing — `4011_lessng` — [package](pets/lessing)
-- [ ] 死芒 / Necrass — `450_necras`
+- [x] 死芒 / Necrass — `450_necras` — [package](pets/necrass)
 - [x] 水月 / Mizuki — `437_mizuki` — [package](pets/mizuki)
 - [x] 泥岩 / Mudrock — `311_mudrok` — [package](pets/mudrock)
 - [x] 流明 / Lumen — `4042_lumen` — [package](pets/lumen)
@@ -394,7 +394,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 澄闪 / Goldenglow — `377_gdglow` — [package](pets/goldenglow)
 - [x] 灰烬 / Ash — `456_ash` — [package](pets/ash)
 - [x] 灵知 / Gnosis — `206_gnosis` — [package](pets/gnosis)
-- [ ] 烛煌 / Blaze the Igniting Spark — 异格 / alternate — `1040_blaze2`
+- [x] 烛煌 / Blaze the Igniting Spark — 异格 / alternate — `1040_blaze2` — [package](pets/blaze-the-igniting-spark)
 - [x] 焰尾 / Flametail — `420_flamtl` — [package](pets/flametail)
 - [x] 焰影苇草 / Reed The Flame Shadow — 异格 / alternate — `1020_reed2` — [package](pets/reed-the-flame-shadow)
 - [x] 焰狐龙梓兰 / Violet Mizutsune Orchid — 异格 / alternate — `1048_orchd2` — [package](pets/violet-mizutsune-orchid)
@@ -437,7 +437,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 迷迭香 / Rosmontis — `391_rosmon` — [package](pets/rosmontis)
 - [x] 逻各斯 / Logos — `4133_logos` — [package](pets/logos)
 - [x] 遥 / Haruka — `4202_haruka` — [package](pets/haruka)
-- [ ] 酒神 / Tragodia — 异格 / alternate — `1042_phatm2`
+- [x] 酒神 / Tragodia — 异格 / alternate — `1042_phatm2` — [package](pets/tragodia)
 - [x] 重岳 / Chongyue — `2024_chyue` — [package](pets/chongyue)
 - [x] 铃兰 / Suzuran — `358_lisa` — [package](pets/suzuran)
 - [x] 银灰 / SilverAsh — `172_svrash` — [package](pets/silverash)
@@ -494,8 +494,8 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 空爆 / Catapult — 珊瑚海岸/XVII — `282_catap_summer#17`
 - [ ] 米格鲁 / Beagle — 斗争血脉/I — `122_beagle_boc#1`
 - [ ] 翎羽 / Plume — 玛尔特/VI — `192_falco_marthe#6`
-- [ ] 芙蓉 / Hibiscus — 0011制造/I — `120_hibisc_nian#1`
-- [ ] 芬 / Fang — 寒武纪/I — `123_fang_winter#1`
+- [x] 芙蓉 / Hibiscus — 0011制造/I — `120_hibisc_nian#1` — [package](pets/hibiscus-nian-1)
+- [x] 芬 / Fang — 寒武纪/I — `123_fang_winter#1` — [package](pets/fang-winter-1)
 - [ ] 香草 / Vanilla — 成就之星/IV — `240_wyvern_game#4`
 
 ### 4★
@@ -764,7 +764,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 锡人 / Tin Man — 忒斯特收藏/XII — `4151_tinman_sale#11`
 - [ ] 锡兰 / Ceylon — 珊瑚海岸/XIII — `348_ceylon_summer#13`
 - [ ] 阿米娅 / Amiya — CASC — `1001_amiya2_casc#1`
-- [ ] 阿米娅 / Amiya — 忒斯特收藏/I — `002_amiya_winter#1`
+- [x] 阿米娅 / Amiya — 忒斯特收藏/I — `002_amiya_winter#1` — [package](pets/amiya-winter-1)
 - [ ] 阿米娅 / Amiya — 忒斯特收藏/II — `002_amiya_epoque#4`
 - [ ] 阿米娅 / Amiya — 忒斯特收藏/IV — `002_amiya_test#1`
 - [ ] 阿米娅 / Amiya — 忒斯特收藏/XIV — `1037_amiya3_sale#13`
