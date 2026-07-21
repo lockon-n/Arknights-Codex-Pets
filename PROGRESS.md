@@ -11,9 +11,9 @@ The collection will expand gradually in CN release order, with outfits maintaine
 
 | 类别 / Category | 已完成 / Done | 总数 / Total | 进度 / Progress |
 |---|---:|---:|---:|
-| 默认干员 / Default operators | 403 | 420 | 96.0% |
+| 默认干员 / Default operators | 413 | 420 | 98.3% |
 | 皮肤 / Outfits | 2 | 506 | 0.4% |
-| **合计 / Total** | **405** | **926** | **43.7%** |
+| **合计 / Total** | **415** | **926** | **44.8%** |
 
 上游目录快照 / Upstream catalog snapshot: `2026-07-13`, Ark-Models commit `3619a9a7268ec049dbbb30d1cff0ffa6d3fdf5ed` (`zh_CN`).
 
@@ -148,7 +148,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 医生 / Doc — `4125_rdoc` — [package](pets/doc)
 - [x] 华法琳 / Warfarin — `171_bldsk` — [package](pets/warfarin)
 - [x] 卡夫卡 / Kafka — `214_kafka` — [package](pets/kafka)
-- [ ] 历阵锐枪芬 / Fang the Fire-sharpened — 异格 / alternate — `1036_fang2`
+- [x] 历阵锐枪芬 / Fang the Fire-sharpened — 异格 / alternate — `1036_fang2` — [package](pets/fang-the-fire-sharpened)
 - [x] 双月 / Iana — `4124_iana` — [package](pets/iana)
 - [x] 可颂 / Croissant — `201_moeshd` — [package](pets/croissant)
 - [x] 吉星 / Kichisei — `4203_kichi` — [package](pets/kichisei)
@@ -346,7 +346,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 史尔特尔 / Surtr — `350_surtr` — [package](pets/surtr)
 - [x] 号角 / Horn — `4039_horn` — [package](pets/horn)
 - [ ] 司霆惊蛰 / Leizi the Thunderbringer — 异格 / alternate — `1043_leizi2`
-- [ ] 圣约送葬人 / Executor the Ex Foedere — 异格 / alternate — `1032_excu2`
+- [x] 圣约送葬人 / Executor the Ex Foedere — 异格 / alternate — `1032_excu2` — [package](pets/executor-the-ex-foedere)
 - [x] 圣聆初雪 / Pramanix the Prerita — 异格 / alternate — `1046_sbell2` — [package](pets/pramanix-the-prerita)
 - [x] 塑心 / Virtuosa — `245_cello` — [package](pets/virtuosa)
 - [x] 塞雷娅 / Saria — `202_demkni` — [package](pets/saria)
@@ -387,8 +387,8 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 泥岩 / Mudrock — `311_mudrok` — [package](pets/mudrock)
 - [x] 流明 / Lumen — `4042_lumen` — [package](pets/lumen)
 - [x] 浊心斯卡蒂 / Skadi the Corrupting Heart — 异格 / alternate — `1012_skadi2` — [package](pets/skadi-the-corrupting-heart)
-- [ ] 涤火杰西卡 / Jessica the Liberated — 异格 / alternate — `1034_jesca2`
-- [ ] 淬羽赫默 / Silence the Paradigmatic — 异格 / alternate — `1031_slent2`
+- [x] 涤火杰西卡 / Jessica the Liberated — 异格 / alternate — `1034_jesca2` — [package](pets/jessica-the-liberated)
+- [x] 淬羽赫默 / Silence the Paradigmatic — 异格 / alternate — `1031_slent2` — [package](pets/silence-the-paradigmatic)
 - [x] 温蒂 / Weedy — `400_weedy` — [package](pets/weedy)
 - [x] 溯光星源 / Astgenne the Lightchaser — 异格 / alternate — `1047_halo2` — [package](pets/astgenne-the-lightchaser)
 - [x] 澄闪 / Goldenglow — `377_gdglow` — [package](pets/goldenglow)
@@ -401,7 +401,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 煌 / Blaze — `017_huang` — [package](pets/blaze)
 - [x] 玛恩纳 / Młynar — `4064_mlynar` — [package](pets/mlynar)
 - [x] 玛露西尔 / Marcille — `4141_marcil` — [package](pets/marcille)
-- [ ] 琳琅诗怀雅 / Swire the Elegant Wit — 异格 / alternate — `1033_swire2`
+- [x] 琳琅诗怀雅 / Swire the Elegant Wit — 异格 / alternate — `1033_swire2` — [package](pets/swire-the-elegant-wit)
 - [x] 琴柳 / Saileach — `479_sleach` — [package](pets/saileach)
 - [x] 瑕光 / Blemishine — `423_blemsh` — [package](pets/blemishine)
 - [x] 电弧 / Raidian — `4195_radian` — [package](pets/raidian)
@@ -409,10 +409,10 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 百炼嘉维尔 / Gavial the Invincible — 异格 / alternate — `1026_gvial2` — [package](pets/gavial-the-invincible)
 - [x] 真言 / Mantra — `4204_mantra` — [package](pets/mantra)
 - [x] 空弦 / Archetto — `332_archet` — [package](pets/archetto)
-- [ ] 纯烬艾雅法拉 / Eyjafjalla the Hvít Aska — 异格 / alternate — `1016_agoat2`
-- [ ] 维什戴尔 / Wiš'adel — 异格 / alternate — `1035_wisdel`
+- [x] 纯烬艾雅法拉 / Eyjafjalla the Hvít Aska — 异格 / alternate — `1016_agoat2` — [package](pets/eyjafjalla-the-hvit-aska)
+- [x] 维什戴尔 / Wiš'adel — 异格 / alternate — `1035_wisdel` — [package](pets/wis-adel)
 - [x] 维伊 / Вий — `4226_veen` — [package](pets/viy)
-- [ ] 维娜·维多利亚 / Vina Victoria — 异格 / alternate — `1019_siege2`
+- [x] 维娜·维多利亚 / Vina Victoria — 异格 / alternate — `1019_siege2` — [package](pets/vina-victoria)
 - [x] 缄默德克萨斯 / Texas the Omertosa — 异格 / alternate — `1028_texas2` — [package](pets/texas-the-omertosa)
 - [x] 缇缇 / Titi — `4056_titi` — [package](pets/titi)
 - [x] 缪尔赛思 / Muelsyse — `249_mlyss` — [package](pets/muelsyse)
@@ -422,7 +422,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 艾丽妮 / Irene — `4009_irene` — [package](pets/irene)
 - [x] 艾拉 / Ela — `4123_ela` — [package](pets/ela)
 - [x] 艾雅法拉 / Eyjafjalla — `180_amgoat` — [package](pets/eyjafjalla)
-- [ ] 荒芜拉普兰德 / Lappland the Decadenza — 异格 / alternate — `1038_whitw2`
+- [x] 荒芜拉普兰德 / Lappland the Decadenza — 异格 / alternate — `1038_whitw2` — [package](pets/lappland-the-decadenza)
 - [x] 莫斯提马 / Mostima — `213_mostma` — [package](pets/mostima)
 - [x] 莱伊 / Ray — `4117_ray` — [package](pets/ray)
 - [x] 菲亚梅塔 / Fiammetta — `300_phenxi` — [package](pets/fiammetta)
@@ -451,7 +451,7 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 风笛 / Bagpipe — `222_bpipe` — [package](pets/bagpipe)
 - [x] 魔王 / Civilight Eterna — `4134_cetsyr` — [package](pets/civilight-eterna)
 - [x] 鸿雪 / Позёмка — `4055_bgsnow` — [package](pets/pozemka)
-- [ ] 麒麟R夜刀 / Kirin R Yato — 异格 / alternate — `1029_yato2`
+- [x] 麒麟R夜刀 / Kirin R Yato — 异格 / alternate — `1029_yato2` — [package](pets/kirin-r-yato)
 - [x] 麦哲伦 / Magallan — `248_mgllan` — [package](pets/magallan)
 - [x] 黍 / Shu — `2025_shu` — [package](pets/shu)
 - [x] 黑 / Schwarz — `340_shwaz` — [package](pets/schwarz)
