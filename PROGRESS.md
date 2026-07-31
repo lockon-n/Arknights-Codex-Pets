@@ -12,8 +12,8 @@ The collection will expand gradually in CN release order, with outfits maintaine
 | 类别 / Category | 已完成 / Done | 总数 / Total | 进度 / Progress |
 |---|---:|---:|---:|
 | 默认干员 / Default operators | 420 | 420 | 100.0% |
-| 皮肤 / Outfits | 25 | 506 | 4.9% |
-| **合计 / Total** | **445** | **926** | **48.1%** |
+| 皮肤 / Outfits | 35 | 506 | 6.9% |
+| **合计 / Total** | **455** | **926** | **49.1%** |
 
 上游目录快照 / Upstream catalog snapshot: `2026-07-13`, Ark-Models commit `3619a9a7268ec049dbbb30d1cff0ffa6d3fdf5ed` (`zh_CN`).
 
@@ -476,7 +476,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 
 ### 3★
 
-- [ ] 克洛丝 / Kroos — 巫异盛宴 — `124_kroos_witch#1`
+- [x] 克洛丝 / Kroos — 巫异盛宴 — `124_kroos_witch#1` — [package](pets/kroos-witch-1)
 - [ ] 克洛丝 / Kroos — 忒斯特收藏/XV — `124_kroos_sale#14`
 - [ ] 卡缇 / Cardigan — 冰原信使/I — `209_ardign_snow#1`
 - [ ] 卡缇 / Cardigan — 时代/XXVI — `209_ardign_epoque#26`
@@ -518,13 +518,13 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 慕斯 / Mousse — 玛尔特/XII — `185_frncat_marthe#12`
 - [ ] 慕斯 / Mousse — 生命之地/VII — `185_frncat_wild#7`
 - [ ] 断罪者 / Conviction — 成就之星 — `159_peacok_game#1`
-- [ ] 暗索 / Rope — 巫异盛宴 — `236_rope_witch#1`
+- [x] 暗索 / Rope — 巫异盛宴 — `236_rope_witch#1` — [package](pets/rope-witch-1)
 - [ ] 暗索 / Rope — 珊瑚海岸/II — `236_rope_summer#2`
 - [x] 末药 / Myrrh — 生命之地/I — `117_myrrh_wild#1` — [package](pets/myrrh-wild-1)
 - [ ] 杜宾 / Dobermann — 时代/VII — `130_doberm_epoque#7`
 - [ ] 杰克 / Jackie — 0011/飙系列/II — `347_jaksel_whirlwind#2`
 - [ ] 杰西卡 / Jessica — 0011制造/II — `235_jesica_nian#2`
-- [ ] 杰西卡 / Jessica — 生命之地/II — `235_jesica_wild#2`
+- [x] 杰西卡 / Jessica — 生命之地/II — `235_jesica_wild#2` — [package](pets/jessica-wild-2)
 - [x] 杰西卡 / Jessica — 雷神开拓者 — `235_jesica_sweep#1` — [package](pets/jessica-sweep-1)
 - [ ] 松果 / Pinecone — 时代/XXXI — `440_pinecn_epoque#31`
 - [ ] 松果 / Pinecone — 闪耀阶梯 — `440_pinecn_shining#1`
@@ -596,7 +596,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 初雪 / Pramanix — 冰原信使/I — `174_slbell_snow#1`
 - [ ] 刺玫 / Vendela — 成就之星/X — `494_vendla_game#10`
 - [ ] 医生 / Doc — 彩虹六号：围攻/II — `4125_rdoc_rainbow6#2`
-- [ ] 华法琳 / Warfarin — 巫异盛宴 — `171_bldsk_witch#1`
+- [x] 华法琳 / Warfarin — 巫异盛宴 — `171_bldsk_witch#1` — [package](pets/warfarin-witch-1)
 - [ ] 华法琳 / Warfarin — 珊瑚海岸/VII — `171_bldsk_summer#7`
 - [ ] 卡夫卡 / Kafka — 冰原信使/III — `214_kafka_snow#3`
 - [ ] 历阵锐枪芬 / Fang the Fire-sharpened — 冰原信使/VIII — 异格 / alternate — `1036_fang2_snow#8`
@@ -622,7 +622,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 奥达 / Odda — 0011/飙系列/VIII — `4131_odda_whirlwind#8`
 - [ ] 子月 / Lunacub — 0011/韵系列/I — `4014_lunacu_yun#1`
 - [ ] 守林人 / Firewatch — 冰原信使/II — `158_milu_snow#2`
-- [ ] 守林人 / Firewatch — 生命之地/II — `158_milu_wild#2`
+- [x] 守林人 / Firewatch — 生命之地/II — `158_milu_wild#2` — [package](pets/firewatch-wild-2)
 - [ ] 安哲拉 / Andreana — 时代/XII — `218_cuttle_epoque#12`
 - [ ] 寒檀 / Santalla — 珊瑚海岸/XV — `341_sntlla_summer#15`
 - [ ] 寒芒克洛丝 / Kroos the Keen Glint — 0011制造/VII — 异格 / alternate — `1021_kroos2_nian#8`
@@ -772,7 +772,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 阿米娅 / Amiya — 默认服装 — `1037_amiya3`
 - [ ] 阿罗玛 / Aroma — 时代/LIV — `446_aroma_epoque#54`
 - [ ] 陨星 / Meteorite — 珊瑚海岸/XXII — `219_meteo_summer#22`
-- [ ] 陨星 / Meteorite — 雷神开拓者 — `219_meteo_sweep#1`
+- [x] 陨星 / Meteorite — 雷神开拓者 — `219_meteo_sweep#1` — [package](pets/meteorite-sweep-1)
 - [ ] 隐现 / Insider — 珊瑚海岸/XXII — `498_inside_summer#22`
 - [ ] 隐现 / Insider — 罗德厨房/II — `498_inside_kitchen#2`
 - [ ] 雪绒 / Qanipalaat — 冰原信使/VI — `466_qanik_snow#6`
@@ -801,7 +801,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 伊内丝 / Ines — 斗争血脉/VIII — `4087_ines_boc#8`
 - [ ] 伊内丝 / Ines — 音律联觉/V — `4087_ines_ambiencesynesthesia#5`
 - [x] 伊芙利特 / Ifrit — 珊瑚海岸/I — `134_ifrit_summer#1` — [package](pets/ifrit-summer-1)
-- [ ] 伊芙利特 / Ifrit — 肯德基 — `134_ifrit_kfc#1`
+- [x] 伊芙利特 / Ifrit — 肯德基 — `134_ifrit_kfc#1` — [package](pets/ifrit-kfc-1)
 - [ ] 伊芙利特 / Ifrit — 轻松小熊 — `134_ifrit_rilakkuma#1`
 - [ ] 伺夜 / Vigil — 时代/XXVII — `427_vigil_epoque#27`
 - [ ] 余 / Yu — 0011制造/XII — `2026_yu_nian#12`
@@ -832,7 +832,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 夕 / Dusk — 0011制造/VI — `2015_dusk_nian#7`
 - [ ] 夕 / Dusk — 0011制造/XII — `2015_dusk_nian#12`
 - [ ] 多萝西 / Dorothy — 巫异盛宴/IV — `4048_doroth_witch#4`
-- [ ] 夜莺 / Nightingale — 巫异盛宴 — `179_cgbird_witch#1`
+- [x] 夜莺 / Nightingale — 巫异盛宴 — `179_cgbird_witch#1` — [package](pets/nightingale-witch-1)
 - [ ] 夜莺 / Nightingale — 错位巡礼/I — `179_cgbird_sightseer#1`
 - [ ] 妮芙 / Nymph — 时代/XLI — `4146_nymph_epoque#42`
 - [ ] 妮芙 / Nymph — 音律联觉/VII — `4146_nymph_ambiencesynesthesia#6`
@@ -855,7 +855,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 引星棘刺 / Thorns the Lodestar — 玛尔特/IX — 异格 / alternate — `1039_thorn2_marthe#9`
 - [ ] 归溟幽灵鲨 / Specter the Unchained — 斗争血脉/VI — 异格 / alternate — `1023_ghost2_boc#6`
 - [ ] 忍冬 / Vulpisfoglia — 时代/LV — `4026_vulpis_epoque#55`
-- [ ] 推进之王 / Siege — 生命之地/II — `112_siege_wild#2`
+- [x] 推进之王 / Siege — 生命之地/II — `112_siege_wild#2` — [package](pets/siege-wild-2)
 - [ ] 推进之王 / Siege — 雷神推进者/II — `112_siege_striker#2`
 - [ ] 提丰 / Typhon — 珊瑚海岸/XVII — `2012_typhon_summer#17`
 - [ ] 提丰 / Typhon — 生命之地/IX — `2012_typhon_wild#9`
@@ -932,7 +932,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 老鲤 / Lee — 巫异盛宴/III — `322_lmlee_witch#3`
 - [ ] 能天使 / Exusiai — 忒斯特收藏/IX — `103_angel_sale#8`
 - [x] 能天使 / Exusiai — 生命之地/I — `103_angel_wild#1` — [package](pets/exusiai-wild-1)
-- [ ] 能天使 / Exusiai — 肯德基 — `103_angel_kfc#1`
+- [x] 能天使 / Exusiai — 肯德基 — `103_angel_kfc#1` — [package](pets/exusiai-kfc-1)
 - [ ] 艾丽妮 / Irene — 成就之星/III — `4009_irene_game#3`
 - [ ] 艾丽妮 / Irene — 音律联觉/III — `4009_irene_ambiencesynesthesia#3`
 - [ ] 艾拉 / Ela — 彩虹六号：围攻/II — `4123_ela_rainbow6#2`
