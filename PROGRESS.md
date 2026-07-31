@@ -12,8 +12,8 @@ The collection will expand gradually in CN release order, with outfits maintaine
 | 类别 / Category | 已完成 / Done | 总数 / Total | 进度 / Progress |
 |---|---:|---:|---:|
 | 默认干员 / Default operators | 420 | 420 | 100.0% |
-| 皮肤 / Outfits | 15 | 506 | 3.0% |
-| **合计 / Total** | **435** | **926** | **47.0%** |
+| 皮肤 / Outfits | 25 | 506 | 4.9% |
+| **合计 / Total** | **445** | **926** | **48.1%** |
 
 上游目录快照 / Upstream catalog snapshot: `2026-07-13`, Ark-Models commit `3619a9a7268ec049dbbb30d1cff0ffa6d3fdf5ed` (`zh_CN`).
 
@@ -465,7 +465,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 
 ### 1★
 
-- [ ] Castle-3 — 珊瑚海岸/I — `286_cast3_summer#1`
+- [x] Castle-3 — 珊瑚海岸/I — `286_cast3_summer#1` — [package](pets/castle-3-summer-1)
 - [ ] Lancet-2 — 斗争血脉/IV — `285_medic2_boc#4`
 - [ ] PhonoR-0 — 斗争血脉/IX — `4136_phonor_boc#9`
 - [ ] THRM-EX / Thermal-EX — 玛尔特/VII — `376_therex_marthe#7`
@@ -490,7 +490,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 泡普卡 / Popukar — 巫异盛宴/V — `281_popka_witch#5`
 - [ ] 泡普卡 / Popukar — 忒斯特收藏/XX — `281_popka_sale#18`
 - [ ] 炎熔 / Lava — 忒斯特收藏/X — `121_lava_sale#9`
-- [ ] 玫兰莎 / Melantha — 时代/I — `208_melan_epoque#1`
+- [x] 玫兰莎 / Melantha — 时代/I — `208_melan_epoque#1` — [package](pets/melantha-epoque-1)
 - [ ] 空爆 / Catapult — 珊瑚海岸/XVII — `282_catap_summer#17`
 - [ ] 米格鲁 / Beagle — 斗争血脉/I — `122_beagle_boc#1`
 - [ ] 翎羽 / Plume — 玛尔特/VI — `192_falco_marthe#6`
@@ -505,7 +505,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 刻刀 / Cutter — 玛尔特/VIII — `301_cutter_marthe#8`
 - [ ] 卡达 / Click — 巫异盛宴/II — `328_cammou_witch#2`
 - [ ] 卡达 / Click — 珊瑚海岸/XXII — `328_cammou_summer#22`
-- [ ] 古米 / Гум — 珊瑚海岸/I — `196_sunbr_summer#1`
+- [x] 古米 / Гум — 珊瑚海岸/I — `196_sunbr_summer#1` — [package](pets/gummy-summer-1)
 - [ ] 嘉维尔 / Gavial — 时代/II — `187_ccheal_epoque#2`
 - [ ] 地灵 / Earthspirit — 时代/XXX — `183_skgoat_epoque#30`
 - [ ] 坚雷 / Dur-nar — 时代/XLI — `260_durnar_epoque#42`
@@ -525,7 +525,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 杰克 / Jackie — 0011/飙系列/II — `347_jaksel_whirlwind#2`
 - [ ] 杰西卡 / Jessica — 0011制造/II — `235_jesica_nian#2`
 - [ ] 杰西卡 / Jessica — 生命之地/II — `235_jesica_wild#2`
-- [ ] 杰西卡 / Jessica — 雷神开拓者 — `235_jesica_sweep#1`
+- [x] 杰西卡 / Jessica — 雷神开拓者 — `235_jesica_sweep#1` — [package](pets/jessica-sweep-1)
 - [ ] 松果 / Pinecone — 时代/XXXI — `440_pinecn_epoque#31`
 - [ ] 松果 / Pinecone — 闪耀阶梯 — `440_pinecn_shining#1`
 - [ ] 格雷伊 / Greyy — 时代/LI — `253_greyy_epoque#515`
@@ -561,7 +561,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 蛇屠箱 / Cuora — 0011/韵系列/VII — `150_snakek_yun#7`
 - [x] 蛇屠箱 / Cuora — 生命之地/I — `150_snakek_wild#1` — [package](pets/cuora-wild-1)
 - [ ] 褐果 / Chestnut — 珊瑚海岸/XII — `4041_chnut_summer#12`
-- [ ] 角峰 / Matterhorn — 珊瑚海岸/I — `199_yak_summer#1`
+- [x] 角峰 / Matterhorn — 珊瑚海岸/I — `199_yak_summer#1` — [package](pets/matterhorn-summer-1)
 - [x] 讯使 / Courier — 寒武纪/I — `198_blackd_winter#1` — [package](pets/courier-winter-1)
 - [ ] 讯使 / Courier — 音律联觉 — `198_blackd_as#1`
 - [x] 调香师 / Perfumer — 忒斯特收藏/I — `181_flower_daily#1` — [package](pets/perfumer-daily-1)
@@ -617,7 +617,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 夜半 / Blacknight — 珊瑚海岸/VIII — `476_blkngt_summer#8`
 - [ ] 夜魔 / Nightmare — 待予花冠/II — `164_nightm_unveiling#2`
 - [ ] 夜魔 / Nightmare — 时代/IV — `164_nightm_epoque#5`
-- [ ] 天火 / Skyfire — 珊瑚海岸/I — `166_skfire_summer#1`
+- [x] 天火 / Skyfire — 珊瑚海岸/I — `166_skfire_summer#1` — [package](pets/skyfire-summer-1)
 - [ ] 奥斯塔 / Aosta — 成就之星/II — `346_aosta_game#2`
 - [ ] 奥达 / Odda — 0011/飙系列/VIII — `4131_odda_whirlwind#8`
 - [ ] 子月 / Lunacub — 0011/韵系列/I — `4014_lunacu_yun#1`
@@ -713,7 +713,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 稀音 / Scene — 时代/XXII — `336_folivo_epoque#22`
 - [ ] 稀音 / Scene — 生命之地/XI — `336_folivo_wild#11`
 - [ ] 空 / Sora — 时代/XVII — `101_sora_epoque#17`
-- [ ] 空 / Sora — 珊瑚海岸/I — `101_sora_summer#1`
+- [x] 空 / Sora — 珊瑚海岸/I — `101_sora_summer#1` — [package](pets/sora-summer-1)
 - [ ] 絮雨 / Whisperain — 0011制造/III — `436_whispr_nian#4`
 - [ ] 絮雨 / Whisperain — 巫异盛宴/IV — `436_whispr_witch#4`
 - [ ] 红 / Projekt Red — 珊瑚海岸/VI — `144_red_summer#6`
@@ -754,7 +754,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 贾维 / Chiave — 啸风/II — `349_chiave_race#2`
 - [ ] 赤冬 / Akafuyu — 时代/XV — `475_akafyu_epoque#15`
 - [ ] 赫默 / Silence — 寒武纪/II — `108_silent_winter#2`
-- [ ] 赫默 / Silence — 雷神开拓者 — `108_silent_sweep#1`
+- [x] 赫默 / Silence — 雷神开拓者 — `108_silent_sweep#1` — [package](pets/silence-sweep-1)
 - [ ] 车尔尼 / Czerny — 生命之地/VIII — `4047_pianst_wild#8`
 - [ ] 送葬人 / Executor — 斗争血脉/I — `279_excu_boc#1`
 - [ ] 野鬃 / Wild Mane — 时代/XVI — `496_wildmn_epoque#16`
@@ -800,7 +800,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 令 / Ling — 国家地理 — `2023_ling_ncg#1`
 - [ ] 伊内丝 / Ines — 斗争血脉/VIII — `4087_ines_boc#8`
 - [ ] 伊内丝 / Ines — 音律联觉/V — `4087_ines_ambiencesynesthesia#5`
-- [ ] 伊芙利特 / Ifrit — 珊瑚海岸/I — `134_ifrit_summer#1`
+- [x] 伊芙利特 / Ifrit — 珊瑚海岸/I — `134_ifrit_summer#1` — [package](pets/ifrit-summer-1)
 - [ ] 伊芙利特 / Ifrit — 肯德基 — `134_ifrit_kfc#1`
 - [ ] 伊芙利特 / Ifrit — 轻松小熊 — `134_ifrit_rilakkuma#1`
 - [ ] 伺夜 / Vigil — 时代/XXVII — `427_vigil_epoque#27`
@@ -963,7 +963,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 银灰 / SilverAsh — 珊瑚海岸/IV — `172_svrash_summer#4`
 - [ ] 银灰 / SilverAsh — 音律联觉/IV — `172_svrash_ambiencesynesthesia#4`
 - [ ] 锏 / Degenbrecher — 巫异盛宴/V — `4116_blkkgt_witch#5`
-- [ ] 闪灵 / Shining — 珊瑚海岸/I — `147_shining_summer#1`
+- [x] 闪灵 / Shining — 珊瑚海岸/I — `147_shining_summer#1` — [package](pets/shining-summer-1)
 - [ ] 阿 / Aak — 0011制造/III — `225_haak_nian#4`
 - [ ] 阿 / Aak — 0011制造/IV — `225_haak_nian#5`
 - [ ] 阿斯卡纶 / Ascalon — 命途迭代/IV — `4132_ascln_iteration#4`
