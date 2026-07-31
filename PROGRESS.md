@@ -12,8 +12,8 @@ The collection will expand gradually in CN release order, with outfits maintaine
 | 类别 / Category | 已完成 / Done | 总数 / Total | 进度 / Progress |
 |---|---:|---:|---:|
 | 默认干员 / Default operators | 420 | 420 | 100.0% |
-| 皮肤 / Outfits | 5 | 506 | 1.0% |
-| **合计 / Total** | **425** | **926** | **45.9%** |
+| 皮肤 / Outfits | 15 | 506 | 3.0% |
+| **合计 / Total** | **435** | **926** | **47.0%** |
 
 上游目录快照 / Upstream catalog snapshot: `2026-07-13`, Ark-Models commit `3619a9a7268ec049dbbb30d1cff0ffa6d3fdf5ed` (`zh_CN`).
 
@@ -483,7 +483,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 史都华德 / Steward — 忒斯特收藏/VII — `210_stward_sale#6`
 - [ ] 安德切尔 / Adnachiel — 忒斯特收藏/VI — `211_adnach_sale#5`
 - [ ] 安赛尔 / Ansel — 时代/XXIX — `212_ansel_epoque#29`
-- [ ] 安赛尔 / Ansel — 珊瑚海岸/I — `212_ansel_summer#1`
+- [x] 安赛尔 / Ansel — 珊瑚海岸/I — `212_ansel_summer#1` — [package](pets/ansel-summer-1)
 - [ ] 斑点 / Spot — 斗争血脉/III — `284_spot_boc#3`
 - [ ] 月见夜 / Midnight — 斗争血脉/I — `283_midn_boc#1`
 - [ ] 梓兰 / Orchid — 斗争血脉/VI — `278_orchid_boc#6`
@@ -520,7 +520,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 断罪者 / Conviction — 成就之星 — `159_peacok_game#1`
 - [ ] 暗索 / Rope — 巫异盛宴 — `236_rope_witch#1`
 - [ ] 暗索 / Rope — 珊瑚海岸/II — `236_rope_summer#2`
-- [ ] 末药 / Myrrh — 生命之地/I — `117_myrrh_wild#1`
+- [x] 末药 / Myrrh — 生命之地/I — `117_myrrh_wild#1` — [package](pets/myrrh-wild-1)
 - [ ] 杜宾 / Dobermann — 时代/VII — `130_doberm_epoque#7`
 - [ ] 杰克 / Jackie — 0011/飙系列/II — `347_jaksel_whirlwind#2`
 - [ ] 杰西卡 / Jessica — 0011制造/II — `235_jesica_nian#2`
@@ -547,7 +547,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 石英 / Quartz — 时代/XXXVIII — `4063_quartz_epoque#39`
 - [ ] 砾 / Gravel — 寒武纪/II — `237_gravel_winter#2`
 - [ ] 红云 / Vermeil — 时代/XLII — `190_clour_epoque#43`
-- [ ] 红豆 / Vigna — 珊瑚海岸/I — `290_vigna_summer#1`
+- [x] 红豆 / Vigna — 珊瑚海岸/I — `290_vigna_summer#1` — [package](pets/vigna-summer-1)
 - [ ] 红豆 / Vigna — 音律联觉 — `290_vigna_as#1`
 - [ ] 维荻 / Verdant — 待予花冠/III — `4107_vrdant_unveiling#3`
 - [ ] 缠丸 / Matoimaru — 时代/XXXIX — `289_gyuki_epoque#40`
@@ -559,12 +559,12 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 苏苏洛 / Sussurro — 寒武纪/IV — `298_susuro_winter#4`
 - [ ] 苏苏洛 / Sussurro — 珊瑚海岸/VI — `298_susuro_summer#6`
 - [ ] 蛇屠箱 / Cuora — 0011/韵系列/VII — `150_snakek_yun#7`
-- [ ] 蛇屠箱 / Cuora — 生命之地/I — `150_snakek_wild#1`
+- [x] 蛇屠箱 / Cuora — 生命之地/I — `150_snakek_wild#1` — [package](pets/cuora-wild-1)
 - [ ] 褐果 / Chestnut — 珊瑚海岸/XII — `4041_chnut_summer#12`
 - [ ] 角峰 / Matterhorn — 珊瑚海岸/I — `199_yak_summer#1`
-- [ ] 讯使 / Courier — 寒武纪/I — `198_blackd_winter#1`
+- [x] 讯使 / Courier — 寒武纪/I — `198_blackd_winter#1` — [package](pets/courier-winter-1)
 - [ ] 讯使 / Courier — 音律联觉 — `198_blackd_as#1`
-- [ ] 调香师 / Perfumer — 忒斯特收藏/I — `181_flower_daily#1`
+- [x] 调香师 / Perfumer — 忒斯特收藏/I — `181_flower_daily#1` — [package](pets/perfumer-daily-1)
 - [ ] 调香师 / Perfumer — 时代/IX — `181_flower_epoque#9`
 - [ ] 豆苗 / Beanstalk — 冰原信使/IV — `452_bstalk_snow#4`
 - [ ] 豆苗 / Beanstalk — 待予花冠/IV — `452_bstalk_unveiling#4`
@@ -630,13 +630,13 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 寻澜 / Surfer — 0011制造/XII — `4052_surfer_nian#12`
 - [ ] 小满 / Grain Buds — 0011/韵系列/III — `4122_grabds_yun#3`
 - [ ] 崖心 / Cliffheart — WWF — `173_slchan_wwf#1`
-- [ ] 崖心 / Cliffheart — 生命之地/I — `173_slchan_wild#1`
+- [x] 崖心 / Cliffheart — 生命之地/I — `173_slchan_wild#1` — [package](pets/cliffheart-wild-1)
 - [ ] 巫恋 / Shamare — 0011/韵系列/VIII — `254_vodfox_yun#8`
 - [ ] 巫恋 / Shamare — 巫异盛宴/II — `254_vodfox_witch#2`
 - [ ] 布洛卡 / Broca — 玛尔特/IV — `356_broca_marthe#4`
-- [ ] 幽灵鲨 / Specter — 寒武纪/I — `143_ghost_winter#1`
+- [x] 幽灵鲨 / Specter — 寒武纪/I — `143_ghost_winter#1` — [package](pets/specter-winter-1)
 - [ ] 微风 / Breeze — 待予花冠/IV — `275_breeze_unveiling#4`
-- [ ] 德克萨斯 / Texas — 寒武纪/I — `102_texas_winter#1`
+- [x] 德克萨斯 / Texas — 寒武纪/I — `102_texas_winter#1` — [package](pets/texas-winter-1)
 - [ ] 德克萨斯 / Texas — 时代/VII — `102_texas_epoque#7`
 - [ ] 惊蛰 / Leizi — 成就之星/III — `306_leizi_game#3`
 - [ ] 慑砂 / Sesa — 成就之星/V — `379_sesa_game#5`
@@ -931,7 +931,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 老鲤 / Lee — 三丽鸥家族 — `322_lmlee_sanrio#1`
 - [ ] 老鲤 / Lee — 巫异盛宴/III — `322_lmlee_witch#3`
 - [ ] 能天使 / Exusiai — 忒斯特收藏/IX — `103_angel_sale#8`
-- [ ] 能天使 / Exusiai — 生命之地/I — `103_angel_wild#1`
+- [x] 能天使 / Exusiai — 生命之地/I — `103_angel_wild#1` — [package](pets/exusiai-wild-1)
 - [ ] 能天使 / Exusiai — 肯德基 — `103_angel_kfc#1`
 - [ ] 艾丽妮 / Irene — 成就之星/III — `4009_irene_game#3`
 - [ ] 艾丽妮 / Irene — 音律联觉/III — `4009_irene_ambiencesynesthesia#3`
