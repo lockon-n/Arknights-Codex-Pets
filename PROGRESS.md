@@ -12,8 +12,8 @@ The collection will expand gradually in CN release order, with outfits maintaine
 | 类别 / Category | 已完成 / Done | 总数 / Total | 进度 / Progress |
 |---|---:|---:|---:|
 | 默认干员 / Default operators | 420 | 420 | 100.0% |
-| 皮肤 / Outfits | 45 | 506 | 8.9% |
-| **合计 / Total** | **465** | **926** | **50.2%** |
+| 皮肤 / Outfits | 55 | 506 | 10.9% |
+| **合计 / Total** | **475** | **926** | **51.3%** |
 
 上游目录快照 / Upstream catalog snapshot: `2026-07-13`, Ark-Models commit `3619a9a7268ec049dbbb30d1cff0ffa6d3fdf5ed` (`zh_CN`).
 
@@ -485,7 +485,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 安赛尔 / Ansel — 时代/XXIX — `212_ansel_epoque#29`
 - [x] 安赛尔 / Ansel — 珊瑚海岸/I — `212_ansel_summer#1` — [package](pets/ansel-summer-1)
 - [ ] 斑点 / Spot — 斗争血脉/III — `284_spot_boc#3`
-- [ ] 月见夜 / Midnight — 斗争血脉/I — `283_midn_boc#1`
+- [x] 月见夜 / Midnight — 斗争血脉/I — `283_midn_boc#1` — [package](pets/midnight-boc-1)
 - [ ] 梓兰 / Orchid — 斗争血脉/VI — `278_orchid_boc#6`
 - [ ] 泡普卡 / Popukar — 巫异盛宴/V — `281_popka_witch#5`
 - [ ] 泡普卡 / Popukar — 忒斯特收藏/XX — `281_popka_sale#18`
@@ -506,7 +506,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 卡达 / Click — 巫异盛宴/II — `328_cammou_witch#2`
 - [ ] 卡达 / Click — 珊瑚海岸/XXII — `328_cammou_summer#22`
 - [x] 古米 / Гум — 珊瑚海岸/I — `196_sunbr_summer#1` — [package](pets/gummy-summer-1)
-- [ ] 嘉维尔 / Gavial — 时代/II — `187_ccheal_epoque#2`
+- [x] 嘉维尔 / Gavial — 时代/II — `187_ccheal_epoque#2` — [package](pets/gavial-epoque-2)
 - [ ] 地灵 / Earthspirit — 时代/XXX — `183_skgoat_epoque#30`
 - [ ] 坚雷 / Dur-nar — 时代/XLI — `260_durnar_epoque#42`
 - [ ] 夜烟 / Haze — 破格视界 — `141_nights_breaker#1`
@@ -591,7 +591,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 八幡海铃 / Yahata Umiri — Ave Mujica — `4186_tmoris_avemujica#1`
 - [ ] 冰酿 / Coldshot — 雷神推进者/III — `4104_coldst_striker#3`
 - [ ] 凛冬 / Зима — i.t — `115_headbr_it#1`
-- [ ] 凛冬 / Зима — 玛尔特/II — `115_headbr_marthe#2`
+- [x] 凛冬 / Зима — 玛尔特/II — `115_headbr_marthe#2` — [package](pets/zima-marthe-2)
 - [ ] 凛视 / Valarqvin — 时代/XLI — `4102_threye_epoque#42`
 - [x] 初雪 / Pramanix — 冰原信使/I — `174_slbell_snow#1` — [package](pets/pramanix-snow-1)
 - [ ] 刺玫 / Vendela — 成就之星/X — `494_vendla_game#10`
@@ -629,7 +629,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 寒芒克洛丝 / Kroos the Keen Glint — 成就之星/III — 异格 / alternate — `1021_kroos2_game#3`
 - [ ] 寻澜 / Surfer — 0011制造/XII — `4052_surfer_nian#12`
 - [ ] 小满 / Grain Buds — 0011/韵系列/III — `4122_grabds_yun#3`
-- [ ] 崖心 / Cliffheart — WWF — `173_slchan_wwf#1`
+- [x] 崖心 / Cliffheart — WWF — `173_slchan_wwf#1` — [package](pets/cliffheart-wwf-1)
 - [x] 崖心 / Cliffheart — 生命之地/I — `173_slchan_wild#1` — [package](pets/cliffheart-wild-1)
 - [ ] 巫恋 / Shamare — 0011/韵系列/VIII — `254_vodfox_yun#8`
 - [ ] 巫恋 / Shamare — 巫异盛宴/II — `254_vodfox_witch#2`
@@ -646,7 +646,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 承曦格雷伊 / Greyy the Lightningbearer — 破格视界 — 异格 / alternate — `1027_greyy2_breaker#1`
 - [ ] 折光 / Diamante — 时代/XXXVII — `499_kaitou_epoque#37`
 - [ ] 折桠 / Веточки — 0011/韵系列/X — `4207_branch_yun#10`
-- [ ] 拉普兰德 / Lappland — 斗争血脉/I — `140_whitew_boc#1`
+- [x] 拉普兰德 / Lappland — 斗争血脉/I — `140_whitew_boc#1` — [package](pets/lappland-boc-1)
 - [ ] 拜松 / Bison — 0011/韵系列/VII — `325_bison_yun#7`
 - [ ] 摩根 / Morgan — 时代/XLVI — `154_morgan_epoque#47`
 - [ ] 断崖 / Ayerscarpe — 斗争血脉/III — `294_ayer_boc#3`
@@ -691,7 +691,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 温米 / Warmy — 寒武纪/IV — `4081_warmy_winter#4`
 - [ ] 濯尘芙蓉 / Hibiscus the Purifier — 待予花冠/II — 异格 / alternate — `1024_hbisc2_unveiling#2`
 - [ ] 火神 / Vulcan — 斗争血脉/X — `163_hpsts_boc#10`
-- [ ] 灰喉 / GreyThroat — 斗争血脉/I — `367_swllow_boc#1`
+- [x] 灰喉 / GreyThroat — 斗争血脉/I — `367_swllow_boc#1` — [package](pets/grey-throat-boc-1)
 - [ ] 灰毫 / Ashlock — 时代/XXVIII — `431_ashlok_epoque#28`
 - [ ] 炎客 / Flamebringer — 0011/飙系列/VI — `131_flameb_whirlwind#6`
 - [ ] 炎客 / Flamebringer — 珊瑚海岸/VIII — `131_flameb_summer#8`
@@ -756,7 +756,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 赫默 / Silence — 寒武纪/II — `108_silent_winter#2`
 - [x] 赫默 / Silence — 雷神开拓者 — `108_silent_sweep#1` — [package](pets/silence-sweep-1)
 - [ ] 车尔尼 / Czerny — 生命之地/VIII — `4047_pianst_wild#8`
-- [ ] 送葬人 / Executor — 斗争血脉/I — `279_excu_boc#1`
+- [x] 送葬人 / Executor — 斗争血脉/I — `279_excu_boc#1` — [package](pets/executor-boc-1)
 - [ ] 野鬃 / Wild Mane — 时代/XVI — `496_wildmn_epoque#16`
 - [ ] 钼铅 / Wulfenite — 玛尔特/XIV — `4171_wulfen_marthe#14`
 - [ ] 铎铃 / Wind Chimes — 0011/韵系列/V — `4083_chimes_yun#5`
@@ -765,7 +765,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 锡兰 / Ceylon — 珊瑚海岸/XIII — `348_ceylon_summer#13`
 - [ ] 阿米娅 / Amiya — CASC — `1001_amiya2_casc#1`
 - [x] 阿米娅 / Amiya — 忒斯特收藏/I — `002_amiya_winter#1` — [package](pets/amiya-winter-1)
-- [ ] 阿米娅 / Amiya — 忒斯特收藏/II — `002_amiya_epoque#4`
+- [x] 阿米娅 / Amiya — 忒斯特收藏/II — `002_amiya_epoque#4` — [package](pets/amiya-epoque-4)
 - [ ] 阿米娅 / Amiya — 忒斯特收藏/IV — `002_amiya_test#1`
 - [ ] 阿米娅 / Amiya — 忒斯特收藏/XIV — `1037_amiya3_sale#13`
 - [ ] 阿米娅 / Amiya — 忒斯特收藏/XVIII — `1001_amiya2_sale#16`
@@ -827,7 +827,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 圣聆初雪 / Pramanix the Prerita — 音律联觉/IX — 异格 / alternate — `1046_sbell2_ambiencesynesthesia#8`
 - [ ] 塑心 / Virtuosa — 忒斯特收藏/XIII — `245_cello_sale#12`
 - [ ] 塞雷娅 / Saria — 忒斯特收藏/III — `202_demkni_test#1`
-- [ ] 塞雷娅 / Saria — 斗争血脉/I — `202_demkni_boc#1`
+- [x] 塞雷娅 / Saria — 斗争血脉/I — `202_demkni_boc#1` — [package](pets/saria-boc-1)
 - [ ] 塞雷娅 / Saria — 音律联觉/VIII — `202_demkni_ambiencesynesthesia#7`
 - [ ] 夕 / Dusk — 0011制造/VI — `2015_dusk_nian#7`
 - [ ] 夕 / Dusk — 0011制造/XII — `2015_dusk_nian#12`
@@ -866,7 +866,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 新约能天使 / Exusiai the New Covenant — 命途迭代/VI — 异格 / alternate — `1041_angel2_iteration#6`
 - [ ] 早露 / Роса — 时代/XII — `197_poca_epoque#12`
 - [ ] 早露 / Роса — 轻松小熊 — `197_poca_rilakkuma#1`
-- [ ] 星熊 / Hoshiguma — 0011/飙系列 — `136_hsguma_nian#3`
+- [x] 星熊 / Hoshiguma — 0011/飙系列 — `136_hsguma_nian#3` — [package](pets/hoshiguma-nian-3)
 - [ ] 星熊 / Hoshiguma — 珊瑚海岸/XVI — `136_hsguma_summer#16`
 - [ ] 林 / Lin — 0011制造/IX — `4080_lin_nian#10`
 - [ ] 林 / Lin — 小马宝莉 — `4080_lin_littlepony#1`
