@@ -12,8 +12,8 @@ The collection will expand gradually in CN release order, with outfits maintaine
 | 类别 / Category | 已完成 / Done | 总数 / Total | 进度 / Progress |
 |---|---:|---:|---:|
 | 默认干员 / Default operators | 420 | 420 | 100.0% |
-| 皮肤 / Outfits | 35 | 506 | 6.9% |
-| **合计 / Total** | **455** | **926** | **49.1%** |
+| 皮肤 / Outfits | 45 | 506 | 8.9% |
+| **合计 / Total** | **465** | **926** | **50.2%** |
 
 上游目录快照 / Upstream catalog snapshot: `2026-07-13`, Ark-Models commit `3619a9a7268ec049dbbb30d1cff0ffa6d3fdf5ed` (`zh_CN`).
 
@@ -478,7 +478,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 
 - [x] 克洛丝 / Kroos — 巫异盛宴 — `124_kroos_witch#1` — [package](pets/kroos-witch-1)
 - [ ] 克洛丝 / Kroos — 忒斯特收藏/XV — `124_kroos_sale#14`
-- [ ] 卡缇 / Cardigan — 冰原信使/I — `209_ardign_snow#1`
+- [x] 卡缇 / Cardigan — 冰原信使/I — `209_ardign_snow#1` — [package](pets/cardigan-snow-1)
 - [ ] 卡缇 / Cardigan — 时代/XXVI — `209_ardign_epoque#26`
 - [ ] 史都华德 / Steward — 忒斯特收藏/VII — `210_stward_sale#6`
 - [ ] 安德切尔 / Adnachiel — 忒斯特收藏/VI — `211_adnach_sale#5`
@@ -523,7 +523,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [x] 末药 / Myrrh — 生命之地/I — `117_myrrh_wild#1` — [package](pets/myrrh-wild-1)
 - [ ] 杜宾 / Dobermann — 时代/VII — `130_doberm_epoque#7`
 - [ ] 杰克 / Jackie — 0011/飙系列/II — `347_jaksel_whirlwind#2`
-- [ ] 杰西卡 / Jessica — 0011制造/II — `235_jesica_nian#2`
+- [x] 杰西卡 / Jessica — 0011制造/II — `235_jesica_nian#2` — [package](pets/jessica-nian-2)
 - [x] 杰西卡 / Jessica — 生命之地/II — `235_jesica_wild#2` — [package](pets/jessica-wild-2)
 - [x] 杰西卡 / Jessica — 雷神开拓者 — `235_jesica_sweep#1` — [package](pets/jessica-sweep-1)
 - [ ] 松果 / Pinecone — 时代/XXXI — `440_pinecn_epoque#31`
@@ -593,7 +593,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 凛冬 / Зима — i.t — `115_headbr_it#1`
 - [ ] 凛冬 / Зима — 玛尔特/II — `115_headbr_marthe#2`
 - [ ] 凛视 / Valarqvin — 时代/XLI — `4102_threye_epoque#42`
-- [ ] 初雪 / Pramanix — 冰原信使/I — `174_slbell_snow#1`
+- [x] 初雪 / Pramanix — 冰原信使/I — `174_slbell_snow#1` — [package](pets/pramanix-snow-1)
 - [ ] 刺玫 / Vendela — 成就之星/X — `494_vendla_game#10`
 - [ ] 医生 / Doc — 彩虹六号：围攻/II — `4125_rdoc_rainbow6#2`
 - [x] 华法琳 / Warfarin — 巫异盛宴 — `171_bldsk_witch#1` — [package](pets/warfarin-witch-1)
@@ -706,7 +706,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 瑰盐 / Rose Salt — 成就之星/VII — `4163_rosesa_game#7`
 - [ ] 白金 / Platinum — 珊瑚海岸/III — `204_platnm_summer#3`
 - [ ] 白面鸮 / Ptilopsis — 0011/韵系列/IV — `128_plosis_yun#4`
-- [ ] 白面鸮 / Ptilopsis — 时代/III — `128_plosis_epoque#3`
+- [x] 白面鸮 / Ptilopsis — 时代/III — `128_plosis_epoque#3` — [package](pets/ptilopsis-epoque-3)
 - [ ] 真理 / Истина — 罗德厨房 — `195_glassb_kitchen#1`
 - [ ] 石棉 / Asbestos — 0011/飙系列/III — `378_asbest_whirlwind#3`
 - [ ] 祐天寺若麦 / Yūtenji Nyamu — Ave Mujica — `4185_amoris_avemujica#1`
@@ -746,7 +746,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 衡沙 / Sand Reckoner — 错位巡礼/III — `4140_lasher_sightseer#3`
 - [ ] 裁度 / Figurino — 0011/韵系列/IX — `4155_talr_yun#9`
 - [ ] 见行者 / Enforcer — 时代/XXI — `4036_forcer_epoque#20`
-- [ ] 诗怀雅 / Swire — 0011制造/II — `308_swire_nian#2`
+- [x] 诗怀雅 / Swire — 0011制造/II — `308_swire_nian#2` — [package](pets/swire-nian-2)
 - [ ] 诺威尔 / Nowell — 命途迭代/VI — `4173_nowell_iteration#6`
 - [ ] 谜图 / Puzzle — 时代/XXIX — `4017_puzzle_epoque#29`
 - [ ] 谜图 / Puzzle — 闪耀阶梯/III — `4017_puzzle_shining#3`
@@ -777,13 +777,13 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 隐现 / Insider — 罗德厨房/II — `498_inside_kitchen#2`
 - [ ] 雪绒 / Qanipalaat — 冰原信使/VI — `466_qanik_snow#6`
 - [ ] 雪雉 / Snowsant — 巫异盛宴/II — `383_snsant_witch#2`
-- [ ] 雷蛇 / Liskarm — 0011制造/II — `107_liskam_nian#2`
+- [x] 雷蛇 / Liskarm — 0011制造/II — `107_liskam_nian#2` — [package](pets/liskarm-nian-2)
 - [ ] 雷蛇 / Liskarm — 雷神推进者 — `107_liskam_striker#1`
 - [ ] 青枳 / Poncirus — 时代/XXXIV — `488_buildr_epoque#34`
 - [ ] 鞭刃 / Whislash — 时代/XI — `265_sophia_epoque#11`
 - [ ] 风丸 / Kazemaru — 巫异盛宴/III — `4016_kazema_witch#3`
 - [ ] 食铁兽 / FEater — 0011制造/VI — `241_panda_nian#7`
-- [ ] 食铁兽 / FEater — 玛尔特/I — `241_panda_marthe#1`
+- [x] 食铁兽 / FEater — 玛尔特/I — `241_panda_marthe#1` — [package](pets/feater-marthe-1)
 - [ ] 龙舌兰 / Tequila — 闪耀阶梯/II — `486_takila_shining#2`
 - [ ] 龙舌兰 / Tequila — 音律联觉/II — `486_takila_ambiencesynesthesia#2`
 
@@ -959,7 +959,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 铃兰 / Suzuran — 时代/XXII — `358_lisa_epoque#22`
 - [ ] 铃兰 / Suzuran — 生命之地/III — `358_lisa_wild#3`
 - [ ] 铃兰 / Suzuran — 罗小黑战记 — `358_lisa_lxh#1`
-- [ ] 银灰 / SilverAsh — 冰原信使/I — `172_svrash_snow#1`
+- [x] 银灰 / SilverAsh — 冰原信使/I — `172_svrash_snow#1` — [package](pets/silverash-snow-1)
 - [ ] 银灰 / SilverAsh — 珊瑚海岸/IV — `172_svrash_summer#4`
 - [ ] 银灰 / SilverAsh — 音律联觉/IV — `172_svrash_ambiencesynesthesia#4`
 - [ ] 锏 / Degenbrecher — 巫异盛宴/V — `4116_blkkgt_witch#5`
@@ -967,7 +967,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 阿 / Aak — 0011制造/III — `225_haak_nian#4`
 - [ ] 阿 / Aak — 0011制造/IV — `225_haak_nian#5`
 - [ ] 阿斯卡纶 / Ascalon — 命途迭代/IV — `4132_ascln_iteration#4`
-- [ ] 陈 / Ch'en — 0011制造/II — `010_chen_nian#2`
+- [x] 陈 / Ch'en — 0011制造/II — `010_chen_nian#2` — [package](pets/ch-en-nian-2)
 - [ ] 陈 / Ch'en — 忒斯特收藏/XI — `010_chen_sale#10`
 - [ ] 隐德来希 / Entelechia — 寒武纪/V — `4010_etlchi_winter#5`
 - [ ] 霍尔海雅 / Ho'olheyak — 时代/XLIX — `4027_heyak_epoque#50`
@@ -980,6 +980,6 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 鸿雪 / Позёмка — 生命之地/VII — `4055_bgsnow_wild#7`
 - [ ] 麦哲伦 / Magallan — 罗德厨房 — `248_mgllan_kitchen#1`
 - [ ] 黍 / Shu — 0011制造/XI — `2025_shu_nian#11`
-- [ ] 黑 / Schwarz — 冰原信使/I — `340_shwaz_snow#1`
+- [x] 黑 / Schwarz — 冰原信使/I — `340_shwaz_snow#1` — [package](pets/schwarz-snow-1)
 - [ ] 黑 / Schwarz — 雷神推进者 — `340_shwaz_striker#1`
 - [ ] 黑键 / Ebenholz — 斗争血脉/VI — `4046_ebnhlz_boc#6`
