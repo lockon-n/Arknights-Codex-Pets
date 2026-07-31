@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "model_key": "173_slchan_wwf#1",
+  "votes": {
+    "horizontal_A": {
+      "screen-left": 1,
+      "screen-right": 2
+    },
+    "horizontal_B": {
+      "screen-right": 1,
+      "screen-left": 2
+    },
+    "vertical_A": {
+      "down": 1,
+      "up": 2
+    },
+    "vertical_B": {
+      "up": 1,
+      "down": 2
+    }
+  },
+  "horizontal_A": "screen-right",
+  "horizontal_B": "screen-left",
+  "vertical_A": "up",
+  "vertical_B": "down",
+  "reconciliation_sources": {
+    "horizontal_A": {
+      "source": "blind-consensus",
+      "basis": "three-reviewer majority",
+      "votes": {
+        "screen-left": 1,
+        "screen-right": 2
+      }
+    },
+    "horizontal_B": {
+      "source": "blind-consensus",
+      "basis": "three-reviewer majority",
+      "votes": {
+        "screen-right": 1,
+        "screen-left": 2
+      }
+    },
+    "vertical_A": {
+      "source": "blind-consensus",
+      "basis": "three-reviewer majority",
+      "votes": {
+        "down": 1,
+        "up": 2
+      }
+    },
+    "vertical_B": {
+      "source": "blind-consensus",
+      "basis": "three-reviewer majority",
+      "votes": {
+        "up": 1,
+        "down": 2
+      }
+    }
+  }
+}

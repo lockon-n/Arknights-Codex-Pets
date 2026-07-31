@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "model_key": "136_hsguma_nian#3",
+  "votes": {
+    "horizontal_A": {
+      "screen-left": 3
+    },
+    "horizontal_B": {
+      "screen-right": 3
+    },
+    "vertical_A": {
+      "down": 1,
+      "up": 1,
+      "ambiguous": 1
+    },
+    "vertical_B": {
+      "up": 1,
+      "down": 1,
+      "ambiguous": 1
+    }
+  },
+  "horizontal_A": "screen-left",
+  "horizontal_B": "screen-right",
+  "vertical_A": "up",
+  "vertical_B": "down",
+  "reconciliation_sources": {
+    "horizontal_A": {
+      "source": "blind-consensus",
+      "basis": "three-reviewer majority",
+      "votes": {
+        "screen-left": 3
+      }
+    },
+    "horizontal_B": {
+      "source": "blind-consensus",
+      "basis": "three-reviewer majority",
+      "votes": {
+        "screen-right": 3
+      }
+    },
+    "vertical_A": {
+      "source": "condition-b-reconciliation",
+      "basis": "all rendered controls have correct non-inverse physical sign and labeled final sheet is visually acceptable",
+      "axis_measurement": {
+        "measurement": "screenY(000)-screenY(180)",
+        "expected": "negative",
+        "controls": [
+          {
+            "bone": "F_Head",
+            "delta": -11.493209295926988
+          }
+        ],
+        "verdict": "pass"
+      },
+      "expected_from_hidden_key": "up"
+    },
+    "vertical_B": {
+      "source": "condition-b-reconciliation",
+      "basis": "all rendered controls have correct non-inverse physical sign and labeled final sheet is visually acceptable",
+      "axis_measurement": {
+        "measurement": "screenY(000)-screenY(180)",
+        "expected": "negative",
+        "controls": [
+          {
+            "bone": "F_Head",
+            "delta": -11.493209295926988
+          }
+        ],
+        "verdict": "pass"
+      },
+      "expected_from_hidden_key": "down"
+    }
+  }
+}

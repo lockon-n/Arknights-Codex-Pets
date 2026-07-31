@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "model_key": "283_midn_boc#1",
+  "votes": {
+    "horizontal_A": {
+      "screen-left": 2,
+      "ambiguous": 1
+    },
+    "horizontal_B": {
+      "screen-right": 2,
+      "ambiguous": 1
+    },
+    "vertical_A": {
+      "ambiguous": 1,
+      "up": 2
+    },
+    "vertical_B": {
+      "ambiguous": 1,
+      "down": 2
+    }
+  },
+  "horizontal_A": "screen-left",
+  "horizontal_B": "screen-right",
+  "vertical_A": "up",
+  "vertical_B": "down",
+  "reconciliation_sources": {
+    "horizontal_A": {
+      "source": "blind-consensus",
+      "basis": "three-reviewer majority",
+      "votes": {
+        "screen-left": 2,
+        "ambiguous": 1
+      }
+    },
+    "horizontal_B": {
+      "source": "blind-consensus",
+      "basis": "three-reviewer majority",
+      "votes": {
+        "screen-right": 2,
+        "ambiguous": 1
+      }
+    },
+    "vertical_A": {
+      "source": "blind-consensus",
+      "basis": "three-reviewer majority",
+      "votes": {
+        "ambiguous": 1,
+        "up": 2
+      }
+    },
+    "vertical_B": {
+      "source": "blind-consensus",
+      "basis": "three-reviewer majority",
+      "votes": {
+        "ambiguous": 1,
+        "down": 2
+      }
+    }
+  }
+}

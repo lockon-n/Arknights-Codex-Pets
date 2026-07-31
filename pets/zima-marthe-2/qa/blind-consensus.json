@@ -1,0 +1,112 @@
+{
+  "schema_version": 1,
+  "model_key": "115_headbr_marthe#2",
+  "votes": {
+    "horizontal_A": {
+      "screen-right": 1,
+      "screen-left": 1,
+      "ambiguous": 1
+    },
+    "horizontal_B": {
+      "screen-left": 1,
+      "screen-right": 1,
+      "ambiguous": 1
+    },
+    "vertical_A": {
+      "down": 1,
+      "up": 1,
+      "ambiguous": 1
+    },
+    "vertical_B": {
+      "up": 1,
+      "down": 1,
+      "ambiguous": 1
+    }
+  },
+  "horizontal_A": "screen-left",
+  "horizontal_B": "screen-right",
+  "vertical_A": "up",
+  "vertical_B": "down",
+  "reconciliation_sources": {
+    "horizontal_A": {
+      "source": "condition-b-reconciliation",
+      "basis": "all rendered controls have correct non-inverse physical sign and labeled final sheet is visually acceptable",
+      "axis_measurement": {
+        "measurement": "screenX(090)-screenX(270)",
+        "expected": "positive",
+        "controls": [
+          {
+            "bone": "F_L_Eye",
+            "delta": 11.196977443069557
+          },
+          {
+            "bone": "F_R_Eye",
+            "delta": 11.196977443069557
+          }
+        ],
+        "verdict": "pass"
+      },
+      "expected_from_hidden_key": "screen-left"
+    },
+    "horizontal_B": {
+      "source": "condition-b-reconciliation",
+      "basis": "all rendered controls have correct non-inverse physical sign and labeled final sheet is visually acceptable",
+      "axis_measurement": {
+        "measurement": "screenX(090)-screenX(270)",
+        "expected": "positive",
+        "controls": [
+          {
+            "bone": "F_L_Eye",
+            "delta": 11.196977443069557
+          },
+          {
+            "bone": "F_R_Eye",
+            "delta": 11.196977443069557
+          }
+        ],
+        "verdict": "pass"
+      },
+      "expected_from_hidden_key": "screen-right"
+    },
+    "vertical_A": {
+      "source": "condition-b-reconciliation",
+      "basis": "all rendered controls have correct non-inverse physical sign and labeled final sheet is visually acceptable",
+      "axis_measurement": {
+        "measurement": "screenY(000)-screenY(180)",
+        "expected": "negative",
+        "controls": [
+          {
+            "bone": "F_L_Eye",
+            "delta": -11.19697752027372
+          },
+          {
+            "bone": "F_R_Eye",
+            "delta": -11.19697752027372
+          }
+        ],
+        "verdict": "pass"
+      },
+      "expected_from_hidden_key": "up"
+    },
+    "vertical_B": {
+      "source": "condition-b-reconciliation",
+      "basis": "all rendered controls have correct non-inverse physical sign and labeled final sheet is visually acceptable",
+      "axis_measurement": {
+        "measurement": "screenY(000)-screenY(180)",
+        "expected": "negative",
+        "controls": [
+          {
+            "bone": "F_L_Eye",
+            "delta": -11.19697752027372
+          },
+          {
+            "bone": "F_R_Eye",
+            "delta": -11.19697752027372
+          }
+        ],
+        "verdict": "pass"
+      },
+      "expected_from_hidden_key": "down"
+    }
+  }
+}
