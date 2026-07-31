@@ -12,8 +12,8 @@ The collection will expand gradually in CN release order, with outfits maintaine
 | 类别 / Category | 已完成 / Done | 总数 / Total | 进度 / Progress |
 |---|---:|---:|---:|
 | 默认干员 / Default operators | 420 | 420 | 100.0% |
-| 皮肤 / Outfits | 55 | 506 | 10.9% |
-| **合计 / Total** | **475** | **926** | **51.3%** |
+| 皮肤 / Outfits | 65 | 506 | 12.8% |
+| **合计 / Total** | **485** | **926** | **52.4%** |
 
 上游目录快照 / Upstream catalog snapshot: `2026-07-13`, Ark-Models commit `3619a9a7268ec049dbbb30d1cff0ffa6d3fdf5ed` (`zh_CN`).
 
@@ -492,7 +492,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 炎熔 / Lava — 忒斯特收藏/X — `121_lava_sale#9`
 - [x] 玫兰莎 / Melantha — 时代/I — `208_melan_epoque#1` — [package](pets/melantha-epoque-1)
 - [ ] 空爆 / Catapult — 珊瑚海岸/XVII — `282_catap_summer#17`
-- [ ] 米格鲁 / Beagle — 斗争血脉/I — `122_beagle_boc#1`
+- [x] 米格鲁 / Beagle — 斗争血脉/I — `122_beagle_boc#1` — [package](pets/beagle-boc-1)
 - [ ] 翎羽 / Plume — 玛尔特/VI — `192_falco_marthe#6`
 - [x] 芙蓉 / Hibiscus — 0011制造/I — `120_hibisc_nian#1` — [package](pets/hibiscus-nian-1)
 - [x] 芬 / Fang — 寒武纪/I — `123_fang_winter#1` — [package](pets/fang-winter-1)
@@ -519,7 +519,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 慕斯 / Mousse — 生命之地/VII — `185_frncat_wild#7`
 - [ ] 断罪者 / Conviction — 成就之星 — `159_peacok_game#1`
 - [x] 暗索 / Rope — 巫异盛宴 — `236_rope_witch#1` — [package](pets/rope-witch-1)
-- [ ] 暗索 / Rope — 珊瑚海岸/II — `236_rope_summer#2`
+- [x] 暗索 / Rope — 珊瑚海岸/II — `236_rope_summer#2` — [package](pets/rope-summer-2)
 - [x] 末药 / Myrrh — 生命之地/I — `117_myrrh_wild#1` — [package](pets/myrrh-wild-1)
 - [ ] 杜宾 / Dobermann — 时代/VII — `130_doberm_epoque#7`
 - [ ] 杰克 / Jackie — 0011/飙系列/II — `347_jaksel_whirlwind#2`
@@ -542,7 +542,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 深靛 / Indigo — 0011制造/VI — `469_indigo_nian#7`
 - [ ] 清流 / Purestream — 0011制造/X — `385_finlpp_nian#11`
 - [ ] 清道夫 / Scavenger — 雷神推进者/II — `149_scave_striker#2`
-- [ ] 猎蜂 / Beehunter — 罗德厨房 — `137_brownb_kitchen#1`
+- [x] 猎蜂 / Beehunter — 罗德厨房 — `137_brownb_kitchen#1` — [package](pets/beehunter-kitchen-1)
 - [ ] 白雪 / ShiraYuki — 斗争血脉/II — `118_yuki_boc#2`
 - [ ] 石英 / Quartz — 时代/XXXVIII — `4063_quartz_epoque#39`
 - [ ] 砾 / Gravel — 寒武纪/II — `237_gravel_winter#2`
@@ -582,7 +582,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 
 - [ ] 万顷 / Wanqing — 时代/XL — `4119_wanqin_epoque#41`
 - [ ] 三角初华 / Misumi Uika — Ave Mujica — `4184_dolris_avemujica#1`
-- [ ] 临光 / Nearl — 珊瑚海岸/II — `148_nearl_summer#2`
+- [x] 临光 / Nearl — 珊瑚海岸/II — `148_nearl_summer#2` — [package](pets/nearl-summer-2)
 - [ ] 乌有 / Mr.Nothing — 0011制造/VI — `455_nothin_nian#7`
 - [ ] 九色鹿 / Nine-Colored Deer — 九色鹿 — `4019_ncdeer_ncdeer#1`
 - [ ] 亚叶 / Folinic — 生命之地/IV — `345_folnic_wild#4`
@@ -616,7 +616,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 夜半 / Blacknight — 0011制造/VII — `476_blkngt_nian#8`
 - [ ] 夜半 / Blacknight — 珊瑚海岸/VIII — `476_blkngt_summer#8`
 - [ ] 夜魔 / Nightmare — 待予花冠/II — `164_nightm_unveiling#2`
-- [ ] 夜魔 / Nightmare — 时代/IV — `164_nightm_epoque#5`
+- [x] 夜魔 / Nightmare — 时代/IV — `164_nightm_epoque#5` — [package](pets/nightmare-epoque-5)
 - [x] 天火 / Skyfire — 珊瑚海岸/I — `166_skfire_summer#1` — [package](pets/skyfire-summer-1)
 - [ ] 奥斯塔 / Aosta — 成就之星/II — `346_aosta_game#2`
 - [ ] 奥达 / Odda — 0011/飙系列/VIII — `4131_odda_whirlwind#8`
@@ -651,7 +651,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 摩根 / Morgan — 时代/XLVI — `154_morgan_epoque#47`
 - [ ] 断崖 / Ayerscarpe — 斗争血脉/III — `294_ayer_boc#3`
 - [ ] 明椒 / Paprika — 0011/飙系列/Ⅴ — `4071_peper_whirlwind#5`
-- [ ] 星极 / Astesia — 时代/V — `274_astesi_epoque#5`
+- [x] 星极 / Astesia — 时代/V — `274_astesi_epoque#5` — [package](pets/astesia-epoque-5)
 - [ ] 星极 / Astesia — 时代/XXIII — `274_astesi_epoque#23`
 - [ ] 星极 / Astesia — 闪耀阶梯 — `274_astesi_shining#1`
 - [ ] 星源 / Astgenne — 时代/XXV — `135_halo_epoque#25`
@@ -700,14 +700,14 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 燧石 / Flint — 斗争血脉/III — `415_flint_boc#3`
 - [ ] 爱丽丝 / Iris — 巫异盛宴/III — `338_iris_witch#3`
 - [ ] 特米米 / Tomimi — 珊瑚海岸/V — `411_tomimi_summer#5`
-- [ ] 狮蝎 / Manticore — 时代/IV — `215_mantic_epoque#4`
+- [x] 狮蝎 / Manticore — 时代/IV — `215_mantic_epoque#4` — [package](pets/manticore-epoque-4)
 - [ ] 狮蝎 / Manticore — 时代/XX — `215_mantic_epoque#19`
 - [ ] 玫拉 / Melanite — 时代/XXXIII — `4006_melnte_epoque#33`
 - [ ] 瑰盐 / Rose Salt — 成就之星/VII — `4163_rosesa_game#7`
 - [ ] 白金 / Platinum — 珊瑚海岸/III — `204_platnm_summer#3`
 - [ ] 白面鸮 / Ptilopsis — 0011/韵系列/IV — `128_plosis_yun#4`
 - [x] 白面鸮 / Ptilopsis — 时代/III — `128_plosis_epoque#3` — [package](pets/ptilopsis-epoque-3)
-- [ ] 真理 / Истина — 罗德厨房 — `195_glassb_kitchen#1`
+- [x] 真理 / Истина — 罗德厨房 — `195_glassb_kitchen#1` — [package](pets/istina-kitchen-1)
 - [ ] 石棉 / Asbestos — 0011/飙系列/III — `378_asbest_whirlwind#3`
 - [ ] 祐天寺若麦 / Yūtenji Nyamu — Ave Mujica — `4185_amoris_avemujica#1`
 - [ ] 稀音 / Scene — 时代/XXII — `336_folivo_epoque#22`
@@ -939,7 +939,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 艾雅法拉 / Eyjafjalla — 三丽鸥家族/II — `180_amgoat_sanrio#2`
 - [ ] 艾雅法拉 / Eyjafjalla — 珊瑚海岸/V — `180_amgoat_summer#5`
 - [ ] 荒芜拉普兰德 / Lappland the Decadenza — 忒斯特收藏/XVII — 异格 / alternate — `1038_whitw2_sale#15`
-- [ ] 莫斯提马 / Mostima — 时代/V — `213_mostma_epoque#5`
+- [x] 莫斯提马 / Mostima — 时代/V — `213_mostma_epoque#5` — [package](pets/mostima-epoque-5)
 - [ ] 莫斯提马 / Mostima — 音律联觉/VI — `213_mostma_ambiencesynesthesia#6`
 - [ ] 莱伊 / Ray — 珊瑚海岸/XXII — `4117_ray_summer#22`
 - [ ] 莱伊 / Ray — 闪耀阶梯/II — `4117_ray_shining#2`
@@ -978,7 +978,7 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [ ] 魔王 / Civilight Eterna — 时代/XLIX — `4134_cetsyr_epoque#50`
 - [ ] 鸿雪 / Позёмка — 0011/韵系列/VII — `4055_bgsnow_yun#7`
 - [ ] 鸿雪 / Позёмка — 生命之地/VII — `4055_bgsnow_wild#7`
-- [ ] 麦哲伦 / Magallan — 罗德厨房 — `248_mgllan_kitchen#1`
+- [x] 麦哲伦 / Magallan — 罗德厨房 — `248_mgllan_kitchen#1` — [package](pets/magallan-kitchen-1)
 - [ ] 黍 / Shu — 0011制造/XI — `2025_shu_nian#11`
 - [x] 黑 / Schwarz — 冰原信使/I — `340_shwaz_snow#1` — [package](pets/schwarz-snow-1)
 - [ ] 黑 / Schwarz — 雷神推进者 — `340_shwaz_striker#1`
