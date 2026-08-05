@@ -10,11 +10,11 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-CATALOG = ROOT / "registry" / "ark-models-operator-chibis-2026-07-13.csv"
+CATALOG = ROOT / "registry" / "ark-models-operator-chibis-2026-08-02.csv"
 REGISTRY = ROOT / "registry" / "pets.json"
 OUTPUT = ROOT / "PROGRESS.md"
-CATALOG_DATE = "2026-07-13"
-CATALOG_COMMIT = "3619a9a7268ec049dbbb30d1cff0ffa6d3fdf5ed"
+CATALOG_DATE = "2026-08-02"
+CATALOG_COMMIT = "3745e5c6e10b5252b2a5e1f1841ebef62b7ef15b"
 
 
 def escape(value: str) -> str:

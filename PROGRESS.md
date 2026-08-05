@@ -11,11 +11,11 @@ The collection will expand gradually in CN release order, with outfits maintaine
 
 | 类别 / Category | 已完成 / Done | 总数 / Total | 进度 / Progress |
 |---|---:|---:|---:|
-| 默认干员 / Default operators | 420 | 420 | 100.0% |
-| 皮肤 / Outfits | 65 | 506 | 12.8% |
-| **合计 / Total** | **485** | **926** | **52.4%** |
+| 默认干员 / Default operators | 421 | 425 | 99.1% |
+| 皮肤 / Outfits | 65 | 511 | 12.7% |
+| **合计 / Total** | **486** | **936** | **51.9%** |
 
-上游目录快照 / Upstream catalog snapshot: `2026-07-13`, Ark-Models commit `3619a9a7268ec049dbbb30d1cff0ffa6d3fdf5ed` (`zh_CN`).
+上游目录快照 / Upstream catalog snapshot: `2026-08-02`, Ark-Models commit `3745e5c6e10b5252b2a5e1f1841ebef62b7ef15b` (`zh_CN`).
 
 ## 默认干员 / Default Operators
 
@@ -320,6 +320,8 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 食铁兽 / FEater — `241_panda` — [package](pets/feater)
 - [x] 齐尔查克 / Chilchuck — `4144_chilc` — [package](pets/chilchuck)
 - [x] 龙舌兰 / Tequila — `486_takila` — [package](pets/tequila)
+- [ ] 嘉辛塔 / Jacinta — `4237_jcinta`
+- [ ] 时隙 / Timeslot — `4236_tmslot`
 
 ### 6★
 
@@ -456,6 +458,9 @@ The collection will expand gradually in CN release order, with outfits maintaine
 - [x] 黍 / Shu — `2025_shu` — [package](pets/shu)
 - [x] 黑 / Schwarz — `340_shwaz` — [package](pets/schwarz)
 - [x] 黑键 / Ebenholz — `4046_ebnhlz` — [package](pets/ebenholz)
+- [x] 予愿安洁莉娜 / Angelina the Mellow Wish — 异格 / alternate — `1015_aglna2` — [package](pets/angelina-the-mellow-wish)
+- [ ] 机械师 / Mechanist — `4230_mcnist`
+- [ ] 珊比 / Thumpy — `4235_thumpy`
 
 ## 皮肤 / Outfits
 
@@ -786,6 +791,9 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [x] 食铁兽 / FEater — 玛尔特/I — `241_panda_marthe#1` — [package](pets/feater-marthe-1)
 - [ ] 龙舌兰 / Tequila — 闪耀阶梯/II — `486_takila_shining#2`
 - [ ] 龙舌兰 / Tequila — 音律联觉/II — `486_takila_ambiencesynesthesia#2`
+- [ ] Miss.Christine — 时代/LVI — `4198_christ_epoque#56`
+- [ ] 绮良 / Kirara — 时代/LVII — `478_kirara_epoque#57`
+- [ ] 蒂比 / Tippi — 时代/LVII — `4191_tippi_epoque#57`
 
 ### 6★
 
@@ -983,3 +991,5 @@ Outfit labels follow the collection metadata supplied by Ark-Models; official ou
 - [x] 黑 / Schwarz — 冰原信使/I — `340_shwaz_snow#1` — [package](pets/schwarz-snow-1)
 - [ ] 黑 / Schwarz — 雷神推进者 — `340_shwaz_striker#1`
 - [ ] 黑键 / Ebenholz — 斗争血脉/VI — `4046_ebnhlz_boc#6`
+- [ ] 斩业星熊 / Hoshiguma the Breacher — 0011/飙系列/XI — 异格 / alternate — `1044_hsgma2_whirlwind#11`
+- [ ] 纯烬艾雅法拉 / Eyjafjalla the Hvít Aska — 时代/LVII — 异格 / alternate — `1016_agoat2_epoque#57`
